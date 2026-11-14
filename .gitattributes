@@ -1,0 +1,2 @@
+# Keep the recorded CSV source bytes, including significant whitespace.
+inputs/*.csv -text -diff
