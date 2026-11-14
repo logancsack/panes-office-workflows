@@ -34,9 +34,9 @@ class HandoffTests(unittest.TestCase):
             self.assertEqual([p.name for p in directory.iterdir()], ['viewer.json'])
             if os.name == 'nt':
                 script = '''$ErrorActionPreference='Stop'
-$acl = Get-Acl -LiteralPath $env:PANES_HANDOFF_FILE
+$acl = [System.IO.File]::GetAccessControl($env:PANES_HANDOFF_FILE)
 $sid = [System.Security.Principal.WindowsIdentity]::GetCurrent().User.Value
-$parent = Get-Acl -LiteralPath (Split-Path -Parent $env:PANES_HANDOFF_FILE)
+$parent = [System.IO.Directory]::GetAccessControl([System.IO.Path]::GetDirectoryName($env:PANES_HANDOFF_FILE))
 if (-not $parent.AreAccessRulesProtected) { throw 'Unprotected directory' }
 foreach ($rule in $acl.Access) {
   if ($rule.IdentityReference.Translate([System.Security.Principal.SecurityIdentifier]).Value -ne $sid) { throw 'Unexpected reader' }

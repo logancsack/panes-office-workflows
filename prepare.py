@@ -25,7 +25,7 @@ $acl = [System.Security.AccessControl.DirectorySecurity]::new()
 $acl.SetAccessRuleProtection($true, $false)
 $rule = [System.Security.AccessControl.FileSystemAccessRule]::new($sid, [System.Security.AccessControl.FileSystemRights]::FullControl, [System.Security.AccessControl.InheritanceFlags]'ContainerInherit,ObjectInherit', [System.Security.AccessControl.PropagationFlags]::None, [System.Security.AccessControl.AccessControlType]::Allow)
 $acl.AddAccessRule($rule)
-Set-Acl -LiteralPath $env:PANES_HANDOFF_DIRECTORY -AclObject $acl
+[System.IO.Directory]::SetAccessControl($env:PANES_HANDOFF_DIRECTORY, $acl)
 '''
         result = subprocess.run(
             ['powershell.exe', '-NoProfile', '-NonInteractive', '-Command', script],
