@@ -1,0 +1,56 @@
+name: Publish Panes desktop connection
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: panes-desktop-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      id-token: write
+    defaults:
+      run:
+        working-directory: integrations/desktop
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python -m pip install uv==0.13.6
+      - run: python build.py
+      - run: npx --yes @anthropic-ai/mcpb@2.1.2 validate manifest.json
+      - run: uv run --locked smoke_test.py
+      - run: python registry.py
+      - name: Publish immutable release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          version=$(python -c 'import json; print(json.load(open("manifest.json"))["version"])')
+          tag="desktop-v$version"
+          if gh release view "$tag" > /dev/null 2>&1; then
+            mkdir -p dist/existing
+            gh release download "$tag" --pattern "panes-$version.mcpb" --dir dist/existing
+            cmp "dist/panes-$version.mcpb" "dist/existing/panes-$version.mcpb"
+          else
+            gh release create "$tag" "dist/panes-$version.mcpb" "dist/panes-$version.mcpb.sha256" dist/server.json --target "$GITHUB_SHA" --title "Panes desktop connection $version" --notes-file release-notes.md --latest=false
+          fi
+      - name: Install verified registry publisher
+        run: |
+          set -euo pipefail
+          curl -fsSL https://github.com/modelcontextprotocol/registry/releases/download/v1.8.9/mcp-publisher_linux_amd64.tar.gz -o /tmp/mcp-publisher.tar.gz
+          echo '4d527ca8f1ced0394c962dc925c2a4a4addef441cbefd62501c875e9481823a8  /tmp/mcp-publisher.tar.gz' | sha256sum -c -
+          tar -xzf /tmp/mcp-publisher.tar.gz -C /tmp mcp-publisher
+      - name: Authenticate and publish registry metadata
+        run: |
+          /tmp/mcp-publisher login github-oidc
+          /tmp/mcp-publisher publish dist/server.json

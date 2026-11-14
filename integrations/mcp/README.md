@@ -1,5 +1,7 @@
 # Connect an MCP-capable agent to Panes
 
+For a desktop client with MCPB 0.4/UV support, see the [Panes desktop bundle](../desktop/README.md). The manual connection below works with other stdio MCP clients.
+
 Python 3.11 or later. Panes SDK 0.1.3 is distributed directly; do not install another project's similarly named PyPI package.
 
 ```sh
