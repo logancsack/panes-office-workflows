@@ -1,0 +1,367 @@
+﻿{
+    "powerPointVersion":  "16.0",
+    "checks":  {
+                   "B10":  0,
+                   "B3":  483,
+                   "B8":  0,
+                   "B7":  0,
+                   "B9":  0,
+                   "B4":  480,
+                   "B6":  0,
+                   "B5":  3
+               },
+    "charts":  [
+                   {
+                       "series":  [
+                                      {
+                                          "categories":  [
+                                                             "Sales",
+                                                             "Engineering",
+                                                             "G\u0026A"
+                                                         ],
+                                          "values":  [
+                                                         179000,
+                                                         350000,
+                                                         116000
+                                                     ],
+                                          "name":  "Budget"
+                                      },
+                                      {
+                                          "categories":  [
+                                                             "Sales",
+                                                             "Engineering",
+                                                             "G\u0026A"
+                                                         ],
+                                          "values":  [
+                                                         193500,
+                                                         374000,
+                                                         119000
+                                                     ],
+                                          "name":  "Actual"
+                                      }
+                                  ],
+                       "name":  "DepartmentChart",
+                       "linked":  false,
+                       "slide":  1
+                   },
+                   {
+                       "series":  [
+                                      {
+                                          "categories":  [
+                                                             "Payroll",
+                                                             "Cloud",
+                                                             "Travel",
+                                                             "Software"
+                                                         ],
+                                          "values":  [
+                                                         2000,
+                                                         28000,
+                                                         10500,
+                                                         1000
+                                                     ],
+                                          "name":  "Over budget"
+                                      }
+                                  ],
+                       "name":  "VarianceChart",
+                       "linked":  false,
+                       "slide":  2
+                   }
+               ],
+    "report":  {
+                   "F15":  {
+                               "formula":  "=IF(D15\u003e0,\"Unfavorable\",IF(D15\u003c0,\"Favorable\",\"On plan\"))",
+                               "value":  "Unfavorable"
+                           },
+                   "C24":  {
+                               "formula":  "=SUMIFS(Actuals[Amount],Actuals[Category],$A24,Actuals[Period],$B$3)",
+                               "value":  124000
+                           },
+                   "C6":  {
+                              "formula":  "=SUMIFS(Actuals[Amount],Actuals[Department],$A6,Actuals[Period],$B$3)",
+                              "value":  193500
+                          },
+                   "C9":  {
+                              "formula":  "=SUM(C6:C8)",
+                              "value":  686500
+                          },
+                   "F14":  {
+                               "formula":  "=IF(D14\u003e0,\"Unfavorable\",IF(D14\u003c0,\"Favorable\",\"On plan\"))",
+                               "value":  "Unfavorable"
+                           },
+                   "F24":  {
+                               "formula":  "=IF(D24\u003e0,\"Unfavorable\",IF(D24\u003c0,\"Favorable\",\"On plan\"))",
+                               "value":  "Unfavorable"
+                           },
+                   "A24":  {
+                               "formula":  "Cloud",
+                               "value":  "Cloud"
+                           },
+                   "B23":  {
+                               "formula":  "=SUMIFS(Plan[Budget],Plan[Category],$A23,Plan[Period],$B$3)",
+                               "value":  470000
+                           },
+                   "B9":  {
+                              "formula":  "=SUM(B6:B8)",
+                              "value":  645000
+                          },
+                   "F23":  {
+                               "formula":  "=IF(D23\u003e0,\"Unfavorable\",IF(D23\u003c0,\"Favorable\",\"On plan\"))",
+                               "value":  "Unfavorable"
+                           },
+                   "E26":  {
+                               "formula":  "=IF(B26=0,NA(),D26/ABS(B26))",
+                               "value":  0.0196078431372549
+                           },
+                   "C26":  {
+                               "formula":  "=SUMIFS(Actuals[Amount],Actuals[Category],$A26,Actuals[Period],$B$3)",
+                               "value":  52000
+                           },
+                   "D9":  {
+                              "formula":  "=C9-B9",
+                              "value":  41500
+                          },
+                   "B16":  {
+                               "formula":  "=SUMIFS(Plan[Budget],Plan[Department],$A16,Plan[Period],\"\u003e=\"\u0026LEFT($B$3,4)\u0026\"-01\",Plan[Period],\"\u003c=\"\u0026$B$3)",
+                               "value":  1107800
+                           },
+                   "B24":  {
+                               "formula":  "=SUMIFS(Plan[Budget],Plan[Category],$A24,Plan[Period],$B$3)",
+                               "value":  96000
+                           },
+                   "F9":  {
+                              "formula":  "=IF(D9\u003e0,\"Unfavorable\",IF(D9\u003c0,\"Favorable\",\"On plan\"))",
+                              "value":  "Unfavorable"
+                          },
+                   "A9":  {
+                              "formula":  "Total",
+                              "value":  "Total"
+                          },
+                   "F7":  {
+                              "formula":  "=IF(D7\u003e0,\"Unfavorable\",IF(D7\u003c0,\"Favorable\",\"On plan\"))",
+                              "value":  "Unfavorable"
+                          },
+                   "A7":  {
+                              "formula":  "Engineering",
+                              "value":  "Engineering"
+                          },
+                   "E23":  {
+                               "formula":  "=IF(B23=0,NA(),D23/ABS(B23))",
+                               "value":  0.00425531914893617
+                           },
+                   "C15":  {
+                               "formula":  "=SUMIFS(Actuals[Amount],Actuals[Department],$A15,Actuals[Period],\"\u003e=\"\u0026LEFT($B$3,4)\u0026\"-01\",Actuals[Period],\"\u003c=\"\u0026$B$3)",
+                               "value":  3365832.0000000009
+                           },
+                   "F16":  {
+                               "formula":  "=IF(D16\u003e0,\"Unfavorable\",IF(D16\u003c0,\"Favorable\",\"On plan\"))",
+                               "value":  "Unfavorable"
+                           },
+                   "D15":  {
+                               "formula":  "=C15-B15",
+                               "value":  23332.000000000931
+                           },
+                   "C23":  {
+                               "formula":  "=SUMIFS(Actuals[Amount],Actuals[Category],$A23,Actuals[Period],$B$3)",
+                               "value":  472000
+                           },
+                   "A17":  {
+                               "formula":  "Total",
+                               "value":  "Total"
+                           },
+                   "B6":  {
+                              "formula":  "=SUMIFS(Plan[Budget],Plan[Department],$A6,Plan[Period],$B$3)",
+                              "value":  179000
+                          },
+                   "A15":  {
+                               "formula":  "Engineering",
+                               "value":  "Engineering"
+                           },
+                   "E16":  {
+                               "formula":  "=IF(B16=0,NA(),D16/ABS(B16))",
+                               "value":  0.0020491063368839142
+                           },
+                   "D8":  {
+                              "formula":  "=C8-B8",
+                              "value":  3000
+                          },
+                   "E24":  {
+                               "formula":  "=IF(B24=0,NA(),D24/ABS(B24))",
+                               "value":  0.29166666666666669
+                           },
+                   "D17":  {
+                               "formula":  "=C17-B17",
+                               "value":  41008.000000000931
+                           },
+                   "B15":  {
+                               "formula":  "=SUMIFS(Plan[Budget],Plan[Department],$A15,Plan[Period],\"\u003e=\"\u0026LEFT($B$3,4)\u0026\"-01\",Plan[Period],\"\u003c=\"\u0026$B$3)",
+                               "value":  3342500
+                           },
+                   "D23":  {
+                               "formula":  "=C23-B23",
+                               "value":  2000
+                           },
+                   "B25":  {
+                               "formula":  "=SUMIFS(Plan[Budget],Plan[Category],$A25,Plan[Period],$B$3)",
+                               "value":  28000
+                           },
+                   "F8":  {
+                              "formula":  "=IF(D8\u003e0,\"Unfavorable\",IF(D8\u003c0,\"Favorable\",\"On plan\"))",
+                              "value":  "Unfavorable"
+                          },
+                   "F6":  {
+                              "formula":  "=IF(D6\u003e0,\"Unfavorable\",IF(D6\u003c0,\"Favorable\",\"On plan\"))",
+                              "value":  "Unfavorable"
+                          },
+                   "C8":  {
+                              "formula":  "=SUMIFS(Actuals[Amount],Actuals[Department],$A8,Actuals[Period],$B$3)",
+                              "value":  119000
+                          },
+                   "D6":  {
+                              "formula":  "=C6-B6",
+                              "value":  14500
+                          },
+                   "A8":  {
+                              "formula":  "G\u0026A",
+                              "value":  "G\u0026A"
+                          },
+                   "D26":  {
+                               "formula":  "=C26-B26",
+                               "value":  1000
+                           },
+                   "F17":  {
+                               "formula":  "=IF(D17\u003e0,\"Unfavorable\",IF(D17\u003c0,\"Favorable\",\"On plan\"))",
+                               "value":  "Unfavorable"
+                           },
+                   "D25":  {
+                               "formula":  "=C25-B25",
+                               "value":  10500
+                           },
+                   "E8":  {
+                              "formula":  "=IF(B8=0,NA(),D8/ABS(B8))",
+                              "value":  0.025862068965517241
+                          },
+                   "C17":  {
+                               "formula":  "=SUM(C14:C16)",
+                               "value":  6200758.0000000009
+                           },
+                   "E6":  {
+                              "formula":  "=IF(B6=0,NA(),D6/ABS(B6))",
+                              "value":  0.081005586592178769
+                          },
+                   "E15":  {
+                               "formula":  "=IF(B15=0,NA(),D15/ABS(B15))",
+                               "value":  0.0069804038893046911
+                           },
+                   "D7":  {
+                              "formula":  "=C7-B7",
+                              "value":  24000
+                          },
+                   "E25":  {
+                               "formula":  "=IF(B25=0,NA(),D25/ABS(B25))",
+                               "value":  0.375
+                           },
+                   "D14":  {
+                               "formula":  "=C14-B14",
+                               "value":  15405.999999999767
+                           },
+                   "B14":  {
+                               "formula":  "=SUMIFS(Plan[Budget],Plan[Department],$A14,Plan[Period],\"\u003e=\"\u0026LEFT($B$3,4)\u0026\"-01\",Plan[Period],\"\u003c=\"\u0026$B$3)",
+                               "value":  1709450
+                           },
+                   "A16":  {
+                               "formula":  "G\u0026A",
+                               "value":  "G\u0026A"
+                           },
+                   "B17":  {
+                               "formula":  "=SUM(B14:B16)",
+                               "value":  6159750
+                           },
+                   "A6":  {
+                              "formula":  "Sales",
+                              "value":  "Sales"
+                          },
+                   "F25":  {
+                               "formula":  "=IF(D25\u003e0,\"Unfavorable\",IF(D25\u003c0,\"Favorable\",\"On plan\"))",
+                               "value":  "Unfavorable"
+                           },
+                   "C16":  {
+                               "formula":  "=SUMIFS(Actuals[Amount],Actuals[Department],$A16,Actuals[Period],\"\u003e=\"\u0026LEFT($B$3,4)\u0026\"-01\",Actuals[Period],\"\u003c=\"\u0026$B$3)",
+                               "value":  1110070
+                           },
+                   "C25":  {
+                               "formula":  "=SUMIFS(Actuals[Amount],Actuals[Category],$A25,Actuals[Period],$B$3)",
+                               "value":  38500
+                           },
+                   "C7":  {
+                              "formula":  "=SUMIFS(Actuals[Amount],Actuals[Department],$A7,Actuals[Period],$B$3)",
+                              "value":  374000
+                          },
+                   "A23":  {
+                               "formula":  "Payroll",
+                               "value":  "Payroll"
+                           },
+                   "A26":  {
+                               "formula":  "Software",
+                               "value":  "Software"
+                           },
+                   "B26":  {
+                               "formula":  "=SUMIFS(Plan[Budget],Plan[Category],$A26,Plan[Period],$B$3)",
+                               "value":  51000
+                           },
+                   "A25":  {
+                               "formula":  "Travel",
+                               "value":  "Travel"
+                           },
+                   "C14":  {
+                               "formula":  "=SUMIFS(Actuals[Amount],Actuals[Department],$A14,Actuals[Period],\"\u003e=\"\u0026LEFT($B$3,4)\u0026\"-01\",Actuals[Period],\"\u003c=\"\u0026$B$3)",
+                               "value":  1724855.9999999998
+                           },
+                   "D24":  {
+                               "formula":  "=C24-B24",
+                               "value":  28000
+                           },
+                   "B7":  {
+                              "formula":  "=SUMIFS(Plan[Budget],Plan[Department],$A7,Plan[Period],$B$3)",
+                              "value":  350000
+                          },
+                   "E9":  {
+                              "formula":  "=IF(B9=0,NA(),D9/ABS(B9))",
+                              "value":  0.064341085271317836
+                          },
+                   "F26":  {
+                               "formula":  "=IF(D26\u003e0,\"Unfavorable\",IF(D26\u003c0,\"Favorable\",\"On plan\"))",
+                               "value":  "Unfavorable"
+                           },
+                   "B8":  {
+                              "formula":  "=SUMIFS(Plan[Budget],Plan[Department],$A8,Plan[Period],$B$3)",
+                              "value":  116000
+                          },
+                   "E7":  {
+                              "formula":  "=IF(B7=0,NA(),D7/ABS(B7))",
+                              "value":  0.068571428571428575
+                          },
+                   "E14":  {
+                               "formula":  "=IF(B14=0,NA(),D14/ABS(B14))",
+                               "value":  0.0090122554037847073
+                           },
+                   "A14":  {
+                               "formula":  "Sales",
+                               "value":  "Sales"
+                           },
+                   "E17":  {
+                               "formula":  "=IF(B17=0,NA(),D17/ABS(B17))",
+                               "value":  0.0066574130443607174
+                           },
+                   "D16":  {
+                               "formula":  "=C16-B16",
+                               "value":  2270
+                           }
+               },
+    "queries":  [
+                    {
+                        "formula":  "let\n Source=Excel.CurrentWorkbook(){[Name=\"RawExport\"]}[Content],\n Trimmed=Table.TransformColumns(Source,{{\"DocID\",each Text.Trim(Text.From(_)),type text},{\"PostingDate\",each Text.Trim(Text.From(_)),type text},{\"CostCenter\",each Text.Trim(Text.From(_)),type text},{\"Account\",each Text.Proper(Text.Trim(Text.From(_))),type text},{\"Amount\",each Text.Trim(Text.From(_)),type text}}),\n Typed=Table.TransformColumns(Trimmed,{{\"PostingDate\",each Date.FromText(_,[Culture=\"en-US\"]),type date},{\"Amount\",each Number.FromText(Text.Remove(_,{\"$\",\",\",\" \"}),\"en-US\"),Currency.Type}}),\n Unique=Table.Distinct(Typed,{\"DocID\"}),\n Department=Table.AddColumn(Unique,\"Department\",each Record.Field([#\"100\"=\"Sales\",#\"200\"=\"Engineering\",#\"300\"=\"G\u0026A\"],[CostCenter]),type text),\n Period=Table.AddColumn(Department,\"Period\",each Date.ToText([PostingDate],\"yyyy-MM\"),type text),\n Renamed=Table.RenameColumns(Period,{{\"Account\",\"Category\"}}),\n Output=Table.SelectColumns(Renamed,{\"DocID\",\"PostingDate\",\"Period\",\"Department\",\"Category\",\"Amount\"})\nin Output",
+                        "name":  "Clean_Actuals"
+                    }
+                ],
+    "excelVersion":  "16.0"
+}

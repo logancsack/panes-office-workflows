@@ -1,0 +1,198 @@
+{
+  "capture": "Native Windows gdigrab desktop recording, 1280x960, 20 fps, no audio",
+  "date": "2026-11-11",
+  "applications": [
+    "Microsoft Excel 16.0",
+    "Microsoft PowerPoint 16.0"
+  ],
+  "actions": "Panes keyboard/mouse, clipboard and PowerShell desktop Office COM automation",
+  "edits": "Cuts, playback speed, crop, scale and compression only; no generated, composited or interpolated UI frames",
+  "clips": [
+    {
+      "stage": "source",
+      "start": 35.5,
+      "end": 39.5,
+      "speed": 1,
+      "phone_crop": [
+        0,
+        0,
+        640,
+        768
+      ]
+    },
+    {
+      "stage": "clean-start",
+      "start": 39.5,
+      "end": 42.0,
+      "speed": 1.125,
+      "phone_crop": [
+        0,
+        0,
+        800,
+        960
+      ]
+    },
+    {
+      "stage": "clean-data",
+      "start": 42.0,
+      "end": 44.0,
+      "speed": 1.125,
+      "phone_crop": [
+        300,
+        0,
+        640,
+        768
+      ]
+    },
+    {
+      "stage": "formulas",
+      "start": 45.3,
+      "end": 54.3,
+      "speed": 1.5,
+      "phone_crop": [
+        0,
+        0,
+        640,
+        768
+      ]
+    },
+    {
+      "stage": "model",
+      "start": 82.0,
+      "end": 86.0,
+      "speed": 1,
+      "phone_crop": [
+        0,
+        0,
+        640,
+        768
+      ]
+    },
+    {
+      "stage": "pivot",
+      "start": 88.8,
+      "end": 91.0,
+      "speed": 1,
+      "phone_crop": [
+        0,
+        0,
+        640,
+        768
+      ]
+    },
+    {
+      "stage": "formula-review",
+      "start": 91.0,
+      "end": 94.3,
+      "speed": 1,
+      "phone_crop": [
+        0,
+        0,
+        640,
+        768
+      ]
+    },
+    {
+      "stage": "transfer",
+      "start": 96.2,
+      "end": 99.6,
+      "speed": 1,
+      "phone_crop": [
+        0,
+        0,
+        800,
+        960
+      ]
+    },
+    {
+      "stage": "checks",
+      "start": 164.8,
+      "end": 167.8,
+      "speed": 1,
+      "phone_crop": [
+        0,
+        0,
+        800,
+        960
+      ]
+    },
+    {
+      "stage": "saved-report",
+      "start": 168.8,
+      "end": 171.8,
+      "speed": 1,
+      "phone_crop": [
+        0,
+        0,
+        640,
+        768
+      ]
+    },
+    {
+      "stage": "summary",
+      "start": 172.8,
+      "end": 174.6,
+      "speed": 1,
+      "phone_crop": [
+        0,
+        0,
+        800,
+        960
+      ]
+    },
+    {
+      "stage": "summary-figures",
+      "start": 174.6,
+      "end": 177.6,
+      "speed": 1,
+      "phone_crop": [
+        480,
+        0,
+        800,
+        960
+      ]
+    },
+    {
+      "stage": "drivers",
+      "start": 178.6,
+      "end": 183.6,
+      "speed": 1.25,
+      "phone_crop": [
+        20,
+        0,
+        800,
+        960
+      ]
+    }
+  ],
+  "raw_sha256": {
+    "office-unedited.mp4": "72d0663cc96c1d786163b6c9c972bd2f49fb4f22c0ff012d1b330fb7d952bc4d"
+  },
+  "assets": {
+    "office-report-phone.mp4": {
+      "bytes": 1647632,
+      "sha256": "45133ca669f89643427941aabdb418b22aec03445878825f2bba7a7d4813ceb4"
+    },
+    "office-report-phone.webm": {
+      "bytes": 1803402,
+      "sha256": "86bae5a63faf97c7411837b71cccc4d4c47da40af292b0cfb98a6c1fc8aacdd4"
+    },
+    "office-report-phone.webp": {
+      "bytes": 61824,
+      "sha256": "8fb8ce8a11dab51fa2fb4dad74b2d14856d2b2159878660e35ccc1e007191868"
+    },
+    "office-report.mp4": {
+      "bytes": 1969762,
+      "sha256": "08343fc75b240d29b1f6dd324be51bc1b8eab9f49653386eee8a52fc1825a202"
+    },
+    "office-report.webm": {
+      "bytes": 1867708,
+      "sha256": "981eae14a63b45a8e933c3309d34eb620fc4201e063b0cebda4765d7ba0d0600"
+    },
+    "office-report.webp": {
+      "bytes": 56140,
+      "sha256": "e1554e2f520a50eb73ec48d65c34e80a4ae7f0519ee7d6a905189f0c9d208575"
+    }
+  },
+  "original_capture_filename": "office-final-raw.mp4"
+}

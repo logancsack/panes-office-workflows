@@ -1,0 +1,26 @@
+{
+  "outputs/October close.xlsx": {
+    "sha256": "63533545b191d4d27d8c123444adccc27f19478f8c97e1d106dafacc811fb2e7",
+    "bytes": 85189
+  },
+  "outputs/October review.pptx": {
+    "sha256": "1803aab06a5f0f23363d4c51e521e5eaffc1a4ab96e1cafac87a5eab5e4751f7",
+    "bytes": 225240
+  },
+  "inputs/GL-export.csv": {
+    "sha256": "77fe3a95defc5ae4b8b7fecbcc10f6602182bf9432e2294f5b2d6918093edc14",
+    "bytes": 31731
+  },
+  "inputs/Budget.csv": {
+    "sha256": "a052748021bb2c1cfd0963fa58b6865a0cdf3c5a2185c0b6c99cae44fdbe888c",
+    "bytes": 3919
+  },
+  "media/office-unedited.mp4": {
+    "sha256": "72d0663cc96c1d786163b6c9c972bd2f49fb4f22c0ff012d1b330fb7d952bc4d",
+    "bytes": 3799992
+  },
+  "media/office-report.mp4": {
+    "sha256": "08343fc75b240d29b1f6dd324be51bc1b8eab9f49653386eee8a52fc1825a202",
+    "bytes": 1969762
+  }
+}

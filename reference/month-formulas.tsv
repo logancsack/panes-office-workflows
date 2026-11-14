@@ -1,0 +1,4 @@
+=SUMIFS(Plan[Budget],Plan[Department],$A6,Plan[Period],$B$3)	=SUMIFS(Actuals[Amount],Actuals[Department],$A6,Actuals[Period],$B$3)	=C6-B6	=IF(B6=0,NA(),D6/ABS(B6))	=IF(D6>0,"Unfavorable",IF(D6<0,"Favorable","On plan"))
+=SUMIFS(Plan[Budget],Plan[Department],$A7,Plan[Period],$B$3)	=SUMIFS(Actuals[Amount],Actuals[Department],$A7,Actuals[Period],$B$3)	=C7-B7	=IF(B7=0,NA(),D7/ABS(B7))	=IF(D7>0,"Unfavorable",IF(D7<0,"Favorable","On plan"))
+=SUMIFS(Plan[Budget],Plan[Department],$A8,Plan[Period],$B$3)	=SUMIFS(Actuals[Amount],Actuals[Department],$A8,Actuals[Period],$B$3)	=C8-B8	=IF(B8=0,NA(),D8/ABS(B8))	=IF(D8>0,"Unfavorable",IF(D8<0,"Favorable","On plan"))
+=SUM(B6:B8)	=SUM(C6:C8)	=C9-B9	=IF(B9=0,NA(),D9/ABS(B9))	=IF(D9>0,"Unfavorable",IF(D9<0,"Favorable","On plan"))

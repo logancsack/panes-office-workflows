@@ -1,0 +1,93 @@
+{
+  "result": "PASS",
+  "raw_rows": 483,
+  "clean_documents": 480,
+  "duplicates_removed": 3,
+  "formula_outputs_verified": 60,
+  "financial_tie_outs": 5,
+  "native_pivot_tables": 1,
+  "native_excel_charts": 2,
+  "editable_powerpoint_charts": 2,
+  "embedded_workbooks": 2,
+  "external_deck_links": 0,
+  "report": {
+    "6": {
+      "budget": "179000",
+      "actual": "193500.00",
+      "variance": "14500.00",
+      "percent": "0.08100558659217877094972067039"
+    },
+    "7": {
+      "budget": "350000",
+      "actual": "374000.00",
+      "variance": "24000.00",
+      "percent": "0.06857142857142857142857142857"
+    },
+    "8": {
+      "budget": "116000",
+      "actual": "119000.00",
+      "variance": "3000.00",
+      "percent": "0.02586206896551724137931034483"
+    },
+    "9": {
+      "budget": "645000",
+      "actual": "686500.00",
+      "variance": "41500.00",
+      "percent": "0.06434108527131782945736434109"
+    },
+    "14": {
+      "budget": "1709450.00",
+      "actual": "1724856.00",
+      "variance": "15406.00",
+      "percent": "0.009012255403784843078183041329"
+    },
+    "15": {
+      "budget": "3342500.00",
+      "actual": "3365832.00",
+      "variance": "23332.00",
+      "percent": "0.006980403889304412864622288706"
+    },
+    "16": {
+      "budget": "1107800.00",
+      "actual": "1110070.00",
+      "variance": "2270.00",
+      "percent": "0.002049106336883914063910453150"
+    },
+    "17": {
+      "budget": "6159750.00",
+      "actual": "6200758.00",
+      "variance": "41008.00",
+      "percent": "0.006657413044360566581435934900"
+    },
+    "23": {
+      "budget": "470000",
+      "actual": "472000.00",
+      "variance": "2000.00",
+      "percent": "0.004255319148936170212765957447"
+    },
+    "24": {
+      "budget": "96000",
+      "actual": "124000.00",
+      "variance": "28000.00",
+      "percent": "0.2916666666666666666666666667"
+    },
+    "25": {
+      "budget": "28000",
+      "actual": "38500.00",
+      "variance": "10500.00",
+      "percent": "0.375"
+    },
+    "26": {
+      "budget": "51000",
+      "actual": "52000.00",
+      "variance": "1000.00",
+      "percent": "0.01960784313725490196078431373"
+    }
+  },
+  "hashes": {
+    "GL-export.csv": "77fe3a95defc5ae4b8b7fecbcc10f6602182bf9432e2294f5b2d6918093edc14",
+    "Budget.csv": "a052748021bb2c1cfd0963fa58b6865a0cdf3c5a2185c0b6c99cae44fdbe888c",
+    "October close.xlsx": "63533545b191d4d27d8c123444adccc27f19478f8c97e1d106dafacc811fb2e7",
+    "October review.pptx": "1803aab06a5f0f23363d4c51e521e5eaffc1a4ab96e1cafac87a5eab5e4751f7"
+  }
+}
