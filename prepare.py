@@ -21,9 +21,9 @@ def prepare_private_directory(path):
     if os.name == 'nt':
         script = '''$ErrorActionPreference = 'Stop'
 $sid = [System.Security.Principal.WindowsIdentity]::GetCurrent().User
-$acl = New-Object System.Security.AccessControl.DirectorySecurity
+$acl = [System.Security.AccessControl.DirectorySecurity]::new()
 $acl.SetAccessRuleProtection($true, $false)
-$rule = New-Object System.Security.AccessControl.FileSystemAccessRule($sid, 'FullControl', 'ContainerInherit,ObjectInherit', 'None', 'Allow')
+$rule = [System.Security.AccessControl.FileSystemAccessRule]::new($sid, [System.Security.AccessControl.FileSystemRights]::FullControl, [System.Security.AccessControl.InheritanceFlags]'ContainerInherit,ObjectInherit', [System.Security.AccessControl.PropagationFlags]::None, [System.Security.AccessControl.AccessControlType]::Allow)
 $acl.AddAccessRule($rule)
 Set-Acl -LiteralPath $env:PANES_HANDOFF_DIRECTORY -AclObject $acl
 '''
@@ -33,7 +33,8 @@ Set-Acl -LiteralPath $env:PANES_HANDOFF_DIRECTORY -AclObject $acl
             capture_output=True, text=True, timeout=30,
         )
         if result.returncode:
-            raise OSError('Could not restrict the private output directory to your Windows user.')
+            # This runs before a viewer is requested; stderr has no bearer URL.
+            raise OSError('Could not restrict the private output directory to your Windows user: ' + result.stderr.strip())
     else:
         path.chmod(0o700)
     return path
