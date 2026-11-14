@@ -14,6 +14,7 @@ jobs:
       - run: python validate.py
       - run: python prepare.py --dry-run
       - run: python -m py_compile prepare.py validate.py
+      - run: python -m unittest test_prepare.py
   desktop-bundle:
     timeout-minutes: 8
     strategy:
@@ -35,3 +36,5 @@ jobs:
       - run: python build.py
       - run: npx --yes @anthropic-ai/mcpb@2.1.2 validate manifest.json
       - run: uv run --locked smoke_test.py
+      - run: python -m unittest test_prepare.py
+        working-directory: .

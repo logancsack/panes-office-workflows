@@ -49,6 +49,8 @@ python prepare.py --machine YOUR_MACHINE_ID --execute
 
 It refuses non-running computers and an existing task directory. It creates a private browser handoff URL; do not post that URL publicly. The helper was checked against SDK 0.1.3 locally; the Office artifacts and recorded reference steps come from the actual Panes run. We have not spent new compute rerunning the helper against a fresh cloud computer.
 
+The handoff file is saved in `local-results/viewer.json`, restricted to your local user on Windows and POSIX. If uploads already finished but you need to save a fresh viewer link, run `python prepare.py --machine YOUR_MACHINE_ID --execute --viewer-only`. This does not create a task directory or upload files again.
+
 ## Reference implementation
 
 `reference/` contains the PowerShell COM steps, Power Query M, source-preserving input companion and formula tables used in the recording. These are **recorded stages**, with workbook/desktop preconditions; they are not a headless one-command application. [TASK.md](TASK.md) tells the agent how to use them, including the native chart clipboard handoff between Excel and PowerPoint. The viewer lets a person inspect that work.
