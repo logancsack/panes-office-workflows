@@ -38,3 +38,21 @@ jobs:
       - run: uv run --locked smoke_test.py
       - run: python -m unittest test_prepare.py
         working-directory: .
+  langchain-connection:
+    timeout-minutes: 8
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        working-directory: integrations/langchain
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install uv==0.13.6
+      - run: python ../desktop/build.py --prepare-sdk
+      - run: uv run --locked office_agent.py
+      - run: uv run --locked python -m unittest test_connection.py
