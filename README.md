@@ -24,10 +24,12 @@ Follow the [MCP setup](integrations/mcp/README.md) or use the [Claude Desktop ex
 
 Building with LangChain? The [runnable LangChain connection](integrations/langchain/README.md) checks MCP tool discovery locally without an account or model call. Its execution example uses the original compact expense task below.
 
+Using the OpenAI Agents SDK? The [runnable OpenAI connection](integrations/openai-agents/README.md) checks the real MCP transport and restricts the agent to one selected Windows computer. Discovery needs no account or model call; its execution example uses the original compact expense task.
+
 The [recorded native stages](monthly-close/recorded-steps) document the COM work performed in real Excel and PowerPoint. They are stateful steps with file and desktop preconditions, not a substitute UI or a headless rendering of Office.
 
 ## Original compact example
 
-The original expense-export demo remains in `inputs/`, `outputs/`, `reference/`, `media/`, `prepare.py` and `validate.py`. It demonstrates native Power Query cleanup, SUMIFS, a PivotTable and two embedded PowerPoint charts. Its original validator still runs with `python validate.py`; the upload helper is documented by `python prepare.py --help`. The multi-year monthly close is the expanded example above. The original upload helper saves private handoffs in `local-results/viewer.json`, restricted to your local user on Windows and POSIX. Use `python prepare.py --machine YOUR_MACHINE_ID --execute --viewer-only` to recover a viewer link after completed uploads, without uploading again.
+The [compact agent task](COMPACT_TASK.md) matches the root upload helper and both framework clients. The original expense-export demo remains in `inputs/`, `outputs/`, `reference/`, `media/`, `prepare.py` and `validate.py`. It demonstrates native Power Query cleanup, SUMIFS, a PivotTable and two embedded PowerPoint charts. Its original validator still runs with `python validate.py`; the upload helper is documented by `python prepare.py --help`. The multi-year monthly close is the expanded example above. The original upload helper saves private handoffs in `local-results/viewer.json`, restricted to your local user on Windows and POSIX. Use `python prepare.py --machine YOUR_MACHINE_ID --execute --viewer-only` to recover a viewer link after completed uploads, without uploading again.
 
 Panes gives an agent the Windows desktop, apps and files. Bring your agent through MCP or the SDKs. [Read the docs](https://usepanes.com/docs#mcp) or [open a workflow question](https://github.com/logancsack/panes-office-workflows/issues/new).

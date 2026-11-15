@@ -119,7 +119,7 @@ def parse_args():
     parser.add_argument("--execute", action="store_true", help="Permit model calls and work on the selected running computer.")
     parser.add_argument("--machine", help="Existing running Panes computer; no computer is created or started.")
     parser.add_argument("--model", help="Your LangChain model identifier, for example openai:YOUR_MODEL.")
-    parser.add_argument("--task-file", type=Path, default=ROOT / "TASK.md")
+    parser.add_argument("--task-file", type=Path, default=ROOT / "COMPACT_TASK.md")
     parser.add_argument("--max-steps", type=int, default=40)
     parser.add_argument("--max-seconds", type=int, default=900)
     args = parser.parse_args()
