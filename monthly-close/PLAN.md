@@ -11,3 +11,5 @@ Evolution: FY24 reporting mapping change; Jan25 acquisition; Apr25 service depar
 Next: generator + independent source validator; connect kept signed-in Panes computer via GTM thread setup; Excel recalculation and opening every file + PowerPoint checks; real recorded October roll-forward; page preview + draft PRs only; user review.
 
 Treasury review: monthly intercompany settlement pays all prior balances plus 80% of new charges. Acquisition closing member capital is $1m to fund working capital through seasonal demand. Independent validator rejects unfunded negative entity cash. This replaces the initial draft settlement assumption.
+
+Publication approved November 15, 2026: “The demo is fine. Get it live.” The review hold is satisfied. Release both changes after checks pass and verify the production page, recording and files at phone and desktop widths.

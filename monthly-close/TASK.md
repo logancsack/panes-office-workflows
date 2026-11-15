@@ -22,4 +22,4 @@ Expected October: revenue $1,988,001.06; EBITDA $90,142.13; net income $41,488.9
 
 ## Review gate
 
-The replacement recording, sample files and page preview need Logan's approval before publishing or merging the replacement. Keep both pull requests draft until approval. The original live example stays available during review.
+Publication approved November 15, 2026 after review of the replacement recording, sample files and page preview. Release both changes after their checks pass, then verify the live example and downloads.
