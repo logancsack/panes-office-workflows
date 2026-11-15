@@ -1,0 +1,26 @@
+Entity,Document,Counterparty,Invoice date,Aging band,Open USD
+100,202502-004153,Regional Building Services,2025-02-28,Current,8968.55
+100,202502-004154,Prairie HVAC Supply,2025-02-28,Current,16380.03
+100,202502-004155,Central Parts Distribution,2025-02-28,Current,12499.5
+100,202502-004156,Midwest Trade Services,2025-02-28,Current,14872.21
+100,202502-004157,Summit Fleet Supply,2025-02-28,Current,13441.81
+100,202502-004158,Cedar Controls Supply,2025-02-28,Current,15955.2
+100,202502-004159,Northstar Refrigeration,2025-02-28,Current,13849.04
+100,202502-004160,Valley Mechanical Parts,2025-02-28,Current,18307.14
+100,202502-004161,Regional Building Services,2025-02-28,Current,13429.65
+100,202502-004162,Prairie HVAC Supply,2025-02-28,Current,15329.1
+100,202502-004167,Central Parts Distribution,2025-02-28,Current,23650.85
+100,202502-004168,Midwest Trade Services,2025-02-28,Current,18323.18
+200,202502-004179,Midwest Trade Services,2025-02-28,Current,469.87
+200,202502-004180,Summit Fleet Supply,2025-02-28,Current,3298.17
+300,202502-004226,Central Parts Distribution,2025-02-28,Current,3077.27
+300,202502-004227,Midwest Trade Services,2025-02-28,Current,4856.11
+300,202502-004228,Summit Fleet Supply,2025-02-28,Current,5426.54
+300,202502-004229,Cedar Controls Supply,2025-02-28,Current,4096.95
+300,202502-004230,Northstar Refrigeration,2025-02-28,Current,4035.88
+300,202502-004231,Valley Mechanical Parts,2025-02-28,Current,5434.94
+300,202502-004232,Regional Building Services,2025-02-28,Current,4761.61
+300,202502-004233,Prairie HVAC Supply,2025-02-28,Current,4857.46
+300,202502-004234,Central Parts Distribution,2025-02-28,Current,1971.46
+300,202502-004239,Midwest Trade Services,2025-02-28,Current,7568.27
+300,202502-004240,Summit Fleet Supply,2025-02-28,Current,5863.42

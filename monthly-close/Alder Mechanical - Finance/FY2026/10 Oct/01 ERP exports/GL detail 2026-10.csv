@@ -1,0 +1,359 @@
+PostingDate,JournalID,Entity,Department,GLAccount,Description,Debit,Credit,Memo,Source
+2026-10-31,202610-007728,100,Balance Sheet,1100,Trade receivables,22548.68,0.0,Contract invoice batch 01 / branch Cedar Rapids,ERP
+2026-10-31,202610-007728,100,Planned Maintenance,4000,Service contracts,0.0,22548.68,Contract invoice batch 01 / branch Cedar Rapids,ERP
+2026-10-31,202610-007729,100,Balance Sheet,1100,Trade receivables,23325.77,0.0,Contract invoice batch 02 / branch Madison,ERP
+2026-10-31,202610-007729,100,Planned Maintenance,4000,Service contracts,0.0,23325.77,Contract invoice batch 02 / branch Madison,ERP
+2026-10-31,202610-007730,100,Balance Sheet,1100,Trade receivables,21795.44,0.0,Contract invoice batch 03 / branch Rockford,ERP
+2026-10-31,202610-007730,100,Planned Maintenance,4000,Service contracts,0.0,21795.44,Contract invoice batch 03 / branch Rockford,ERP
+2026-10-31,202610-007731,100,Balance Sheet,1100,Trade receivables,40096.98,0.0,Contract invoice batch 04 / branch Cedar Rapids,ERP
+2026-10-31,202610-007731,100,Planned Maintenance,4000,Service contracts,0.0,40096.98,Contract invoice batch 04 / branch Cedar Rapids,ERP
+2026-10-31,202610-007732,100,Balance Sheet,1100,Trade receivables,29487.63,0.0,Contract invoice batch 05 / branch Madison,ERP
+2026-10-31,202610-007732,100,Planned Maintenance,4000,Service contracts,0.0,29487.63,Contract invoice batch 05 / branch Madison,ERP
+2026-10-31,202610-007733,100,Balance Sheet,1100,Trade receivables,47383.28,0.0,Contract invoice batch 06 / branch Rockford,ERP
+2026-10-31,202610-007733,100,Planned Maintenance,4000,Service contracts,0.0,47383.28,Contract invoice batch 06 / branch Rockford,ERP
+2026-10-31,202610-007734,100,Balance Sheet,1100,Trade receivables,43395.34,0.0,Contract invoice batch 07 / branch Cedar Rapids,ERP
+2026-10-31,202610-007734,100,Planned Maintenance,4000,Service contracts,0.0,43395.34,Contract invoice batch 07 / branch Cedar Rapids,ERP
+2026-10-31,202610-007735,100,Balance Sheet,1100,Trade receivables,45590.65,0.0,Contract invoice batch 08 / branch Madison,ERP
+2026-10-31,202610-007735,100,Planned Maintenance,4000,Service contracts,0.0,45590.65,Contract invoice batch 08 / branch Madison,ERP
+2026-10-31,202610-007736,100,Balance Sheet,1100,Trade receivables,39969.05,0.0,Contract invoice batch 09 / branch Rockford,ERP
+2026-10-31,202610-007736,100,Planned Maintenance,4000,Service contracts,0.0,39969.05,Contract invoice batch 09 / branch Rockford,ERP
+2026-10-31,202610-007737,100,Balance Sheet,1100,Trade receivables,38857.43,0.0,Contract invoice batch 10 / branch Cedar Rapids,ERP
+2026-10-31,202610-007737,100,Planned Maintenance,4000,Service contracts,0.0,38857.43,Contract invoice batch 10 / branch Cedar Rapids,ERP
+2026-10-31,202610-007738,100,Balance Sheet,1100,Trade receivables,28720.06,0.0,Contract invoice batch 11 / branch Madison,ERP
+2026-10-31,202610-007738,100,Planned Maintenance,4000,Service contracts,0.0,28720.06,Contract invoice batch 11 / branch Madison,ERP
+2026-10-31,202610-007739,100,Balance Sheet,1100,Trade receivables,47007.31,0.0,Contract invoice batch 12 / branch Rockford,ERP
+2026-10-31,202610-007739,100,Planned Maintenance,4000,Service contracts,0.0,47007.31,Contract invoice batch 12 / branch Rockford,ERP
+2026-10-31,202610-007740,100,Balance Sheet,1100,Trade receivables,27719.1,0.0,Contract invoice batch 13 / branch Cedar Rapids,ERP
+2026-10-31,202610-007740,100,Planned Maintenance,4000,Service contracts,0.0,27719.1,Contract invoice batch 13 / branch Cedar Rapids,ERP
+2026-10-31,202610-007741,100,Balance Sheet,1100,Trade receivables,23320.6,0.0,Contract invoice batch 14 / branch Madison,ERP
+2026-10-31,202610-007741,100,Planned Maintenance,4000,Service contracts,0.0,23320.6,Contract invoice batch 14 / branch Madison,ERP
+2026-10-31,202610-007742,100,Balance Sheet,1100,Trade receivables,42216.58,0.0,Contract invoice batch 15 / branch Rockford,ERP
+2026-10-31,202610-007742,100,Planned Maintenance,4000,Service contracts,0.0,42216.58,Contract invoice batch 15 / branch Rockford,ERP
+2026-10-31,202610-007743,100,Balance Sheet,1100,Trade receivables,30871.72,0.0,Contract invoice batch 16 / branch Cedar Rapids,ERP
+2026-10-31,202610-007743,100,Planned Maintenance,4000,Service contracts,0.0,30871.72,Contract invoice batch 16 / branch Cedar Rapids,ERP
+2026-10-31,202610-007744,100,Balance Sheet,1100,Trade receivables,24511.86,0.0,Contract invoice batch 17 / branch Madison,ERP
+2026-10-31,202610-007744,100,Planned Maintenance,4000,Service contracts,0.0,24511.86,Contract invoice batch 17 / branch Madison,ERP
+2026-10-31,202610-007745,100,Balance Sheet,1100,Trade receivables,24938.64,0.0,Contract invoice batch 18 / branch Rockford,ERP
+2026-10-31,202610-007745,100,Planned Maintenance,4000,Service contracts,0.0,24938.64,Contract invoice batch 18 / branch Rockford,ERP
+2026-10-31,202610-007746,100,Balance Sheet,1100,Trade receivables,39203.91,0.0,Contract invoice batch 19 / branch Cedar Rapids,ERP
+2026-10-31,202610-007746,100,Planned Maintenance,4000,Service contracts,0.0,39203.91,Contract invoice batch 19 / branch Cedar Rapids,ERP
+2026-10-31,202610-007747,100,Balance Sheet,1100,Trade receivables,47979.92,0.0,Contract invoice batch 20 / branch Madison,ERP
+2026-10-31,202610-007747,100,Planned Maintenance,4000,Service contracts,0.0,47979.92,Contract invoice batch 20 / branch Madison,ERP
+2026-10-31,202610-007748,100,Balance Sheet,1100,Trade receivables,23846.09,0.0,Contract invoice batch 21 / branch Rockford,ERP
+2026-10-31,202610-007748,100,Planned Maintenance,4000,Service contracts,0.0,23846.09,Contract invoice batch 21 / branch Rockford,ERP
+2026-10-31,202610-007749,100,Balance Sheet,1100,Trade receivables,24407.11,0.0,Contract invoice batch 22 / branch Cedar Rapids,ERP
+2026-10-31,202610-007749,100,Planned Maintenance,4000,Service contracts,0.0,24407.11,Contract invoice batch 22 / branch Cedar Rapids,ERP
+2026-10-31,202610-007750,100,Balance Sheet,1100,Trade receivables,31628.26,0.0,Contract invoice batch 23 / branch Madison,ERP
+2026-10-31,202610-007750,100,Planned Maintenance,4000,Service contracts,0.0,31628.26,Contract invoice batch 23 / branch Madison,ERP
+2026-10-31,202610-007751,100,Balance Sheet,1100,Trade receivables,59802.63,0.0,Contract invoice batch 24 / branch Rockford,ERP
+2026-10-31,202610-007751,100,Planned Maintenance,4000,Service contracts,0.0,59802.63,Contract invoice batch 24 / branch Rockford,ERP
+2026-10-31,202610-007752,100,Balance Sheet,1100,Trade receivables,25474.38,0.0,Demand invoice batch 01 / branch Cedar Rapids,ERP
+2026-10-31,202610-007752,100,Field Response,4100,Demand service,0.0,25474.38,Demand invoice batch 01 / branch Cedar Rapids,ERP
+2026-10-31,202610-007753,100,Balance Sheet,1100,Trade receivables,36828.16,0.0,Demand invoice batch 02 / branch Madison,ERP
+2026-10-31,202610-007753,100,Field Response,4100,Demand service,0.0,36828.16,Demand invoice batch 02 / branch Madison,ERP
+2026-10-31,202610-007754,100,Balance Sheet,1100,Trade receivables,27542.48,0.0,Demand invoice batch 03 / branch Rockford,ERP
+2026-10-31,202610-007754,100,Field Response,4100,Demand service,0.0,27542.48,Demand invoice batch 03 / branch Rockford,ERP
+2026-10-31,202610-007755,100,Balance Sheet,1100,Trade receivables,29884.27,0.0,Demand invoice batch 04 / branch Cedar Rapids,ERP
+2026-10-31,202610-007755,100,Field Response,4100,Demand service,0.0,29884.27,Demand invoice batch 04 / branch Cedar Rapids,ERP
+2026-10-31,202610-007756,100,Balance Sheet,1100,Trade receivables,24544.7,0.0,Demand invoice batch 05 / branch Madison,ERP
+2026-10-31,202610-007756,100,Field Response,4100,Demand service,0.0,24544.7,Demand invoice batch 05 / branch Madison,ERP
+2026-10-31,202610-007757,100,Balance Sheet,1100,Trade receivables,25981.56,0.0,Demand invoice batch 06 / branch Rockford,ERP
+2026-10-31,202610-007757,100,Field Response,4100,Demand service,0.0,25981.56,Demand invoice batch 06 / branch Rockford,ERP
+2026-10-31,202610-007758,100,Balance Sheet,1100,Trade receivables,37493.06,0.0,Demand invoice batch 07 / branch Cedar Rapids,ERP
+2026-10-31,202610-007758,100,Field Response,4100,Demand service,0.0,37493.06,Demand invoice batch 07 / branch Cedar Rapids,ERP
+2026-10-31,202610-007759,100,Balance Sheet,1100,Trade receivables,26087.68,0.0,Demand invoice batch 08 / branch Madison,ERP
+2026-10-31,202610-007759,100,Field Response,4100,Demand service,0.0,26087.68,Demand invoice batch 08 / branch Madison,ERP
+2026-10-31,202610-007760,100,Balance Sheet,1100,Trade receivables,19401.68,0.0,Demand invoice batch 09 / branch Rockford,ERP
+2026-10-31,202610-007760,100,Field Response,4100,Demand service,0.0,19401.68,Demand invoice batch 09 / branch Rockford,ERP
+2026-10-31,202610-007761,100,Balance Sheet,1100,Trade receivables,29120.81,0.0,Demand invoice batch 10 / branch Cedar Rapids,ERP
+2026-10-31,202610-007761,100,Field Response,4100,Demand service,0.0,29120.81,Demand invoice batch 10 / branch Cedar Rapids,ERP
+2026-10-31,202610-007762,100,Balance Sheet,1100,Trade receivables,24654.85,0.0,Demand invoice batch 11 / branch Madison,ERP
+2026-10-31,202610-007762,100,Field Response,4100,Demand service,0.0,24654.85,Demand invoice batch 11 / branch Madison,ERP
+2026-10-31,202610-007763,100,Balance Sheet,1100,Trade receivables,19825.67,0.0,Demand invoice batch 12 / branch Rockford,ERP
+2026-10-31,202610-007763,100,Field Response,4100,Demand service,0.0,19825.67,Demand invoice batch 12 / branch Rockford,ERP
+2026-10-31,202610-007764,100,Balance Sheet,1100,Trade receivables,27019.12,0.0,Demand invoice batch 13 / branch Cedar Rapids,ERP
+2026-10-31,202610-007764,100,Field Response,4100,Demand service,0.0,27019.12,Demand invoice batch 13 / branch Cedar Rapids,ERP
+2026-10-31,202610-007765,100,Balance Sheet,1100,Trade receivables,21750.01,0.0,Demand invoice batch 14 / branch Madison,ERP
+2026-10-31,202610-007765,100,Field Response,4100,Demand service,0.0,21750.01,Demand invoice batch 14 / branch Madison,ERP
+2026-10-31,202610-007766,100,Balance Sheet,1100,Trade receivables,35802.64,0.0,Demand invoice batch 15 / branch Rockford,ERP
+2026-10-31,202610-007766,100,Field Response,4100,Demand service,0.0,35802.64,Demand invoice batch 15 / branch Rockford,ERP
+2026-10-31,202610-007767,100,Balance Sheet,1100,Trade receivables,17432.11,0.0,Demand invoice batch 16 / branch Cedar Rapids,ERP
+2026-10-31,202610-007767,100,Field Response,4100,Demand service,0.0,17432.11,Demand invoice batch 16 / branch Cedar Rapids,ERP
+2026-10-31,202610-007768,100,Balance Sheet,1100,Trade receivables,30879.99,0.0,Demand invoice batch 17 / branch Madison,ERP
+2026-10-31,202610-007768,100,Field Response,4100,Demand service,0.0,30879.99,Demand invoice batch 17 / branch Madison,ERP
+2026-10-31,202610-007769,100,Balance Sheet,1100,Trade receivables,28179.21,0.0,Demand invoice batch 18 / branch Rockford,ERP
+2026-10-31,202610-007769,100,Field Response,4100,Demand service,0.0,28179.21,Demand invoice batch 18 / branch Rockford,ERP
+2026-10-31,202610-007770,100,Balance Sheet,1100,Trade receivables,21196.85,0.0,Demand invoice batch 19 / branch Cedar Rapids,ERP
+2026-10-31,202610-007770,100,Field Response,4100,Demand service,0.0,21196.85,Demand invoice batch 19 / branch Cedar Rapids,ERP
+2026-10-31,202610-007771,100,Balance Sheet,1100,Trade receivables,31857.12,0.0,Demand invoice batch 20 / branch Madison,ERP
+2026-10-31,202610-007771,100,Field Response,4100,Demand service,0.0,31857.12,Demand invoice batch 20 / branch Madison,ERP
+2026-10-31,202610-007772,100,Balance Sheet,1100,Trade receivables,24872.51,0.0,Demand invoice batch 21 / branch Rockford,ERP
+2026-10-31,202610-007772,100,Field Response,4100,Demand service,0.0,24872.51,Demand invoice batch 21 / branch Rockford,ERP
+2026-10-31,202610-007773,100,Balance Sheet,1100,Trade receivables,35151.92,0.0,Demand invoice batch 22 / branch Cedar Rapids,ERP
+2026-10-31,202610-007773,100,Field Response,4100,Demand service,0.0,35151.92,Demand invoice batch 22 / branch Cedar Rapids,ERP
+2026-10-31,202610-007774,100,Balance Sheet,1100,Trade receivables,36922.58,0.0,Demand invoice batch 23 / branch Madison,ERP
+2026-10-31,202610-007774,100,Field Response,4100,Demand service,0.0,36922.58,Demand invoice batch 23 / branch Madison,ERP
+2026-10-31,202610-007775,100,Balance Sheet,1100,Trade receivables,40061.77,0.0,Demand invoice batch 24 / branch Rockford,ERP
+2026-10-31,202610-007775,100,Field Response,4100,Demand service,0.0,40061.77,Demand invoice batch 24 / branch Rockford,ERP
+2026-10-31,202610-007776,100,Balance Sheet,1000,Operating cash,1940933.79,0.0,Customer lockbox receipts,ERP
+2026-10-31,202610-007776,100,Balance Sheet,1100,Trade receivables,0.0,1940933.79,Customer lockbox receipts,ERP
+2026-10-31,202610-007777,100,Planned Maintenance,5000,Parts and subcontractors,14498.97,0.0,Supplier invoice / parts and subcontractors batch 01,ERP
+2026-10-31,202610-007777,100,Balance Sheet,2000,Trade payables,0.0,14498.97,Supplier invoice / parts and subcontractors batch 01,ERP
+2026-10-31,202610-007778,100,Planned Maintenance,5000,Parts and subcontractors,16910.39,0.0,Supplier invoice / parts and subcontractors batch 02,ERP
+2026-10-31,202610-007778,100,Balance Sheet,2000,Trade payables,0.0,16910.39,Supplier invoice / parts and subcontractors batch 02,ERP
+2026-10-31,202610-007779,100,Planned Maintenance,5000,Parts and subcontractors,18446.47,0.0,Supplier invoice / parts and subcontractors batch 03,ERP
+2026-10-31,202610-007779,100,Balance Sheet,2000,Trade payables,0.0,18446.47,Supplier invoice / parts and subcontractors batch 03,ERP
+2026-10-31,202610-007780,100,Planned Maintenance,5000,Parts and subcontractors,20053.26,0.0,Supplier invoice / parts and subcontractors batch 04,ERP
+2026-10-31,202610-007780,100,Balance Sheet,2000,Trade payables,0.0,20053.26,Supplier invoice / parts and subcontractors batch 04,ERP
+2026-10-31,202610-007781,100,Planned Maintenance,5000,Parts and subcontractors,20354.09,0.0,Supplier invoice / parts and subcontractors batch 05,ERP
+2026-10-31,202610-007781,100,Balance Sheet,2000,Trade payables,0.0,20354.09,Supplier invoice / parts and subcontractors batch 05,ERP
+2026-10-31,202610-007782,100,Planned Maintenance,5000,Parts and subcontractors,19605.79,0.0,Supplier invoice / parts and subcontractors batch 06,ERP
+2026-10-31,202610-007782,100,Balance Sheet,2000,Trade payables,0.0,19605.79,Supplier invoice / parts and subcontractors batch 06,ERP
+2026-10-31,202610-007783,100,Planned Maintenance,5000,Parts and subcontractors,16141.16,0.0,Supplier invoice / parts and subcontractors batch 07,ERP
+2026-10-31,202610-007783,100,Balance Sheet,2000,Trade payables,0.0,16141.16,Supplier invoice / parts and subcontractors batch 07,ERP
+2026-10-31,202610-007784,100,Planned Maintenance,5000,Parts and subcontractors,17003.1,0.0,Supplier invoice / parts and subcontractors batch 08,ERP
+2026-10-31,202610-007784,100,Balance Sheet,2000,Trade payables,0.0,17003.1,Supplier invoice / parts and subcontractors batch 08,ERP
+2026-10-31,202610-007785,100,Planned Maintenance,5000,Parts and subcontractors,12527.39,0.0,Supplier invoice / parts and subcontractors batch 09,ERP
+2026-10-31,202610-007785,100,Balance Sheet,2000,Trade payables,0.0,12527.39,Supplier invoice / parts and subcontractors batch 09,ERP
+2026-10-31,202610-007786,100,Planned Maintenance,5000,Parts and subcontractors,16468.23,0.0,Supplier invoice / parts and subcontractors batch 10,ERP
+2026-10-31,202610-007786,100,Balance Sheet,2000,Trade payables,0.0,16468.23,Supplier invoice / parts and subcontractors batch 10,ERP
+2026-10-31,202610-007787,100,Planned Maintenance,5000,Parts and subcontractors,16970.54,0.0,Supplier invoice / parts and subcontractors batch 11,ERP
+2026-10-31,202610-007787,100,Balance Sheet,2000,Trade payables,0.0,16970.54,Supplier invoice / parts and subcontractors batch 11,ERP
+2026-10-31,202610-007788,100,Planned Maintenance,5000,Parts and subcontractors,7404.51,0.0,Supplier invoice / parts and subcontractors batch 12,ERP
+2026-10-31,202610-007788,100,Balance Sheet,2000,Trade payables,0.0,7404.51,Supplier invoice / parts and subcontractors batch 12,ERP
+2026-10-31,202610-007789,100,Planned Maintenance,5100,Field wages and benefits,384804.63,0.0,Biweekly field payroll and employer benefits,ERP
+2026-10-31,202610-007789,100,Balance Sheet,2100,Accrued payroll,0.0,384804.63,Biweekly field payroll and employer benefits,ERP
+2026-10-31,202610-007790,100,Field Response,5000,Parts and subcontractors,14025.13,0.0,Supplier invoice / parts and subcontractors batch 01,ERP
+2026-10-31,202610-007790,100,Balance Sheet,2000,Trade payables,0.0,14025.13,Supplier invoice / parts and subcontractors batch 01,ERP
+2026-10-31,202610-007791,100,Field Response,5000,Parts and subcontractors,18911.8,0.0,Supplier invoice / parts and subcontractors batch 02,ERP
+2026-10-31,202610-007791,100,Balance Sheet,2000,Trade payables,0.0,18911.8,Supplier invoice / parts and subcontractors batch 02,ERP
+2026-10-31,202610-007792,100,Field Response,5000,Parts and subcontractors,13211.7,0.0,Supplier invoice / parts and subcontractors batch 03,ERP
+2026-10-31,202610-007792,100,Balance Sheet,2000,Trade payables,0.0,13211.7,Supplier invoice / parts and subcontractors batch 03,ERP
+2026-10-31,202610-007793,100,Field Response,5000,Parts and subcontractors,11777.75,0.0,Supplier invoice / parts and subcontractors batch 04,ERP
+2026-10-31,202610-007793,100,Balance Sheet,2000,Trade payables,0.0,11777.75,Supplier invoice / parts and subcontractors batch 04,ERP
+2026-10-31,202610-007794,100,Field Response,5000,Parts and subcontractors,16348.17,0.0,Supplier invoice / parts and subcontractors batch 05,ERP
+2026-10-31,202610-007794,100,Balance Sheet,2000,Trade payables,0.0,16348.17,Supplier invoice / parts and subcontractors batch 05,ERP
+2026-10-31,202610-007795,100,Field Response,5000,Parts and subcontractors,18439.83,0.0,Supplier invoice / parts and subcontractors batch 06,ERP
+2026-10-31,202610-007795,100,Balance Sheet,2000,Trade payables,0.0,18439.83,Supplier invoice / parts and subcontractors batch 06,ERP
+2026-10-31,202610-007796,100,Field Response,5000,Parts and subcontractors,17981.43,0.0,Supplier invoice / parts and subcontractors batch 07,ERP
+2026-10-31,202610-007796,100,Balance Sheet,2000,Trade payables,0.0,17981.43,Supplier invoice / parts and subcontractors batch 07,ERP
+2026-10-31,202610-007797,100,Field Response,5000,Parts and subcontractors,18736.83,0.0,Supplier invoice / parts and subcontractors batch 08,ERP
+2026-10-31,202610-007797,100,Balance Sheet,2000,Trade payables,0.0,18736.83,Supplier invoice / parts and subcontractors batch 08,ERP
+2026-10-31,202610-007798,100,Field Response,5000,Parts and subcontractors,18530.15,0.0,Supplier invoice / parts and subcontractors batch 09,ERP
+2026-10-31,202610-007798,100,Balance Sheet,2000,Trade payables,0.0,18530.15,Supplier invoice / parts and subcontractors batch 09,ERP
+2026-10-31,202610-007799,100,Field Response,5000,Parts and subcontractors,20578.73,0.0,Supplier invoice / parts and subcontractors batch 10,ERP
+2026-10-31,202610-007799,100,Balance Sheet,2000,Trade payables,0.0,20578.73,Supplier invoice / parts and subcontractors batch 10,ERP
+2026-10-31,202610-007800,100,Field Response,5000,Parts and subcontractors,16893.7,0.0,Supplier invoice / parts and subcontractors batch 11,ERP
+2026-10-31,202610-007800,100,Balance Sheet,2000,Trade payables,0.0,16893.7,Supplier invoice / parts and subcontractors batch 11,ERP
+2026-10-31,202610-007801,100,Field Response,5000,Parts and subcontractors,11174.67,0.0,Supplier invoice / parts and subcontractors batch 12,ERP
+2026-10-31,202610-007801,100,Balance Sheet,2000,Trade payables,0.0,11174.67,Supplier invoice / parts and subcontractors batch 12,ERP
+2026-10-31,202610-007802,100,Field Response,5100,Field wages and benefits,314840.15,0.0,Biweekly field payroll and employer benefits,ERP
+2026-10-31,202610-007802,100,Balance Sheet,2100,Accrued payroll,0.0,314840.15,Biweekly field payroll and employer benefits,ERP
+2026-10-31,202610-007803,100,Balance Sheet,2000,Trade payables,33980.97,0.0,Inventory returns / supplier credits,ERP
+2026-10-31,202610-007803,100,Balance Sheet,1200,Service parts inventory,0.0,33980.97,Inventory returns / supplier credits,ERP
+2026-10-31,202610-007804,100,Corporate,6000,Office payroll and benefits,95932.92,0.0,"Office payroll, benefits and taxes",ERP
+2026-10-31,202610-007804,100,Balance Sheet,2100,Accrued payroll,0.0,95932.92,"Office payroll, benefits and taxes",ERP
+2026-10-31,202610-007805,100,Balance Sheet,2100,Accrued payroll,795577.7,0.0,Payroll cash settlement,ERP
+2026-10-31,202610-007805,100,Balance Sheet,1000,Operating cash,0.0,795577.7,Payroll cash settlement,ERP
+2026-10-31,JE-202610-017,100,Field Response,5100,Field wages and benefits,24600.0,0.0,Accrued field overtime true-up: approved hours after payroll cut-off,Close JE
+2026-10-31,JE-202610-017,100,Balance Sheet,2100,Accrued payroll,0.0,24600.0,Accrued field overtime true-up: approved hours after payroll cut-off,Close JE
+2026-10-31,202610-007807,100,Corporate,6100,Occupancy and facilities,25830.64,0.0,Branch rent and utilities,ERP
+2026-10-31,202610-007807,100,Balance Sheet,2000,Trade payables,0.0,25830.64,Branch rent and utilities,ERP
+2026-10-31,202610-007808,100,Field Response,6205,Fleet fuel and maintenance,21099.56,0.0,"Fuel, fleet maintenance and telematics",ERP
+2026-10-31,202610-007808,100,Balance Sheet,2000,Trade payables,0.0,21099.56,"Fuel, fleet maintenance and telematics",ERP
+2026-10-31,202610-007809,100,Field Response,6250,Customer warranty costs,12052.71,0.0,Warranty provision,Close JE
+2026-10-31,202610-007809,100,Balance Sheet,2150,Warranty reserve,0.0,12052.71,Warranty provision,Close JE
+2026-10-31,202610-007810,100,Balance Sheet,2150,Warranty reserve,18937.56,0.0,Warranty cash claims,ERP
+2026-10-31,202610-007810,100,Balance Sheet,1000,Operating cash,0.0,18937.56,Warranty cash claims,ERP
+2026-10-31,AP-WAR-2610-084,100,Field Response,6265,Third-party warranty callouts,18750.0,0.0,Emergency subcontractor warranty callouts,ERP
+2026-10-31,AP-WAR-2610-084,100,Balance Sheet,2000,Trade payables,0.0,18750.0,Emergency subcontractor warranty callouts,ERP
+2026-10-31,202610-007812,100,Corporate,6300,Insurance amortization,12155.06,0.0,Monthly insurance amortization,Close JE
+2026-10-31,202610-007812,100,Balance Sheet,1300,Prepaid insurance,0.0,12155.06,Monthly insurance amortization,Close JE
+2026-10-31,202610-007813,100,Balance Sheet,1400,Fleet and equipment cost,5777.91,0.0,Fleet replacement and tools additions,ERP
+2026-10-31,202610-007813,100,Balance Sheet,1000,Operating cash,0.0,5777.91,Fleet replacement and tools additions,ERP
+2026-10-31,202610-007814,100,Corporate,6400,Depreciation,14192.96,0.0,"Straight-line fleet / tools depreciation, 84 months",Close JE
+2026-10-31,202610-007814,100,Balance Sheet,1490,Accumulated depreciation,0.0,14192.96,"Straight-line fleet / tools depreciation, 84 months",Close JE
+2026-10-31,202610-007815,100,Corporate,6600,Interest expense,930.94,0.0,"Term debt interest, 6.75%",ERP
+2026-10-31,202610-007815,100,Balance Sheet,1000,Operating cash,0.0,930.94,"Term debt interest, 6.75%",ERP
+2026-10-31,202610-007816,100,Balance Sheet,2600,Term debt,8500.0,0.0,Scheduled debt principal,ERP
+2026-10-31,202610-007816,100,Balance Sheet,1000,Operating cash,0.0,8500.0,Scheduled debt principal,ERP
+2026-10-31,202610-007817,100,Balance Sheet,2000,Trade payables,439575.79,0.0,Weekly vendor payment runs,ERP
+2026-10-31,202610-007817,100,Balance Sheet,1000,Operating cash,0.0,439575.79,Weekly vendor payment runs,ERP
+2026-10-31,202610-007818,200,Corporate,6000,Office payroll and benefits,139538.8,0.0,"Office payroll, benefits and taxes",ERP
+2026-10-31,202610-007818,200,Balance Sheet,2100,Accrued payroll,0.0,139538.8,"Office payroll, benefits and taxes",ERP
+2026-10-31,202610-007819,200,Balance Sheet,2100,Accrued payroll,139538.8,0.0,Payroll cash settlement,ERP
+2026-10-31,202610-007819,200,Balance Sheet,1000,Operating cash,0.0,139538.8,Payroll cash settlement,ERP
+2026-10-31,202610-007820,200,Corporate,6100,Occupancy and facilities,4649.52,0.0,Branch rent and utilities,ERP
+2026-10-31,202610-007820,200,Balance Sheet,2000,Trade payables,0.0,4649.52,Branch rent and utilities,ERP
+2026-10-31,202610-007821,200,Corporate,6205,Fleet fuel and maintenance,3797.92,0.0,"Fuel, fleet maintenance and telematics",ERP
+2026-10-31,202610-007821,200,Balance Sheet,2000,Trade payables,0.0,3797.92,"Fuel, fleet maintenance and telematics",ERP
+2026-10-31,202610-007822,200,Corporate,6300,Insurance amortization,2187.91,0.0,Monthly insurance amortization,Close JE
+2026-10-31,202610-007822,200,Balance Sheet,1300,Prepaid insurance,0.0,2187.91,Monthly insurance amortization,Close JE
+2026-10-31,202610-007823,200,Balance Sheet,1400,Fleet and equipment cost,747.73,0.0,Fleet replacement and tools additions,ERP
+2026-10-31,202610-007823,200,Balance Sheet,1000,Operating cash,0.0,747.73,Fleet replacement and tools additions,ERP
+2026-10-31,202610-007824,200,Corporate,6400,Depreciation,835.33,0.0,"Straight-line fleet / tools depreciation, 84 months",Close JE
+2026-10-31,202610-007824,200,Balance Sheet,1490,Accumulated depreciation,0.0,835.33,"Straight-line fleet / tools depreciation, 84 months",Close JE
+2026-10-31,202610-007825,200,Balance Sheet,2000,Trade payables,8671.41,0.0,Weekly vendor payment runs,ERP
+2026-10-31,202610-007825,200,Balance Sheet,1000,Operating cash,0.0,8671.41,Weekly vendor payment runs,ERP
+2026-10-31,202610-007826,300,Balance Sheet,1100,Trade receivables,18462.19,0.0,Contract invoice batch 01 / branch Des Moines,ERP
+2026-10-31,202610-007826,300,Planned Maintenance,4000,Service contracts,0.0,18462.19,Contract invoice batch 01 / branch Des Moines,ERP
+2026-10-31,202610-007827,300,Balance Sheet,1100,Trade receivables,22558.22,0.0,Contract invoice batch 02 / branch Des Moines,ERP
+2026-10-31,202610-007827,300,Planned Maintenance,4000,Service contracts,0.0,22558.22,Contract invoice batch 02 / branch Des Moines,ERP
+2026-10-31,202610-007828,300,Balance Sheet,1100,Trade receivables,25314.61,0.0,Contract invoice batch 03 / branch Des Moines,ERP
+2026-10-31,202610-007828,300,Planned Maintenance,4000,Service contracts,0.0,25314.61,Contract invoice batch 03 / branch Des Moines,ERP
+2026-10-31,202610-007829,300,Balance Sheet,1100,Trade receivables,15916.75,0.0,Contract invoice batch 04 / branch Des Moines,ERP
+2026-10-31,202610-007829,300,Planned Maintenance,4000,Service contracts,0.0,15916.75,Contract invoice batch 04 / branch Des Moines,ERP
+2026-10-31,202610-007830,300,Balance Sheet,1100,Trade receivables,13882.6,0.0,Contract invoice batch 05 / branch Des Moines,ERP
+2026-10-31,202610-007830,300,Planned Maintenance,4000,Service contracts,0.0,13882.6,Contract invoice batch 05 / branch Des Moines,ERP
+2026-10-31,202610-007831,300,Balance Sheet,1100,Trade receivables,18277.03,0.0,Contract invoice batch 06 / branch Des Moines,ERP
+2026-10-31,202610-007831,300,Planned Maintenance,4000,Service contracts,0.0,18277.03,Contract invoice batch 06 / branch Des Moines,ERP
+2026-10-31,202610-007832,300,Balance Sheet,1100,Trade receivables,27705.71,0.0,Contract invoice batch 07 / branch Des Moines,ERP
+2026-10-31,202610-007832,300,Planned Maintenance,4000,Service contracts,0.0,27705.71,Contract invoice batch 07 / branch Des Moines,ERP
+2026-10-31,202610-007833,300,Balance Sheet,1100,Trade receivables,16862.81,0.0,Contract invoice batch 08 / branch Des Moines,ERP
+2026-10-31,202610-007833,300,Planned Maintenance,4000,Service contracts,0.0,16862.81,Contract invoice batch 08 / branch Des Moines,ERP
+2026-10-31,202610-007834,300,Balance Sheet,1100,Trade receivables,27901.81,0.0,Contract invoice batch 09 / branch Des Moines,ERP
+2026-10-31,202610-007834,300,Planned Maintenance,4000,Service contracts,0.0,27901.81,Contract invoice batch 09 / branch Des Moines,ERP
+2026-10-31,202610-007835,300,Balance Sheet,1100,Trade receivables,14441.87,0.0,Contract invoice batch 10 / branch Des Moines,ERP
+2026-10-31,202610-007835,300,Planned Maintenance,4000,Service contracts,0.0,14441.87,Contract invoice batch 10 / branch Des Moines,ERP
+2026-10-31,202610-007836,300,Balance Sheet,1100,Trade receivables,15131.88,0.0,Contract invoice batch 11 / branch Des Moines,ERP
+2026-10-31,202610-007836,300,Planned Maintenance,4000,Service contracts,0.0,15131.88,Contract invoice batch 11 / branch Des Moines,ERP
+2026-10-31,202610-007837,300,Balance Sheet,1100,Trade receivables,48321.06,0.0,Contract invoice batch 12 / branch Des Moines,ERP
+2026-10-31,202610-007837,300,Planned Maintenance,4000,Service contracts,0.0,48321.06,Contract invoice batch 12 / branch Des Moines,ERP
+2026-10-31,202610-007838,300,Balance Sheet,1100,Trade receivables,12577.49,0.0,Demand invoice batch 01 / branch Des Moines,ERP
+2026-10-31,202610-007838,300,Field Response,4100,Demand service,0.0,12577.49,Demand invoice batch 01 / branch Des Moines,ERP
+2026-10-31,202610-007839,300,Balance Sheet,1100,Trade receivables,22284.97,0.0,Demand invoice batch 02 / branch Des Moines,ERP
+2026-10-31,202610-007839,300,Field Response,4100,Demand service,0.0,22284.97,Demand invoice batch 02 / branch Des Moines,ERP
+2026-10-31,202610-007840,300,Balance Sheet,1100,Trade receivables,24704.75,0.0,Demand invoice batch 03 / branch Des Moines,ERP
+2026-10-31,202610-007840,300,Field Response,4100,Demand service,0.0,24704.75,Demand invoice batch 03 / branch Des Moines,ERP
+2026-10-31,202610-007841,300,Balance Sheet,1100,Trade receivables,11725.96,0.0,Demand invoice batch 04 / branch Des Moines,ERP
+2026-10-31,202610-007841,300,Field Response,4100,Demand service,0.0,11725.96,Demand invoice batch 04 / branch Des Moines,ERP
+2026-10-31,202610-007842,300,Balance Sheet,1100,Trade receivables,24200.39,0.0,Demand invoice batch 05 / branch Des Moines,ERP
+2026-10-31,202610-007842,300,Field Response,4100,Demand service,0.0,24200.39,Demand invoice batch 05 / branch Des Moines,ERP
+2026-10-31,202610-007843,300,Balance Sheet,1100,Trade receivables,15026.86,0.0,Demand invoice batch 06 / branch Des Moines,ERP
+2026-10-31,202610-007843,300,Field Response,4100,Demand service,0.0,15026.86,Demand invoice batch 06 / branch Des Moines,ERP
+2026-10-31,202610-007844,300,Balance Sheet,1100,Trade receivables,15220.54,0.0,Demand invoice batch 07 / branch Des Moines,ERP
+2026-10-31,202610-007844,300,Field Response,4100,Demand service,0.0,15220.54,Demand invoice batch 07 / branch Des Moines,ERP
+2026-10-31,202610-007845,300,Balance Sheet,1100,Trade receivables,22673.71,0.0,Demand invoice batch 08 / branch Des Moines,ERP
+2026-10-31,202610-007845,300,Field Response,4100,Demand service,0.0,22673.71,Demand invoice batch 08 / branch Des Moines,ERP
+2026-10-31,202610-007846,300,Balance Sheet,1100,Trade receivables,14772.58,0.0,Demand invoice batch 09 / branch Des Moines,ERP
+2026-10-31,202610-007846,300,Field Response,4100,Demand service,0.0,14772.58,Demand invoice batch 09 / branch Des Moines,ERP
+2026-10-31,202610-007847,300,Balance Sheet,1100,Trade receivables,13047.45,0.0,Demand invoice batch 10 / branch Des Moines,ERP
+2026-10-31,202610-007847,300,Field Response,4100,Demand service,0.0,13047.45,Demand invoice batch 10 / branch Des Moines,ERP
+2026-10-31,202610-007848,300,Balance Sheet,1100,Trade receivables,19252.78,0.0,Demand invoice batch 11 / branch Des Moines,ERP
+2026-10-31,202610-007848,300,Field Response,4100,Demand service,0.0,19252.78,Demand invoice batch 11 / branch Des Moines,ERP
+2026-10-31,202610-007849,300,Balance Sheet,1100,Trade receivables,21147.87,0.0,Demand invoice batch 12 / branch Des Moines,ERP
+2026-10-31,202610-007849,300,Field Response,4100,Demand service,0.0,21147.87,Demand invoice batch 12 / branch Des Moines,ERP
+2026-10-31,202610-007850,300,Balance Sheet,1000,Operating cash,617501.1,0.0,Customer lockbox receipts,ERP
+2026-10-31,202610-007850,300,Balance Sheet,1100,Trade receivables,0.0,617501.1,Customer lockbox receipts,ERP
+2026-10-31,202610-007851,300,Planned Maintenance,5000,Parts and subcontractors,4417.71,0.0,Supplier invoice / parts and subcontractors batch 01,ERP
+2026-10-31,202610-007851,300,Balance Sheet,2000,Trade payables,0.0,4417.71,Supplier invoice / parts and subcontractors batch 01,ERP
+2026-10-31,202610-007852,300,Planned Maintenance,5000,Parts and subcontractors,4873.12,0.0,Supplier invoice / parts and subcontractors batch 02,ERP
+2026-10-31,202610-007852,300,Balance Sheet,2000,Trade payables,0.0,4873.12,Supplier invoice / parts and subcontractors batch 02,ERP
+2026-10-31,202610-007853,300,Planned Maintenance,5000,Parts and subcontractors,3793.84,0.0,Supplier invoice / parts and subcontractors batch 03,ERP
+2026-10-31,202610-007853,300,Balance Sheet,2000,Trade payables,0.0,3793.84,Supplier invoice / parts and subcontractors batch 03,ERP
+2026-10-31,202610-007854,300,Planned Maintenance,5000,Parts and subcontractors,6577.77,0.0,Supplier invoice / parts and subcontractors batch 04,ERP
+2026-10-31,202610-007854,300,Balance Sheet,2000,Trade payables,0.0,6577.77,Supplier invoice / parts and subcontractors batch 04,ERP
+2026-10-31,202610-007855,300,Planned Maintenance,5000,Parts and subcontractors,5795.43,0.0,Supplier invoice / parts and subcontractors batch 05,ERP
+2026-10-31,202610-007855,300,Balance Sheet,2000,Trade payables,0.0,5795.43,Supplier invoice / parts and subcontractors batch 05,ERP
+2026-10-31,202610-007856,300,Planned Maintenance,5000,Parts and subcontractors,3831.46,0.0,Supplier invoice / parts and subcontractors batch 06,ERP
+2026-10-31,202610-007856,300,Balance Sheet,2000,Trade payables,0.0,3831.46,Supplier invoice / parts and subcontractors batch 06,ERP
+2026-10-31,202610-007857,300,Planned Maintenance,5000,Parts and subcontractors,4867.99,0.0,Supplier invoice / parts and subcontractors batch 07,ERP
+2026-10-31,202610-007857,300,Balance Sheet,2000,Trade payables,0.0,4867.99,Supplier invoice / parts and subcontractors batch 07,ERP
+2026-10-31,202610-007858,300,Planned Maintenance,5000,Parts and subcontractors,5321.47,0.0,Supplier invoice / parts and subcontractors batch 08,ERP
+2026-10-31,202610-007858,300,Balance Sheet,2000,Trade payables,0.0,5321.47,Supplier invoice / parts and subcontractors batch 08,ERP
+2026-10-31,202610-007859,300,Planned Maintenance,5000,Parts and subcontractors,5746.16,0.0,Supplier invoice / parts and subcontractors batch 09,ERP
+2026-10-31,202610-007859,300,Balance Sheet,2000,Trade payables,0.0,5746.16,Supplier invoice / parts and subcontractors batch 09,ERP
+2026-10-31,202610-007860,300,Planned Maintenance,5000,Parts and subcontractors,5095.94,0.0,Supplier invoice / parts and subcontractors batch 10,ERP
+2026-10-31,202610-007860,300,Balance Sheet,2000,Trade payables,0.0,5095.94,Supplier invoice / parts and subcontractors batch 10,ERP
+2026-10-31,202610-007861,300,Planned Maintenance,5000,Parts and subcontractors,5005.0,0.0,Supplier invoice / parts and subcontractors batch 11,ERP
+2026-10-31,202610-007861,300,Balance Sheet,2000,Trade payables,0.0,5005.0,Supplier invoice / parts and subcontractors batch 11,ERP
+2026-10-31,202610-007862,300,Planned Maintenance,5000,Parts and subcontractors,7426.15,0.0,Supplier invoice / parts and subcontractors batch 12,ERP
+2026-10-31,202610-007862,300,Balance Sheet,2000,Trade payables,0.0,7426.15,Supplier invoice / parts and subcontractors batch 12,ERP
+2026-10-31,202610-007863,300,Planned Maintenance,5100,Field wages and benefits,143773.16,0.0,Biweekly field payroll and employer benefits,ERP
+2026-10-31,202610-007863,300,Balance Sheet,2100,Accrued payroll,0.0,143773.16,Biweekly field payroll and employer benefits,ERP
+2026-10-31,202610-007864,300,Field Response,5000,Parts and subcontractors,4678.92,0.0,Supplier invoice / parts and subcontractors batch 01,ERP
+2026-10-31,202610-007864,300,Balance Sheet,2000,Trade payables,0.0,4678.92,Supplier invoice / parts and subcontractors batch 01,ERP
+2026-10-31,202610-007865,300,Field Response,5000,Parts and subcontractors,4896.73,0.0,Supplier invoice / parts and subcontractors batch 02,ERP
+2026-10-31,202610-007865,300,Balance Sheet,2000,Trade payables,0.0,4896.73,Supplier invoice / parts and subcontractors batch 02,ERP
+2026-10-31,202610-007866,300,Field Response,5000,Parts and subcontractors,5100.96,0.0,Supplier invoice / parts and subcontractors batch 03,ERP
+2026-10-31,202610-007866,300,Balance Sheet,2000,Trade payables,0.0,5100.96,Supplier invoice / parts and subcontractors batch 03,ERP
+2026-10-31,202610-007867,300,Field Response,5000,Parts and subcontractors,5413.84,0.0,Supplier invoice / parts and subcontractors batch 04,ERP
+2026-10-31,202610-007867,300,Balance Sheet,2000,Trade payables,0.0,5413.84,Supplier invoice / parts and subcontractors batch 04,ERP
+2026-10-31,202610-007868,300,Field Response,5000,Parts and subcontractors,3685.2,0.0,Supplier invoice / parts and subcontractors batch 05,ERP
+2026-10-31,202610-007868,300,Balance Sheet,2000,Trade payables,0.0,3685.2,Supplier invoice / parts and subcontractors batch 05,ERP
+2026-10-31,202610-007869,300,Field Response,5000,Parts and subcontractors,6186.43,0.0,Supplier invoice / parts and subcontractors batch 06,ERP
+2026-10-31,202610-007869,300,Balance Sheet,2000,Trade payables,0.0,6186.43,Supplier invoice / parts and subcontractors batch 06,ERP
+2026-10-31,202610-007870,300,Field Response,5000,Parts and subcontractors,5025.23,0.0,Supplier invoice / parts and subcontractors batch 07,ERP
+2026-10-31,202610-007870,300,Balance Sheet,2000,Trade payables,0.0,5025.23,Supplier invoice / parts and subcontractors batch 07,ERP
+2026-10-31,202610-007871,300,Field Response,5000,Parts and subcontractors,6394.05,0.0,Supplier invoice / parts and subcontractors batch 08,ERP
+2026-10-31,202610-007871,300,Balance Sheet,2000,Trade payables,0.0,6394.05,Supplier invoice / parts and subcontractors batch 08,ERP
+2026-10-31,202610-007872,300,Field Response,5000,Parts and subcontractors,5404.02,0.0,Supplier invoice / parts and subcontractors batch 09,ERP
+2026-10-31,202610-007872,300,Balance Sheet,2000,Trade payables,0.0,5404.02,Supplier invoice / parts and subcontractors batch 09,ERP
+2026-10-31,202610-007873,300,Field Response,5000,Parts and subcontractors,6684.95,0.0,Supplier invoice / parts and subcontractors batch 10,ERP
+2026-10-31,202610-007873,300,Balance Sheet,2000,Trade payables,0.0,6684.95,Supplier invoice / parts and subcontractors batch 10,ERP
+2026-10-31,202610-007874,300,Field Response,5000,Parts and subcontractors,5357.8,0.0,Supplier invoice / parts and subcontractors batch 11,ERP
+2026-10-31,202610-007874,300,Balance Sheet,2000,Trade payables,0.0,5357.8,Supplier invoice / parts and subcontractors batch 11,ERP
+2026-10-31,202610-007875,300,Field Response,5000,Parts and subcontractors,3996.12,0.0,Supplier invoice / parts and subcontractors batch 12,ERP
+2026-10-31,202610-007875,300,Balance Sheet,2000,Trade payables,0.0,3996.12,Supplier invoice / parts and subcontractors batch 12,ERP
+2026-10-31,202610-007876,300,Field Response,5100,Field wages and benefits,117632.58,0.0,Biweekly field payroll and employer benefits,ERP
+2026-10-31,202610-007876,300,Balance Sheet,2100,Accrued payroll,0.0,117632.58,Biweekly field payroll and employer benefits,ERP
+2026-10-31,202610-007877,300,Balance Sheet,2000,Trade payables,14224.47,0.0,Inventory returns / supplier credits,ERP
+2026-10-31,202610-007877,300,Balance Sheet,1200,Service parts inventory,0.0,14224.47,Inventory returns / supplier credits,ERP
+2026-10-31,202610-007878,300,Corporate,6000,Office payroll and benefits,34884.7,0.0,"Office payroll, benefits and taxes",ERP
+2026-10-31,202610-007878,300,Balance Sheet,2100,Accrued payroll,0.0,34884.7,"Office payroll, benefits and taxes",ERP
+2026-10-31,202610-007879,300,Balance Sheet,2100,Accrued payroll,296290.44,0.0,Payroll cash settlement,ERP
+2026-10-31,202610-007879,300,Balance Sheet,1000,Operating cash,0.0,296290.44,Payroll cash settlement,ERP
+2026-10-31,202610-007880,300,Corporate,6100,Occupancy and facilities,8265.81,0.0,Branch rent and utilities,ERP
+2026-10-31,202610-007880,300,Balance Sheet,2000,Trade payables,0.0,8265.81,Branch rent and utilities,ERP
+2026-10-31,202610-007881,300,Field Response,6205,Fleet fuel and maintenance,6751.86,0.0,"Fuel, fleet maintenance and telematics",ERP
+2026-10-31,202610-007881,300,Balance Sheet,2000,Trade payables,0.0,6751.86,"Fuel, fleet maintenance and telematics",ERP
+2026-10-31,202610-007882,300,Field Response,6250,Customer warranty costs,3851.3,0.0,Warranty provision,Close JE
+2026-10-31,202610-007882,300,Balance Sheet,2150,Warranty reserve,0.0,3851.3,Warranty provision,Close JE
+2026-10-31,202610-007883,300,Balance Sheet,2150,Warranty reserve,4675.77,0.0,Warranty cash claims,ERP
+2026-10-31,202610-007883,300,Balance Sheet,1000,Operating cash,0.0,4675.77,Warranty cash claims,ERP
+2026-10-31,202610-007884,300,Corporate,6300,Insurance amortization,3889.62,0.0,Monthly insurance amortization,Close JE
+2026-10-31,202610-007884,300,Balance Sheet,1300,Prepaid insurance,0.0,3889.62,Monthly insurance amortization,Close JE
+2026-10-31,202610-007885,300,Balance Sheet,1400,Fleet and equipment cost,5777.91,0.0,Fleet replacement and tools additions,ERP
+2026-10-31,202610-007885,300,Balance Sheet,1000,Operating cash,0.0,5777.91,Fleet replacement and tools additions,ERP
+2026-10-31,202610-007886,300,Corporate,6400,Depreciation,8502.21,0.0,"Straight-line fleet / tools depreciation, 84 months",Close JE
+2026-10-31,202610-007886,300,Balance Sheet,1490,Accumulated depreciation,0.0,8502.21,"Straight-line fleet / tools depreciation, 84 months",Close JE
+2026-10-31,202610-007887,300,Corporate,6600,Interest expense,5419.69,0.0,"Term debt interest, 6.75%",ERP
+2026-10-31,202610-007887,300,Balance Sheet,1000,Operating cash,0.0,5419.69,"Term debt interest, 6.75%",ERP
+2026-10-31,202610-007888,300,Balance Sheet,2600,Term debt,6500.0,0.0,Scheduled debt principal,ERP
+2026-10-31,202610-007888,300,Balance Sheet,1000,Operating cash,0.0,6500.0,Scheduled debt principal,ERP
+2026-10-31,202610-007889,300,Balance Sheet,2000,Trade payables,136051.69,0.0,Weekly vendor payment runs,ERP
+2026-10-31,202610-007889,300,Balance Sheet,1000,Operating cash,0.0,136051.69,Weekly vendor payment runs,ERP
+2026-10-31,202610-007890,100,Corporate,6500,Shared service allocation,119357.89,0.0,"Central finance, HR and dispatch allocation",ERP
+2026-10-31,202610-007890,100,Balance Sheet,2500,Intercompany payable,0.0,119357.89,"Central finance, HR and dispatch allocation",ERP
+2026-10-31,202610-007891,200,Balance Sheet,1500,Intercompany receivable,119357.89,0.0,Cost-plus shared service recovery,ERP
+2026-10-31,202610-007891,200,Corporate,4900,Shared service recovery,0.0,119357.89,Cost-plus shared service recovery,ERP
+2026-10-31,202610-007892,ELIM,Corporate,4900,Shared service recovery,119357.89,0.0,Eliminate intercompany P&L,Consolidation
+2026-10-31,202610-007892,ELIM,Corporate,6500,Shared service allocation,0.0,119357.89,Eliminate intercompany P&L,Consolidation
+2026-10-31,202610-007893,ELIM,Balance Sheet,2500,Intercompany payable,119357.89,0.0,Eliminate intercompany balances,Consolidation
+2026-10-31,202610-007893,ELIM,Balance Sheet,1500,Intercompany receivable,0.0,119357.89,Eliminate intercompany balances,Consolidation
+2026-10-31,202610-007894,100,Balance Sheet,2500,Intercompany payable,119421.81,0.0,Intercompany settlement,ERP
+2026-10-31,202610-007894,100,Balance Sheet,1000,Operating cash,0.0,119421.81,Intercompany settlement,ERP
+2026-10-31,202610-007895,200,Balance Sheet,1000,Operating cash,119421.81,0.0,Intercompany settlement,ERP
+2026-10-31,202610-007895,200,Balance Sheet,1500,Intercompany receivable,0.0,119421.81,Intercompany settlement,ERP
+2026-10-31,202610-007896,ELIM,Balance Sheet,1500,Intercompany receivable,119421.81,0.0,Reverse settled IC elimination,Consolidation
+2026-10-31,202610-007896,ELIM,Balance Sheet,2500,Intercompany payable,0.0,119421.81,Reverse settled IC elimination,Consolidation
+2026-10-31,202610-007897,300,Corporate,6500,Shared service allocation,37691.97,0.0,"Central finance, HR and dispatch allocation",ERP
+2026-10-31,202610-007897,300,Balance Sheet,2500,Intercompany payable,0.0,37691.97,"Central finance, HR and dispatch allocation",ERP
+2026-10-31,202610-007898,200,Balance Sheet,1500,Intercompany receivable,37691.97,0.0,Cost-plus shared service recovery,ERP
+2026-10-31,202610-007898,200,Corporate,4900,Shared service recovery,0.0,37691.97,Cost-plus shared service recovery,ERP
+2026-10-31,202610-007899,ELIM,Corporate,4900,Shared service recovery,37691.97,0.0,Eliminate intercompany P&L,Consolidation
+2026-10-31,202610-007899,ELIM,Corporate,6500,Shared service allocation,0.0,37691.97,Eliminate intercompany P&L,Consolidation
+2026-10-31,202610-007900,ELIM,Balance Sheet,2500,Intercompany payable,37691.97,0.0,Eliminate intercompany balances,Consolidation
+2026-10-31,202610-007900,ELIM,Balance Sheet,1500,Intercompany receivable,0.0,37691.97,Eliminate intercompany balances,Consolidation
+2026-10-31,202610-007901,300,Balance Sheet,2500,Intercompany payable,37712.16,0.0,Intercompany settlement,ERP
+2026-10-31,202610-007901,300,Balance Sheet,1000,Operating cash,0.0,37712.16,Intercompany settlement,ERP
+2026-10-31,202610-007902,200,Balance Sheet,1000,Operating cash,37712.16,0.0,Intercompany settlement,ERP
+2026-10-31,202610-007902,200,Balance Sheet,1500,Intercompany receivable,0.0,37712.16,Intercompany settlement,ERP
+2026-10-31,202610-007903,ELIM,Balance Sheet,1500,Intercompany receivable,37712.16,0.0,Reverse settled IC elimination,Consolidation
+2026-10-31,202610-007903,ELIM,Balance Sheet,2500,Intercompany payable,0.0,37712.16,Reverse settled IC elimination,Consolidation
+2026-10-31,202610-007904,100,Corporate,6700,Income tax expense,17261.98,0.0,Monthly tax provision at 25%,Close JE
+2026-10-31,202610-007904,100,Balance Sheet,2200,Income taxes payable,0.0,17261.98,Monthly tax provision at 25%,Close JE
+2026-10-31,202610-007905,200,Corporate,6700,Income tax expense,1510.1,0.0,Monthly tax provision at 25%,Close JE
+2026-10-31,202610-007905,200,Balance Sheet,2200,Income taxes payable,0.0,1510.1,Monthly tax provision at 25%,Close JE
+2026-10-31,202610-007906,300,Corporate,6700,Income tax expense,0.0,0.0,Monthly tax provision at 25%,Close JE
+2026-10-31,202610-007906,300,Balance Sheet,2200,Income taxes payable,0.0,0.0,Monthly tax provision at 25%,Close JE

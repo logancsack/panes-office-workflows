@@ -1,0 +1,22 @@
+{
+  "recorded_at": "2026-11-15",
+  "product": "Panes Windows computer",
+  "applications": [
+    "Microsoft Excel desktop 16.0",
+    "Microsoft PowerPoint desktop 16.0"
+  ],
+  "company": "Alder Mechanical Services Group \u2014 fictional sample company",
+  "capture": "Windows gdigrab through ffmpeg in the signed-in Panes desktop; real app windows and real inputs",
+  "source_file": "october-close-unedited.mp4",
+  "sha256": "f00c261e10608501269d941c059f61fc19f51eeb0950fd0cb8bf6d6b1b2c9d96",
+  "duration_seconds": 71.2,
+  "dimensions": [
+    1280,
+    960
+  ],
+  "frame_rate": "20/1",
+  "edits": [],
+  "uncut": true,
+  "synthetic_or_composited_ui": false,
+  "actions": "actions.json"
+}

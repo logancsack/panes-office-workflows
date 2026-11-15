@@ -1,0 +1,15 @@
+Entity,Document,Counterparty,Invoice date,Aging band,Open USD
+100,202310-002323,Prairie HVAC Supply,2023-10-31,Current,3926.38
+100,202310-002324,Central Parts Distribution,2023-10-31,Current,13775.09
+100,202310-002325,Midwest Trade Services,2023-10-31,Current,15643.79
+100,202310-002326,Summit Fleet Supply,2023-10-31,Current,10157.12
+100,202310-002327,Cedar Controls Supply,2023-10-31,Current,11842.03
+100,202310-002328,Northstar Refrigeration,2023-10-31,Current,13373.57
+100,202310-002329,Valley Mechanical Parts,2023-10-31,Current,16889.69
+100,202310-002330,Regional Building Services,2023-10-31,Current,16491.77
+100,202310-002331,Prairie HVAC Supply,2023-10-31,Current,11368.92
+100,202310-002332,Central Parts Distribution,2023-10-31,Current,17559.31
+100,202310-002337,Midwest Trade Services,2023-10-31,Current,20792.65
+100,202310-002338,Summit Fleet Supply,2023-10-31,Current,16984.31
+200,202310-002349,Midwest Trade Services,2023-10-31,Current,380.8
+200,202310-002350,Summit Fleet Supply,2023-10-31,Current,3057.18

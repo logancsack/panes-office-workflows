@@ -1,0 +1,1 @@
+Roll forward the September FINAL workbook and review deck. Import the October ERP exports. Map new account 6265 Third-party warranty callouts to Warranty, validate JE-202610-017 payroll true-up ($24,600), update history/schedules/flux and refresh the deck. Confirm all checks and subledger ties. Do not overwrite September.

@@ -1,2 +1,4 @@
 # Keep the recorded CSV source bytes, including significant whitespace.
 inputs/*.csv -text -diff
+
+monthly-close/**/*.csv -text -diff

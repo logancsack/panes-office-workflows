@@ -1,0 +1,80 @@
+Entity,Document,Counterparty,Invoice date,Aging band,Open USD
+100,202511-005745,Crossroads Retail Partners,2025-11-30,1-30 overdue,3456.2
+100,202511-005746,Prairie Ridge Logistics,2025-11-30,1-30 overdue,25455.77
+100,202511-005747,Westhaven Medical Campus,2025-11-30,1-30 overdue,31772.55
+100,202512-005877,Cedar Industrial Parks,2025-12-31,Current,36344.5
+100,202512-005878,Northline Warehousing,2025-12-31,Current,51331.97
+100,202512-005879,Meadowcrest Foods,2025-12-31,Current,30888.58
+100,202512-005880,Lakeside Property Group,2025-12-31,Current,46757.68
+100,202512-005881,Elmstone Packaging,2025-12-31,Current,27237.76
+100,202512-005882,Crossroads Retail Partners,2025-12-31,Current,44190.07
+100,202512-005883,Prairie Ridge Logistics,2025-12-31,Current,31728.93
+100,202512-005884,Westhaven Medical Campus,2025-12-31,Current,45323.44
+100,202512-005885,Cedar Industrial Parks,2025-12-31,Current,24675.74
+100,202512-005886,Northline Warehousing,2025-12-31,Current,52825.71
+100,202512-005887,Meadowcrest Foods,2025-12-31,Current,28008.39
+100,202512-005888,Lakeside Property Group,2025-12-31,Current,44402.5
+100,202512-005889,Elmstone Packaging,2025-12-31,Current,41318.44
+100,202512-005890,Crossroads Retail Partners,2025-12-31,Current,41065.93
+100,202512-005891,Prairie Ridge Logistics,2025-12-31,Current,47606.47
+100,202512-005892,Westhaven Medical Campus,2025-12-31,Current,52114.7
+100,202512-005893,Cedar Industrial Parks,2025-12-31,Current,53232.48
+100,202512-005894,Northline Warehousing,2025-12-31,Current,24286.1
+100,202512-005895,Meadowcrest Foods,2025-12-31,Current,39386.4
+100,202512-005896,Lakeside Property Group,2025-12-31,Current,46206.3
+100,202512-005897,Elmstone Packaging,2025-12-31,Current,50955.1
+100,202512-005898,Crossroads Retail Partners,2025-12-31,Current,48206.57
+100,202512-005899,Prairie Ridge Logistics,2025-12-31,Current,45702.45
+100,202512-005901,Westhaven Medical Campus,2025-12-31,Current,42493.91
+100,202512-005902,Cedar Industrial Parks,2025-12-31,Current,39612.84
+100,202512-005903,Northline Warehousing,2025-12-31,Current,31866.37
+100,202512-005904,Meadowcrest Foods,2025-12-31,Current,32070.52
+100,202512-005905,Lakeside Property Group,2025-12-31,Current,21063.96
+100,202512-005906,Elmstone Packaging,2025-12-31,Current,31890.11
+100,202512-005907,Crossroads Retail Partners,2025-12-31,Current,24410.35
+100,202512-005908,Prairie Ridge Logistics,2025-12-31,Current,39232.09
+100,202512-005909,Westhaven Medical Campus,2025-12-31,Current,38835.77
+100,202512-005910,Cedar Industrial Parks,2025-12-31,Current,42257.3
+100,202512-005911,Northline Warehousing,2025-12-31,Current,40216.13
+100,202512-005912,Meadowcrest Foods,2025-12-31,Current,28995.11
+100,202512-005913,Lakeside Property Group,2025-12-31,Current,38232.51
+100,202512-005914,Elmstone Packaging,2025-12-31,Current,27734.46
+100,202512-005915,Crossroads Retail Partners,2025-12-31,Current,27603.51
+100,202512-005916,Prairie Ridge Logistics,2025-12-31,Current,31988.31
+100,202512-005917,Westhaven Medical Campus,2025-12-31,Current,36492.28
+100,202512-005918,Cedar Industrial Parks,2025-12-31,Current,39341.87
+100,202512-005919,Northline Warehousing,2025-12-31,Current,42233.06
+100,202512-005920,Meadowcrest Foods,2025-12-31,Current,36825.81
+100,202512-005921,Lakeside Property Group,2025-12-31,Current,40884.51
+100,202512-005922,Elmstone Packaging,2025-12-31,Current,25369.8
+100,202512-005923,Crossroads Retail Partners,2025-12-31,Current,38275.6
+300,202511-005814,Crossroads Retail Partners,2025-11-30,1-30 overdue,2963.39
+300,202511-005815,Prairie Ridge Logistics,2025-11-30,1-30 overdue,25430.1
+300,202511-005816,Westhaven Medical Campus,2025-11-30,1-30 overdue,18749.49
+300,202511-005817,Cedar Industrial Parks,2025-11-30,1-30 overdue,23268.44
+300,202511-005818,Northline Warehousing,2025-11-30,1-30 overdue,15940.17
+300,202511-005819,Meadowcrest Foods,2025-11-30,1-30 overdue,14275.47
+300,202512-005973,Lakeside Property Group,2025-12-31,Current,24331.2
+300,202512-005974,Elmstone Packaging,2025-12-31,Current,27184.25
+300,202512-005975,Crossroads Retail Partners,2025-12-31,Current,30606.04
+300,202512-005976,Prairie Ridge Logistics,2025-12-31,Current,32834.55
+300,202512-005977,Westhaven Medical Campus,2025-12-31,Current,21034.33
+300,202512-005978,Cedar Industrial Parks,2025-12-31,Current,32779.11
+300,202512-005979,Northline Warehousing,2025-12-31,Current,22029.25
+300,202512-005980,Meadowcrest Foods,2025-12-31,Current,23611.58
+300,202512-005981,Lakeside Property Group,2025-12-31,Current,33838.21
+300,202512-005982,Elmstone Packaging,2025-12-31,Current,34095.8
+300,202512-005983,Crossroads Retail Partners,2025-12-31,Current,18993.74
+300,202512-005984,Prairie Ridge Logistics,2025-12-31,Current,3183.09
+300,202512-005985,Westhaven Medical Campus,2025-12-31,Current,20382.22
+300,202512-005986,Cedar Industrial Parks,2025-12-31,Current,22908.95
+300,202512-005987,Northline Warehousing,2025-12-31,Current,19507.41
+300,202512-005988,Meadowcrest Foods,2025-12-31,Current,23222.56
+300,202512-005989,Lakeside Property Group,2025-12-31,Current,28466.31
+300,202512-005990,Elmstone Packaging,2025-12-31,Current,21094.52
+300,202512-005991,Crossroads Retail Partners,2025-12-31,Current,26446.89
+300,202512-005992,Prairie Ridge Logistics,2025-12-31,Current,15840.01
+300,202512-005993,Westhaven Medical Campus,2025-12-31,Current,25738.47
+300,202512-005994,Cedar Industrial Parks,2025-12-31,Current,19555.21
+300,202512-005995,Northline Warehousing,2025-12-31,Current,15788.02
+300,202512-005996,Meadowcrest Foods,2025-12-31,Current,10203.09
