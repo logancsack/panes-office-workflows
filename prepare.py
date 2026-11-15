@@ -83,7 +83,7 @@ def main():
             raise SystemExit('Could not create a fresh task directory. Inspect the desktop before retrying; --viewer-only can save a handoff without uploading again.')
         for local, remote in uploads():
             machine.files.write(remote, local.read_bytes())
-        print('Inputs and recorded reference stages uploaded. Give TASK.md to your agent.')
+        print('Compact inputs and recorded reference stages uploaded. Give COMPACT_TASK.md to your agent.')
     save_viewer(machine, private)
     print('Private viewer saved to local-results/viewer.json (not printed or committed).')
     print('Stop and keep the computer after the agent finishes. Running time uses prepaid credit.')

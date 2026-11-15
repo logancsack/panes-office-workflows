@@ -1,16 +1,19 @@
 """Actual SDK/MCP transport with a loopback fixture and scripted model; no Office run."""
 
 import json
+import importlib.util
 import os
+import re
 import threading
 import unittest
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
-from unittest.mock import patch
+from types import SimpleNamespace
+from unittest.mock import AsyncMock, patch
 
 from agents import Model, ModelResponse, RunConfig, Runner, Usage
 from openai.types.responses import ResponseFunctionToolCall, ResponseOutputMessage, ResponseOutputText
 
-from office_agent import SelectedComputerServer, SetupError, WORK_TOOLS, office_agent, require_running
+from office_agent import ROOT, SelectedComputerServer, SetupError, WORK_TOOLS, office_agent, parse_args, require_running, run
 
 
 class ScriptedModel(Model):
@@ -89,6 +92,28 @@ class ConnectionTest(unittest.IsolatedAsyncioTestCase):
             with self.assertRaisesRegex(ValueError, "selected computer"):
                 await server.call_tool("machine_get", {"id": "m-selected"})
         self.assertEqual(self.requests, [])
+
+    async def test_documented_execution_sends_task_matching_actual_uploads(self):
+        with patch.dict(os.environ, {"OPENAI_API_KEY": "local-model-test-inert"}), patch(
+            "sys.argv", ["office_agent.py", "--machine", "m-selected", "--model", "fixture-model", "--execute"]
+        ), patch("office_agent.Runner.run", new_callable=AsyncMock) as runner:
+            runner.return_value = SimpleNamespace(new_items=[])
+            await run(parse_args())
+        runner.assert_awaited_once()
+        task = runner.await_args.args[1]
+        self.assertEqual(task, (ROOT / "COMPACT_TASK.md").read_text(encoding="utf-8"))
+        self.assertIn("expense export", task)
+        self.assertNotIn("monthly-close/", task)
+        self.assertEqual(self.requests, [("GET", "/v1/machines/m-selected")])
+
+        # Reconcile instructions against the actual helper's upload manifest,
+        # not a second hand-maintained fixture or the expanded close history.
+        spec = importlib.util.spec_from_file_location("compact_uploads", ROOT / "prepare.py")
+        helper = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(helper)
+        prepared = {remote.rsplit("/", 1)[-1] for _, remote in helper.uploads()}
+        required = set(re.findall(r"`([A-Za-z0-9][A-Za-z0-9 ._-]*\.(?:csv|ps1|tsv|json))`", task))
+        self.assertEqual(required, prepared)
 
     async def test_real_runner_filters_scope_before_transport(self):
         async with SelectedComputerServer(execute=True, machine="m-selected") as server:

@@ -131,7 +131,7 @@ def parse_args():
     parser.add_argument("--execute", action="store_true", help="Permit model calls and work on the selected running computer.")
     parser.add_argument("--machine", help="Existing running Panes computer with native Office signed in.")
     parser.add_argument("--model", help="OpenAI vision model available to your API account.")
-    parser.add_argument("--task-file", type=Path, default=ROOT / "TASK.md")
+    parser.add_argument("--task-file", type=Path, default=ROOT / "COMPACT_TASK.md")
     parser.add_argument("--max-turns", type=int, default=40)
     parser.add_argument("--max-seconds", type=int, default=900)
     args = parser.parse_args()

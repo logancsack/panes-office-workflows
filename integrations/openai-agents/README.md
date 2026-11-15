@@ -2,7 +2,7 @@
 
 Connect the OpenAI Agents SDK to a Panes Windows computer. Give the agent native Excel, Power Query, PivotTables, charts and PowerPoint desktop apps, then keep the editable workbook and deck.
 
-This client uses the [original compact expense workflow](../../TASK.md). [Watch its real Panes Office recording](../../media/office-report.mp4), [open the workbook](../../outputs/October%20close.xlsx) and [inspect the editable deck](../../outputs/October%20review.pptx). The expanded [37-month finance close](../../monthly-close/README.md) is a separate example. The recordings show real Office; this new SDK client's transport and restrictions are tested locally, without a new model-driven Office run.
+This client uses the [original compact expense workflow](../../COMPACT_TASK.md). [Watch its real Panes Office recording](../../media/office-report.mp4), [open the workbook](../../outputs/October%20close.xlsx) and [inspect the editable deck](../../outputs/October%20review.pptx). The expanded [37-month finance close](../../monthly-close/README.md) is a separate example. The recordings show real Office; this new SDK client's transport and restrictions are tested locally, without a new model-driven Office run.
 
 ## Check the connection first
 
@@ -34,7 +34,7 @@ The helper refuses an existing task directory and saves the private viewer in `l
 uv run --locked office_agent.py --machine YOUR_MACHINE_ID --model YOUR_VISION_MODEL --execute
 ```
 
-The client reads the selected computer's actual state before making a model call. It refuses a stopped computer or unresolved recovery warning. The agent receives the compact [TASK.md](../../TASK.md), works in `C:/work/Panes-office-demo`, and runs Office commands in the signed-in Windows desktop.
+The client reads the selected computer's actual state before making a model call. It refuses a stopped computer or unresolved recovery warning. The agent receives the compact [COMPACT_TASK.md](../../COMPACT_TASK.md), works in `C:/work/Panes-office-demo`, and runs Office commands in the signed-in Windows desktop.
 
 Use the saved private viewer to inspect the work. Verify $686,500 actual, $645,000 budget, $41,500 unfavorable, 480 unique documents and editable embedded PowerPoint charts. The [independent validator](../../validate.py) documents the recorded output layout and checks; a model's completion message is not verification. Download the saved files through the Panes SDK's `machine.files.read(path)`.
 

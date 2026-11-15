@@ -1,6 +1,6 @@
 # Run a LangChain agent in Excel and PowerPoint
 
-Give a LangChain agent the Windows desktop where the work happens: native Excel Power Query, a PivotTable, charts, and a PowerPoint deck someone can keep editing. This example connects LangChain to the Panes MCP server and supplies the [original compact expense task](../../TASK.md).
+Give a LangChain agent the Windows desktop where the work happens: native Excel Power Query, a PivotTable, charts, and a PowerPoint deck someone can keep editing. This example connects LangChain to the Panes MCP server and supplies the [original compact expense task](../../COMPACT_TASK.md).
 
 [Watch the actual Windows run](../../media/office-report.mp4) · [Inspect the Excel workbook](../../outputs/October%20close.xlsx) · [Inspect the editable deck](../../outputs/October%20review.pptx)
 
@@ -34,7 +34,7 @@ uv run --project ../desktop --locked python ../../prepare.py --machine YOUR_MACH
 uv run --locked office_agent.py --machine YOUR_MACHINE_ID --model openai:YOUR_VISION_MODEL --execute
 ```
 
-`--execute` permits model calls and work on that running computer. The client first reads its state and refuses a stopped computer or an unresolved recovery warning. It passes [TASK.md](../../TASK.md) to the agent, which works in real desktop Office. The prepared task directory is `C:/work/Panes-office-demo`.
+`--execute` permits model calls and work on that running computer. The client first reads its state and refuses a stopped computer or an unresolved recovery warning. It passes [COMPACT_TASK.md](../../COMPACT_TASK.md) to the agent, which works in real desktop Office. The prepared task directory is `C:/work/Panes-office-demo`.
 
 Open the private viewer from `local-results/viewer.json` to inspect the work. The agent should leave `October close.xlsx` and `October review.pptx` in that task directory. Reconcile the CSVs against the workbook and deck: $686,500 actual, $645,000 budget, $41,500 unfavorable, 480 unique documents, and editable embedded PowerPoint charts. The [independent verifier](../../validate.py) documents the expected checks for the recorded output layout; an agent's completion message alone is not verification.
 
