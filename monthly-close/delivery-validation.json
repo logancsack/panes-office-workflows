@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "company": "Alder Mechanical Services Group \u2014 fictional sample company",
+  "closed_months": 37,
+  "historical_range": "September 2023\u2013September 2026",
+  "desktop_office_files_opened": 319,
+  "workbooks": 39,
+  "presentations": 39,
+  "csv_exports": 241,
+  "formula_errors": 0,
+  "workbook_controls_per_month": 14,
+  "all_controls": "PASS",
+  "october_independent_cells_checked": 543,
+  "october": {
+    "revenue": 1988001.06,
+    "ebitda": 90142.13,
+    "net_income": 41488.92,
+    "cash": 3426168.98
+  },
+  "native_applications": {
+    "Excel": "16.0",
+    "PowerPoint": "16.0"
+  },
+  "recording_seconds": 71.2,
+  "recording_uncut": true,
+  "public_release": "Awaiting owner approval; replacement is held in draft",
+  "evidence": {
+    "history": "validation.json",
+    "october": "october-validation.json",
+    "exact_file_hashes": "verified-deliverables.json",
+    "csv_opening": "csv-open-validation.json",
+    "recording": "media/provenance.json"
+  }
+}

@@ -1,0 +1,35 @@
+Account,Description,Reporting line,Type
+1000,Operating cash,Cash,BS
+1100,Trade receivables,AR,BS
+1200,Service parts inventory,Inventory,BS
+1300,Prepaid insurance,Prepaids,BS
+1400,Fleet and equipment cost,PPE,BS
+1490,Accumulated depreciation,Accum dep,BS
+1500,Intercompany receivable,IC receivable,BS
+1600,Acquisition goodwill,Goodwill,BS
+2000,Trade payables,AP,BS
+2100,Accrued payroll,Payroll accrual,BS
+2150,Warranty reserve,Warranty accrual,BS
+2200,Income taxes payable,Tax payable,BS
+2500,Intercompany payable,IC payable,BS
+2600,Term debt,Debt,BS
+3000,Member capital,Capital,BS
+3100,Retained earnings,RE,BS
+3200,Member distributions,Capital,BS
+4000,Service contracts,Contract revenue,PL
+4100,Demand service,Demand revenue,PL
+4900,Shared service recovery,IC recovery,PL
+5000,Parts and subcontractors,Parts,PL
+5100,Field wages and benefits,Field labor,PL
+6000,Office payroll and benefits,Office labor,PL
+6100,Occupancy and facilities,Occupancy,PL
+6200,Fleet operating costs - legacy,Fleet,PL
+6205,Fleet fuel and maintenance,Fleet,PL
+6250,Customer warranty costs,Warranty,PL
+6265,Third-party warranty callouts,Warranty,PL
+6300,Insurance amortization,Insurance,PL
+6400,Depreciation,Depreciation,PL
+6500,Shared service allocation,IC allocation,PL
+6600,Interest expense,Interest,PL
+6700,Income tax expense,Tax,PL
+5200,Field payroll - legacy,Field labor,PL

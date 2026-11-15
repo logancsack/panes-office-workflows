@@ -1,0 +1,53 @@
+Entity,Department,Account,Ending
+100,Balance Sheet,1000,2585974.25
+100,Balance Sheet,1100,1799685.11
+100,Balance Sheet,1200,332078.09
+100,Balance Sheet,1300,42000.0
+100,Balance Sheet,1400,813435.32
+100,Balance Sheet,1490,-175101.64
+100,Balance Sheet,2000,-235068.82
+100,Balance Sheet,2100,-161410.32
+100,Balance Sheet,2150,-43142.69
+100,Balance Sheet,2200,-227217.92
+100,Balance Sheet,2500,-23332.92
+100,Balance Sheet,2600,-480000.0
+100,Balance Sheet,3000,-1980000.0
+100,Balance Sheet,3100,-2214263.06
+100,Balance Sheet,3200,1413319.05
+100,Corporate,6000,566352.0
+100,Corporate,6100,164543.8
+100,Corporate,6300,84000.0
+100,Corporate,6400,74626.68
+100,Corporate,6500,964776.32
+100,Corporate,6600,23321.25
+100,Corporate,6700,482318.15
+100,Maintenance,4000,-6086877.94
+100,Maintenance,5000,1442590.07
+100,Maintenance,5200,2273129.1
+100,Service,4100,-4980172.87
+100,Service,5000,1444250.12
+100,Service,5200,1859832.9
+100,Service,6200,151819.58
+100,Service,6250,88536.39
+200,Balance Sheet,1000,317931.49
+200,Balance Sheet,1300,7560.0
+200,Balance Sheet,1400,21150.46
+200,Balance Sheet,1490,-2632.19
+200,Balance Sheet,1500,23332.92
+200,Balance Sheet,2000,-3831.95
+200,Balance Sheet,2100,-27609.66
+200,Balance Sheet,2200,-2245.52
+200,Balance Sheet,3000,-250000.0
+200,Balance Sheet,3100,-35893.78
+200,Balance Sheet,3200,6988.64
+200,Corporate,4900,-964776.32
+200,Corporate,6000,818064.0
+200,Corporate,6100,29617.88
+200,Corporate,6200,27327.53
+200,Corporate,6300,15120.0
+200,Corporate,6400,1646.36
+200,Corporate,6700,18250.14
+ELIM,Balance Sheet,1500,-23332.92
+ELIM,Balance Sheet,2500,23332.92
+ELIM,Corporate,4900,964776.32
+ELIM,Corporate,6500,-964776.32

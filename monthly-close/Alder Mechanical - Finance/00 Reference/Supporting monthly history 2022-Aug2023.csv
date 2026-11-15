@@ -1,0 +1,481 @@
+Period,Entity,Department,Line,USD
+2022-01-31,100,Maintenance,Contract revenue,649411.05
+2022-01-31,100,Service,Demand revenue,531336.32
+2022-01-31,100,Maintenance,Parts,153910.42
+2022-01-31,100,Maintenance,Field labor,250580.0
+2022-01-31,100,Service,Parts,154087.53
+2022-01-31,100,Service,Field labor,205020.0
+2022-01-31,100,Corporate,Office labor,60800.0
+2022-01-31,100,Corporate,Occupancy,19000.0
+2022-01-31,100,Service,Fleet,16000.0
+2022-01-31,100,Service,Warranty,9445.98
+2022-01-31,100,Corporate,Insurance,10000.0
+2022-01-31,100,Corporate,Depreciation,7788.69
+2022-01-31,100,Corporate,Interest,3656.25
+2022-01-31,200,Corporate,Office labor,91200.0
+2022-01-31,200,Corporate,Occupancy,3420.0
+2022-01-31,200,Corporate,Fleet,2880.0
+2022-01-31,200,Corporate,Insurance,1800.0
+2022-01-31,200,Corporate,Depreciation,6.55
+2022-01-31,100,Corporate,IC allocation,103278.81
+2022-01-31,200,Corporate,IC recovery,103278.81
+2022-01-31,ELIM,Corporate,IC recovery,-103278.81
+2022-01-31,ELIM,Corporate,IC allocation,-103278.81
+2022-01-31,100,Corporate,Tax,46794.92
+2022-01-31,200,Corporate,Tax,993.06
+2022-02-28,100,Maintenance,Contract revenue,596252.48
+2022-02-28,100,Service,Demand revenue,487842.93
+2022-02-28,100,Maintenance,Parts,141311.84
+2022-02-28,100,Maintenance,Field labor,250580.0
+2022-02-28,100,Service,Parts,141474.45
+2022-02-28,100,Service,Field labor,205020.0
+2022-02-28,100,Corporate,Office labor,60800.0
+2022-02-28,100,Corporate,Occupancy,19038.0
+2022-02-28,100,Service,Fleet,14749.44
+2022-02-28,100,Service,Warranty,8672.76
+2022-02-28,100,Corporate,Insurance,10000.0
+2022-02-28,100,Corporate,Depreciation,7839.39
+2022-02-28,100,Corporate,Interest,3608.44
+2022-02-28,200,Corporate,Office labor,91200.0
+2022-02-28,200,Corporate,Occupancy,3426.84
+2022-02-28,200,Corporate,Fleet,2654.9
+2022-02-28,200,Corporate,Insurance,1800.0
+2022-02-28,200,Corporate,Depreciation,13.11
+2022-02-28,100,Corporate,IC allocation,103058.64
+2022-02-28,200,Corporate,IC recovery,103058.64
+2022-02-28,ELIM,Corporate,IC recovery,-103058.64
+2022-02-28,ELIM,Corporate,IC allocation,-103058.64
+2022-02-28,100,Corporate,Tax,29485.61
+2022-02-28,200,Corporate,Tax,990.95
+2022-03-31,100,Maintenance,Contract revenue,585090.36
+2022-03-31,100,Service,Demand revenue,478710.3
+2022-03-31,100,Maintenance,Parts,138666.42
+2022-03-31,100,Maintenance,Field labor,250580.0
+2022-03-31,100,Service,Parts,138825.99
+2022-03-31,100,Service,Field labor,205020.0
+2022-03-31,100,Corporate,Office labor,60800.0
+2022-03-31,100,Corporate,Occupancy,19076.0
+2022-03-31,100,Service,Fleet,14457.6
+2022-03-31,100,Service,Warranty,8510.41
+2022-03-31,100,Corporate,Insurance,10000.0
+2022-03-31,100,Corporate,Depreciation,8062.9
+2022-03-31,100,Corporate,Interest,3560.62
+2022-03-31,200,Corporate,Office labor,91200.0
+2022-03-31,200,Corporate,Occupancy,3433.68
+2022-03-31,200,Corporate,Fleet,2602.37
+2022-03-31,200,Corporate,Insurance,1800.0
+2022-03-31,200,Corporate,Depreciation,42.03
+2022-03-31,100,Corporate,IC allocation,103041.2
+2022-03-31,200,Corporate,IC recovery,103041.2
+2022-03-31,ELIM,Corporate,IC recovery,-103041.2
+2022-03-31,ELIM,Corporate,IC allocation,-103041.2
+2022-03-31,100,Corporate,Tax,25799.88
+2022-03-31,200,Corporate,Tax,990.78
+2022-04-30,100,Maintenance,Contract revenue,617108.17
+2022-04-30,100,Service,Demand revenue,504906.68
+2022-04-30,100,Maintenance,Parts,146254.64
+2022-04-30,100,Maintenance,Field labor,257950.0
+2022-04-30,100,Service,Parts,146422.94
+2022-04-30,100,Service,Field labor,211050.0
+2022-04-30,100,Corporate,Office labor,60800.0
+2022-04-30,100,Corporate,Occupancy,19114.0
+2022-04-30,100,Service,Fleet,15291.2
+2022-04-30,100,Service,Warranty,8976.12
+2022-04-30,100,Corporate,Insurance,10000.0
+2022-04-30,100,Corporate,Depreciation,8113.8
+2022-04-30,100,Corporate,Interest,3512.81
+2022-04-30,200,Corporate,Office labor,91200.0
+2022-04-30,200,Corporate,Occupancy,3440.52
+2022-04-30,200,Corporate,Fleet,2752.42
+2022-04-30,200,Corporate,Insurance,1800.0
+2022-04-30,200,Corporate,Depreciation,48.62
+2022-04-30,100,Corporate,IC allocation,103211.22
+2022-04-30,200,Corporate,IC recovery,103211.22
+2022-04-30,ELIM,Corporate,IC recovery,-103211.22
+2022-04-30,ELIM,Corporate,IC allocation,-103211.22
+2022-04-30,100,Corporate,Tax,32829.53
+2022-04-30,200,Corporate,Tax,992.42
+2022-05-31,100,Maintenance,Contract revenue,722440.54
+2022-05-31,100,Service,Demand revenue,591087.72
+2022-05-31,100,Maintenance,Parts,171218.41
+2022-05-31,100,Maintenance,Field labor,257950.0
+2022-05-31,100,Service,Parts,171415.44
+2022-05-31,100,Service,Field labor,211050.0
+2022-05-31,100,Corporate,Office labor,60800.0
+2022-05-31,100,Corporate,Occupancy,19152.0
+2022-05-31,100,Service,Fleet,17740.8
+2022-05-31,100,Service,Warranty,10508.23
+2022-05-31,100,Corporate,Insurance,10000.0
+2022-05-31,100,Corporate,Depreciation,8164.8
+2022-05-31,100,Corporate,Interest,3465.0
+2022-05-31,200,Corporate,Office labor,91200.0
+2022-05-31,200,Corporate,Occupancy,3447.36
+2022-05-31,200,Corporate,Fleet,3193.34
+2022-05-31,200,Corporate,Insurance,1800.0
+2022-05-31,200,Corporate,Depreciation,55.22
+2022-05-31,100,Corporate,IC allocation,103683.76
+2022-05-31,200,Corporate,IC recovery,103683.76
+2022-05-31,ELIM,Corporate,IC recovery,-103683.76
+2022-05-31,ELIM,Corporate,IC allocation,-103683.76
+2022-05-31,100,Corporate,Tax,67094.96
+2022-05-31,200,Corporate,Tax,996.96
+2022-06-30,100,Maintenance,Contract revenue,808347.72
+2022-06-30,100,Service,Demand revenue,661375.4
+2022-06-30,100,Maintenance,Parts,191578.41
+2022-06-30,100,Maintenance,Field labor,257950.0
+2022-06-30,100,Service,Parts,191798.87
+2022-06-30,100,Service,Field labor,211050.0
+2022-06-30,100,Corporate,Office labor,60800.0
+2022-06-30,100,Corporate,Occupancy,19190.0
+2022-06-30,100,Service,Fleet,20038.4
+2022-06-30,100,Service,Warranty,11757.78
+2022-06-30,100,Corporate,Insurance,10000.0
+2022-06-30,100,Corporate,Depreciation,8389.64
+2022-06-30,100,Corporate,Interest,3417.19
+2022-06-30,200,Corporate,Office labor,91200.0
+2022-06-30,200,Corporate,Occupancy,3454.2
+2022-06-30,200,Corporate,Fleet,3606.91
+2022-06-30,200,Corporate,Insurance,1800.0
+2022-06-30,200,Corporate,Depreciation,84.32
+2022-06-30,100,Corporate,IC allocation,104151.25
+2022-06-30,200,Corporate,IC recovery,104151.25
+2022-06-30,ELIM,Corporate,IC recovery,-104151.25
+2022-06-30,ELIM,Corporate,IC allocation,-104151.25
+2022-06-30,100,Corporate,Tax,94900.4
+2022-06-30,200,Corporate,Tax,1001.46
+2022-07-31,100,Maintenance,Contract revenue,892267.92
+2022-07-31,100,Service,Demand revenue,730037.39
+2022-07-31,100,Maintenance,Parts,211467.5
+2022-07-31,100,Maintenance,Field labor,261635.0
+2022-07-31,100,Service,Parts,211710.84
+2022-07-31,100,Service,Field labor,214065.0
+2022-07-31,100,Corporate,Office labor,68400.0
+2022-07-31,100,Corporate,Occupancy,19228.0
+2022-07-31,100,Service,Fleet,22021.12
+2022-07-31,100,Service,Warranty,12978.44
+2022-07-31,100,Corporate,Insurance,10000.0
+2022-07-31,100,Corporate,Depreciation,8440.84
+2022-07-31,100,Corporate,Interest,3369.38
+2022-07-31,200,Corporate,Office labor,91200.0
+2022-07-31,200,Corporate,Occupancy,3461.04
+2022-07-31,200,Corporate,Fleet,3963.8
+2022-07-31,200,Corporate,Insurance,1800.0
+2022-07-31,200,Corporate,Depreciation,90.94
+2022-07-31,100,Corporate,IC allocation,104536.41
+2022-07-31,200,Corporate,IC recovery,104536.41
+2022-07-31,ELIM,Corporate,IC recovery,-104536.41
+2022-07-31,ELIM,Corporate,IC allocation,-104536.41
+2022-07-31,100,Corporate,Tax,118613.2
+2022-07-31,200,Corporate,Tax,1005.16
+2022-08-31,100,Maintenance,Contract revenue,833083.6
+2022-08-31,100,Service,Demand revenue,681613.86
+2022-08-31,100,Maintenance,Parts,197440.81
+2022-08-31,100,Maintenance,Field labor,261635.0
+2022-08-31,100,Service,Parts,197668.02
+2022-08-31,100,Service,Field labor,214065.0
+2022-08-31,100,Corporate,Office labor,68400.0
+2022-08-31,100,Corporate,Occupancy,19266.0
+2022-08-31,100,Service,Fleet,20928.96
+2022-08-31,100,Service,Warranty,12117.58
+2022-08-31,100,Corporate,Insurance,10000.0
+2022-08-31,100,Corporate,Depreciation,8492.15
+2022-08-31,100,Corporate,Interest,3321.56
+2022-08-31,200,Corporate,Office labor,91200.0
+2022-08-31,200,Corporate,Occupancy,3467.88
+2022-08-31,200,Corporate,Fleet,3767.21
+2022-08-31,200,Corporate,Insurance,1800.0
+2022-08-31,200,Corporate,Depreciation,97.58
+2022-08-31,100,Corporate,IC allocation,104345.98
+2022-08-31,200,Corporate,IC recovery,104345.98
+2022-08-31,ELIM,Corporate,IC recovery,-104345.98
+2022-08-31,ELIM,Corporate,IC allocation,-104345.98
+2022-08-31,100,Corporate,Tax,99254.1
+2022-08-31,200,Corporate,Tax,1003.33
+2022-09-30,100,Maintenance,Contract revenue,689020.63
+2022-09-30,100,Service,Demand revenue,563744.15
+2022-09-30,100,Maintenance,Parts,163297.89
+2022-09-30,100,Maintenance,Field labor,261635.0
+2022-09-30,100,Service,Parts,163485.8
+2022-09-30,100,Service,Field labor,214065.0
+2022-09-30,100,Corporate,Office labor,68400.0
+2022-09-30,100,Corporate,Occupancy,19304.0
+2022-09-30,100,Service,Fleet,17556.48
+2022-09-30,100,Service,Warranty,10022.12
+2022-09-30,100,Corporate,Insurance,10000.0
+2022-09-30,100,Corporate,Depreciation,8718.33
+2022-09-30,100,Corporate,Interest,3273.75
+2022-09-30,200,Corporate,Office labor,91200.0
+2022-09-30,200,Corporate,Occupancy,3474.72
+2022-09-30,200,Corporate,Fleet,3160.17
+2022-09-30,200,Corporate,Insurance,1800.0
+2022-09-30,200,Corporate,Depreciation,126.85
+2022-09-30,100,Corporate,IC allocation,103752.21
+2022-09-30,200,Corporate,IC recovery,103752.21
+2022-09-30,ELIM,Corporate,IC recovery,-103752.21
+2022-09-30,ELIM,Corporate,IC allocation,-103752.21
+2022-09-30,100,Corporate,Tax,52313.55
+2022-09-30,200,Corporate,Tax,997.62
+2022-10-31,100,Maintenance,Contract revenue,640087.22
+2022-10-31,100,Service,Demand revenue,523707.72
+2022-10-31,100,Maintenance,Parts,151700.67
+2022-10-31,100,Maintenance,Field labor,261635.0
+2022-10-31,100,Service,Parts,151875.24
+2022-10-31,100,Service,Field labor,214065.0
+2022-10-31,100,Corporate,Office labor,68400.0
+2022-10-31,100,Corporate,Occupancy,19342.0
+2022-10-31,100,Service,Fleet,15799.36
+2022-10-31,100,Service,Warranty,9310.36
+2022-10-31,100,Corporate,Insurance,10000.0
+2022-10-31,100,Corporate,Depreciation,8769.83
+2022-10-31,100,Corporate,Interest,3225.94
+2022-10-31,200,Corporate,Office labor,91200.0
+2022-10-31,200,Corporate,Occupancy,3481.56
+2022-10-31,200,Corporate,Fleet,2843.88
+2022-10-31,200,Corporate,Insurance,1800.0
+2022-10-31,200,Corporate,Depreciation,133.52
+2022-10-31,100,Corporate,IC allocation,103437.32
+2022-10-31,200,Corporate,IC recovery,103437.32
+2022-10-31,ELIM,Corporate,IC recovery,-103437.32
+2022-10-31,ELIM,Corporate,IC allocation,-103437.32
+2022-10-31,100,Corporate,Tax,36558.56
+2022-10-31,200,Corporate,Tax,994.59
+2022-11-30,100,Maintenance,Contract revenue,689421.62
+2022-11-30,100,Service,Demand revenue,564072.23
+2022-11-30,100,Maintenance,Parts,163392.92
+2022-11-30,100,Maintenance,Field labor,261635.0
+2022-11-30,100,Service,Parts,163580.95
+2022-11-30,100,Service,Field labor,214065.0
+2022-11-30,100,Corporate,Office labor,68400.0
+2022-11-30,100,Corporate,Occupancy,19380.0
+2022-11-30,100,Service,Fleet,17299.2
+2022-11-30,100,Service,Warranty,10027.95
+2022-11-30,100,Corporate,Insurance,10000.0
+2022-11-30,100,Corporate,Depreciation,8821.44
+2022-11-30,100,Corporate,Interest,3178.13
+2022-11-30,200,Corporate,Office labor,91200.0
+2022-11-30,200,Corporate,Occupancy,3488.4
+2022-11-30,200,Corporate,Fleet,3113.86
+2022-11-30,200,Corporate,Insurance,1800.0
+2022-11-30,200,Corporate,Depreciation,140.2
+2022-11-30,100,Corporate,IC allocation,103732.16
+2022-11-30,200,Corporate,IC recovery,103732.16
+2022-11-30,ELIM,Corporate,IC recovery,-103732.16
+2022-11-30,ELIM,Corporate,IC allocation,-103732.16
+2022-11-30,100,Corporate,Tax,52495.28
+2022-11-30,200,Corporate,Tax,997.42
+2022-12-31,100,Maintenance,Contract revenue,779721.55
+2022-12-31,100,Service,Demand revenue,637954.0
+2022-12-31,100,Maintenance,Parts,184794.01
+2022-12-31,100,Maintenance,Field labor,261635.0
+2022-12-31,100,Service,Parts,185006.66
+2022-12-31,100,Service,Field labor,214065.0
+2022-12-31,100,Corporate,Office labor,68400.0
+2022-12-31,100,Corporate,Occupancy,19418.0
+2022-12-31,100,Service,Fleet,19131.84
+2022-12-31,100,Service,Warranty,11341.4
+2022-12-31,100,Corporate,Insurance,10000.0
+2022-12-31,100,Corporate,Depreciation,8873.15
+2022-12-31,100,Corporate,Interest,3130.31
+2022-12-31,200,Corporate,Office labor,91200.0
+2022-12-31,200,Corporate,Occupancy,3495.24
+2022-12-31,200,Corporate,Fleet,3443.73
+2022-12-31,200,Corporate,Insurance,1800.0
+2022-12-31,200,Corporate,Depreciation,146.89
+2022-12-31,100,Corporate,IC allocation,104089.29
+2022-12-31,200,Corporate,IC recovery,104089.29
+2022-12-31,ELIM,Corporate,IC recovery,-104089.29
+2022-12-31,ELIM,Corporate,IC allocation,-104089.29
+2022-12-31,100,Corporate,Tax,81947.72
+2022-12-31,200,Corporate,Tax,1000.86
+2023-01-31,100,Maintenance,Contract revenue,681684.55
+2023-01-31,100,Service,Demand revenue,557741.91
+2023-01-31,100,Maintenance,Parts,161559.24
+2023-01-31,100,Maintenance,Field labor,278420.18
+2023-01-31,100,Service,Parts,161745.15
+2023-01-31,100,Service,Field labor,227798.32
+2023-01-31,100,Corporate,Office labor,70794.0
+2023-01-31,100,Corporate,Occupancy,20425.0
+2023-01-31,100,Service,Fleet,17200.0
+2023-01-31,100,Service,Warranty,9915.41
+2023-01-31,100,Corporate,Insurance,10500.0
+2023-01-31,100,Corporate,Depreciation,8927.54
+2023-01-31,100,Corporate,Interest,3082.5
+2023-01-31,200,Corporate,Office labor,102258.0
+2023-01-31,200,Corporate,Occupancy,3676.5
+2023-01-31,200,Corporate,Fleet,3096.0
+2023-01-31,200,Corporate,Insurance,1890.0
+2023-01-31,200,Corporate,Depreciation,153.93
+2023-01-31,100,Corporate,IC allocation,152846.94
+2023-01-31,200,Corporate,IC recovery,152846.94
+2023-01-31,ELIM,Corporate,IC recovery,-152846.94
+2023-01-31,ELIM,Corporate,IC allocation,-152846.94
+2023-01-31,100,Corporate,Tax,29053.04
+2023-01-31,200,Corporate,Tax,10443.13
+2023-02-28,100,Maintenance,Contract revenue,640035.67
+2023-02-28,100,Service,Demand revenue,523665.55
+2023-02-28,100,Maintenance,Parts,151688.45
+2023-02-28,100,Maintenance,Field labor,278420.18
+2023-02-28,100,Service,Parts,151863.01
+2023-02-28,100,Service,Field labor,227798.32
+2023-02-28,100,Corporate,Office labor,70794.0
+2023-02-28,100,Corporate,Occupancy,20465.85
+2023-02-28,100,Service,Fleet,15855.65
+2023-02-28,100,Service,Warranty,9309.61
+2023-02-28,100,Corporate,Insurance,10500.0
+2023-02-28,100,Corporate,Depreciation,8982.04
+2023-02-28,100,Corporate,Interest,3034.69
+2023-02-28,200,Corporate,Office labor,102258.0
+2023-02-28,200,Corporate,Occupancy,3683.85
+2023-02-28,200,Corporate,Fleet,2854.02
+2023-02-28,200,Corporate,Insurance,1890.0
+2023-02-28,200,Corporate,Depreciation,160.98
+2023-02-28,100,Corporate,IC allocation,115280.72
+2023-02-28,200,Corporate,IC recovery,115280.72
+2023-02-28,ELIM,Corporate,IC recovery,-115280.72
+2023-02-28,ELIM,Corporate,IC allocation,-115280.72
+2023-02-28,100,Corporate,Tax,24927.18
+2023-02-28,200,Corporate,Tax,1108.47
+2023-03-31,100,Maintenance,Contract revenue,609430.28
+2023-03-31,100,Service,Demand revenue,498624.77
+2023-03-31,100,Maintenance,Parts,144434.98
+2023-03-31,100,Maintenance,Field labor,278420.18
+2023-03-31,100,Service,Parts,144601.18
+2023-03-31,100,Service,Field labor,227798.32
+2023-03-31,100,Corporate,Office labor,70794.0
+2023-03-31,100,Corporate,Occupancy,20506.7
+2023-03-31,100,Service,Fleet,15541.92
+2023-03-31,100,Service,Warranty,8864.44
+2023-03-31,100,Corporate,Insurance,10500.0
+2023-03-31,100,Corporate,Depreciation,9222.31
+2023-03-31,100,Corporate,Interest,2986.88
+2023-03-31,200,Corporate,Office labor,102258.0
+2023-03-31,200,Corporate,Occupancy,3691.21
+2023-03-31,200,Corporate,Fleet,2797.55
+2023-03-31,200,Corporate,Insurance,1890.0
+2023-03-31,200,Corporate,Depreciation,192.07
+2023-03-31,100,Corporate,IC allocation,115261.98
+2023-03-31,200,Corporate,IC recovery,115261.98
+2023-03-31,ELIM,Corporate,IC recovery,-115261.98
+2023-03-31,ELIM,Corporate,IC allocation,-115261.98
+2023-03-31,100,Corporate,Tax,14780.54
+2023-03-31,200,Corporate,Tax,1108.29
+2023-04-30,100,Maintenance,Contract revenue,667972.35
+2023-04-30,100,Service,Demand revenue,546522.84
+2023-04-30,100,Maintenance,Parts,158309.45
+2023-04-30,100,Maintenance,Field labor,286048.12
+2023-04-30,100,Service,Parts,158491.62
+2023-04-30,100,Service,Field labor,234039.38
+2023-04-30,100,Corporate,Office labor,70794.0
+2023-04-30,100,Corporate,Occupancy,20547.55
+2023-04-30,100,Service,Fleet,16438.04
+2023-04-30,100,Service,Warranty,9715.96
+2023-04-30,100,Corporate,Insurance,10500.0
+2023-04-30,100,Corporate,Depreciation,9277.03
+2023-04-30,100,Corporate,Interest,2939.06
+2023-04-30,200,Corporate,Office labor,102258.0
+2023-04-30,200,Corporate,Occupancy,3698.56
+2023-04-30,200,Corporate,Fleet,2958.85
+2023-04-30,200,Corporate,Insurance,1890.0
+2023-04-30,200,Corporate,Depreciation,199.16
+2023-04-30,100,Corporate,IC allocation,115444.75
+2023-04-30,200,Corporate,IC recovery,115444.75
+2023-04-30,ELIM,Corporate,IC recovery,-115444.75
+2023-04-30,ELIM,Corporate,IC allocation,-115444.75
+2023-04-30,100,Corporate,Tax,30487.56
+2023-04-30,200,Corporate,Tax,1110.04
+2023-05-31,100,Maintenance,Contract revenue,774761.83
+2023-05-31,100,Service,Demand revenue,633896.05
+2023-05-31,100,Maintenance,Parts,183618.55
+2023-05-31,100,Maintenance,Field labor,286048.12
+2023-05-31,100,Service,Parts,183829.85
+2023-05-31,100,Service,Field labor,234039.38
+2023-05-31,100,Corporate,Office labor,70794.0
+2023-05-31,100,Corporate,Occupancy,20588.4
+2023-05-31,100,Service,Fleet,19071.36
+2023-05-31,100,Service,Warranty,11269.26
+2023-05-31,100,Corporate,Insurance,10500.0
+2023-05-31,100,Corporate,Depreciation,9331.85
+2023-05-31,100,Corporate,Interest,2891.25
+2023-05-31,200,Corporate,Office labor,102258.0
+2023-05-31,200,Corporate,Occupancy,3705.91
+2023-05-31,200,Corporate,Fleet,3432.84
+2023-05-31,200,Corporate,Insurance,1890.0
+2023-05-31,200,Corporate,Depreciation,206.25
+2023-05-31,100,Corporate,IC allocation,115952.72
+2023-05-31,200,Corporate,IC recovery,115952.72
+2023-05-31,ELIM,Corporate,IC recovery,-115952.72
+2023-05-31,ELIM,Corporate,IC allocation,-115952.72
+2023-05-31,100,Corporate,Tax,65180.78
+2023-05-31,200,Corporate,Tax,1114.93
+2023-06-30,100,Maintenance,Contract revenue,853873.82
+2023-06-30,100,Service,Demand revenue,698624.03
+2023-06-30,100,Maintenance,Parts,202368.09
+2023-06-30,100,Maintenance,Field labor,286048.12
+2023-06-30,100,Service,Parts,202600.97
+2023-06-30,100,Service,Field labor,234039.38
+2023-06-30,100,Corporate,Office labor,70794.0
+2023-06-30,100,Corporate,Occupancy,20629.25
+2023-06-30,100,Service,Fleet,21541.28
+2023-06-30,100,Service,Warranty,12419.98
+2023-06-30,100,Corporate,Insurance,10500.0
+2023-06-30,100,Corporate,Depreciation,9573.56
+2023-06-30,100,Corporate,Interest,2843.44
+2023-06-30,200,Corporate,Office labor,102258.0
+2023-06-30,200,Corporate,Occupancy,3713.26
+2023-06-30,200,Corporate,Fleet,3877.43
+2023-06-30,200,Corporate,Insurance,1890.0
+2023-06-30,200,Corporate,Depreciation,237.53
+2023-06-30,100,Corporate,IC allocation,116455.27
+2023-06-30,200,Corporate,IC recovery,116455.27
+2023-06-30,ELIM,Corporate,IC recovery,-116455.27
+2023-06-30,ELIM,Corporate,IC allocation,-116455.27
+2023-06-30,100,Corporate,Tax,90671.13
+2023-06-30,200,Corporate,Tax,1119.76
+2023-07-31,100,Maintenance,Contract revenue,945904.69
+2023-07-31,100,Service,Demand revenue,773922.01
+2023-07-31,100,Maintenance,Parts,224179.41
+2023-07-31,100,Maintenance,Field labor,289862.1
+2023-07-31,100,Service,Parts,224437.38
+2023-07-31,100,Service,Field labor,237159.9
+2023-07-31,100,Corporate,Office labor,70794.0
+2023-07-31,100,Corporate,Occupancy,20670.1
+2023-07-31,100,Service,Fleet,23672.7
+2023-07-31,100,Service,Warranty,13758.61
+2023-07-31,100,Corporate,Insurance,10500.0
+2023-07-31,100,Corporate,Depreciation,9628.6
+2023-07-31,100,Corporate,Interest,2795.62
+2023-07-31,200,Corporate,Office labor,102258.0
+2023-07-31,200,Corporate,Occupancy,3720.62
+2023-07-31,200,Corporate,Fleet,4261.09
+2023-07-31,200,Corporate,Insurance,1890.0
+2023-07-31,200,Corporate,Depreciation,244.65
+2023-07-31,100,Corporate,IC allocation,116869.33
+2023-07-31,200,Corporate,IC recovery,116869.33
+2023-07-31,ELIM,Corporate,IC recovery,-116869.33
+2023-07-31,ELIM,Corporate,IC allocation,-116869.33
+2023-07-31,100,Corporate,Tax,118874.74
+2023-07-31,200,Corporate,Tax,1123.74
+2023-08-31,100,Maintenance,Contract revenue,913214.75
+2023-08-31,100,Service,Demand revenue,747175.71
+2023-08-31,100,Maintenance,Parts,216431.9
+2023-08-31,100,Maintenance,Field labor,289862.1
+2023-08-31,100,Service,Parts,216680.96
+2023-08-31,100,Service,Field labor,237159.9
+2023-08-31,100,Corporate,Office labor,70794.0
+2023-08-31,100,Corporate,Occupancy,20710.95
+2023-08-31,100,Service,Fleet,22498.63
+2023-08-31,100,Service,Warranty,13283.12
+2023-08-31,100,Corporate,Insurance,10500.0
+2023-08-31,100,Corporate,Depreciation,9683.75
+2023-08-31,100,Corporate,Interest,2747.81
+2023-08-31,200,Corporate,Office labor,102258.0
+2023-08-31,200,Corporate,Occupancy,3727.97
+2023-08-31,200,Corporate,Fleet,4049.75
+2023-08-31,200,Corporate,Insurance,1890.0
+2023-08-31,200,Corporate,Depreciation,251.79
+2023-08-31,100,Corporate,IC allocation,116664.61
+2023-08-31,200,Corporate,IC recovery,116664.61
+2023-08-31,ELIM,Corporate,IC recovery,-116664.61
+2023-08-31,ELIM,Corporate,IC allocation,-116664.61
+2023-08-31,100,Corporate,Tax,108343.18
+2023-08-31,200,Corporate,Tax,1121.78

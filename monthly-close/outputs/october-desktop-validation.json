@@ -1,0 +1,89 @@
+﻿{
+    "workbook":  {
+                     "checks":  [
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "TB debits less credits"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "TB movement roll"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "GL debits less credits"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "Unmapped accounts"
+                                    },
+                                    {
+                                        "difference":  3.7252902984619141E-09,
+                                        "result":  "PASS",
+                                        "name":  "Balance sheet"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "Cash flow"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "Prepaid schedule"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "Fixed asset cost"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "Accum depreciation"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "Accrual schedule"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "IC receivable elimination"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "IC payable elimination"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "IC profit elimination"
+                                    },
+                                    {
+                                        "difference":  0,
+                                        "result":  "PASS",
+                                        "name":  "P\u0026L to TB YTD"
+                                    }
+                                ],
+                     "formulaErrors":  [
+
+                                       ],
+                     "version":  "16.0",
+                     "opened":  true,
+                     "formulaCount":  1814
+                 },
+    "presentation":  {
+                         "editableCharts":  3,
+                         "linkedCharts":  0,
+                         "version":  "16.0",
+                         "opened":  true,
+                         "slides":  6
+                     }
+}

@@ -1,0 +1,446 @@
+[
+  {
+    "period": "2023-09",
+    "workbook": "FY2023/09 Sep/04 Close and review/AMSG 2023-09 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2023/09 Sep/04 Close and review/AMSG 2023-09 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1368839.62,
+      "ebitda": 241605.57,
+      "net_income": 171521.55,
+      "cash": 2340767.42,
+      "headcount": 89
+    }
+  },
+  {
+    "period": "2023-10",
+    "workbook": "FY2023/10 Oct/04 Close and review/AMSG 2023-10 Close FINAL_CM.xlsx",
+    "deck": "FY2023/10 Oct/04 Close and review/AMSG 2023-10 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1211420.52,
+      "ebitda": 128689.3,
+      "net_income": 86823.32,
+      "cash": 2685530.84,
+      "headcount": 89
+    }
+  },
+  {
+    "period": "2023-11",
+    "workbook": "FY2023/11 Nov/04 Close and review/AMSG 2023-11 Close FINAL_CM.xlsx",
+    "deck": "FY2023/11 Nov/04 Close and review/AMSG 2023-11 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1352951.36,
+      "ebitda": 230218.82,
+      "net_income": 162959.33,
+      "cash": 2911601.01,
+      "headcount": 89
+    }
+  },
+  {
+    "period": "2023-12",
+    "workbook": "FY2023/12 Dec/04 Close and review/AMSG 2023-12 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2023/12 Dec/04 Close and review/AMSG 2023-12 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1510793.0,
+      "ebitda": 343251.83,
+      "net_income": 247722.86,
+      "cash": 2276817.16,
+      "headcount": 89
+    }
+  },
+  {
+    "period": "2024-01",
+    "workbook": "FY2024/01 Jan/04 Close and review/AMSG 2024-01 Close FINAL_CM.xlsx",
+    "deck": "FY2024/01 Jan/04 Close and review/AMSG 2024-01 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1327625.18,
+      "ebitda": 162884.02,
+      "net_income": 112433.33,
+      "cash": 2322347.01,
+      "headcount": 92
+    }
+  },
+  {
+    "period": "2024-02",
+    "workbook": "FY2024/02 Feb/04 Close and review/AMSG 2024-02 Close FINAL_CM.xlsx",
+    "deck": "FY2024/02 Feb/04 Close and review/AMSG 2024-02 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1217582.26,
+      "ebitda": 84079.64,
+      "net_income": 53316.28,
+      "cash": 2572470.48,
+      "headcount": 92
+    }
+  },
+  {
+    "period": "2024-03",
+    "workbook": "FY2024/03 Mar/04 Close and review/AMSG 2024-03 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2024/03 Mar/04 Close and review/AMSG 2024-03 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1203822.45,
+      "ebitda": 74365.3,
+      "net_income": 45847.59,
+      "cash": 2204096.33,
+      "headcount": 92
+    }
+  },
+  {
+    "period": "2024-04",
+    "workbook": "FY2024/04 Apr/04 Close and review/AMSG 2024-04 Close FINAL_CM.xlsx",
+    "deck": "FY2024/04 Apr/04 Close and review/AMSG 2024-04 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1279029.24,
+      "ebitda": 105668.47,
+      "net_income": 69311.02,
+      "cash": 2171037.37,
+      "headcount": 94
+    }
+  },
+  {
+    "period": "2024-05",
+    "workbook": "FY2024/05 May/04 Close and review/AMSG 2024-05 Close FINAL_CM.xlsx",
+    "deck": "FY2024/05 May/04 Close and review/AMSG 2024-05 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1452369.76,
+      "ebitda": 229014.2,
+      "net_income": 161806.23,
+      "cash": 2104834.92,
+      "headcount": 94
+    }
+  },
+  {
+    "period": "2024-06",
+    "workbook": "FY2024/06 Jun/04 Close and review/AMSG 2024-06 Close FINAL_CM.xlsx",
+    "deck": "FY2024/06 Jun/04 Close and review/AMSG 2024-06 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1664648.43,
+      "ebitda": 381036.84,
+      "net_income": 275638.99,
+      "cash": 1935469.95,
+      "headcount": 94
+    }
+  },
+  {
+    "period": "2024-07",
+    "workbook": "FY2024/07 Jul/04 Close and review/AMSG 2024-07 Close FINAL_CM.xlsx",
+    "deck": "FY2024/07 Jul/04 Close and review/AMSG 2024-07 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1849499.59,
+      "ebitda": 477758.03,
+      "net_income": 348165.61,
+      "cash": 2372237.18,
+      "headcount": 95
+    }
+  },
+  {
+    "period": "2024-08",
+    "workbook": "FY2024/08 Aug/04 Close and review/AMSG 2024-08 Close FINAL_CM.xlsx",
+    "deck": "FY2024/08 Aug/04 Close and review/AMSG 2024-08 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1714977.25,
+      "ebitda": 409339.52,
+      "net_income": 296837.37,
+      "cash": 2687492.03,
+      "headcount": 95
+    }
+  },
+  {
+    "period": "2024-09",
+    "workbook": "FY2024/09 Sep/04 Close and review/AMSG 2024-09 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2024/09 Sep/04 Close and review/AMSG 2024-09 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1447028.56,
+      "ebitda": 217975.86,
+      "net_income": 153129.08,
+      "cash": 2386674.49,
+      "headcount": 95
+    }
+  },
+  {
+    "period": "2024-10",
+    "workbook": "FY2024/10 Oct/04 Close and review/AMSG 2024-10 Close FINAL_CM.xlsx",
+    "deck": "FY2024/10 Oct/04 Close and review/AMSG 2024-10 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1299872.84,
+      "ebitda": 112727.21,
+      "net_income": 74178.03,
+      "cash": 2531089.53,
+      "headcount": 95
+    }
+  },
+  {
+    "period": "2024-11",
+    "workbook": "FY2024/11 Nov/04 Close and review/AMSG 2024-11 Close FINAL_CM.xlsx",
+    "deck": "FY2024/11 Nov/04 Close and review/AMSG 2024-11 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1417958.86,
+      "ebitda": 196968.75,
+      "net_income": 137344.53,
+      "cash": 2693172.41,
+      "headcount": 95
+    }
+  },
+  {
+    "period": "2024-12",
+    "workbook": "FY2024/12 Dec/04 Close and review/AMSG 2024-12 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2024/12 Dec/04 Close and review/AMSG 2024-12 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1597749.22,
+      "ebitda": 325871.6,
+      "net_income": 234006.92,
+      "cash": 2121508.06,
+      "headcount": 95
+    }
+  },
+  {
+    "period": "2025-01",
+    "workbook": "FY2025/01 Jan/04 Close and review/AMSG 2025-01 Close FINAL_CM.xlsx",
+    "deck": "FY2025/01 Jan/04 Close and review/AMSG 2025-01 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1857858.99,
+      "ebitda": 199445.34,
+      "net_income": 128349.09,
+      "cash": 2958356.94,
+      "headcount": 127
+    }
+  },
+  {
+    "period": "2025-02",
+    "workbook": "FY2025/02 Feb/04 Close and review/AMSG 2025-02 Close FINAL_CM.xlsx",
+    "deck": "FY2025/02 Feb/04 Close and review/AMSG 2025-02 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1735416.1,
+      "ebitda": 112180.76,
+      "net_income": 64710.61,
+      "cash": 3264617.09,
+      "headcount": 127
+    }
+  },
+  {
+    "period": "2025-03",
+    "workbook": "FY2025/03 Mar/04 Close and review/AMSG 2025-03 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2025/03 Mar/04 Close and review/AMSG 2025-03 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1705388.11,
+      "ebitda": 90698.8,
+      "net_income": 46137.24,
+      "cash": 2542917.76,
+      "headcount": 127
+    }
+  },
+  {
+    "period": "2025-04",
+    "workbook": "FY2025/04 Apr/04 Close and review/AMSG 2025-04 Close FINAL_CM.xlsx",
+    "deck": "FY2025/04 Apr/04 Close and review/AMSG 2025-04 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1819026.24,
+      "ebitda": 142447.49,
+      "net_income": 86992.8,
+      "cash": 2740271.34,
+      "headcount": 131
+    }
+  },
+  {
+    "period": "2025-05",
+    "workbook": "FY2025/05 May/04 Close and review/AMSG 2025-05 Close FINAL_CM.xlsx",
+    "deck": "FY2025/05 May/04 Close and review/AMSG 2025-05 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2113137.46,
+      "ebitda": 352851.41,
+      "net_income": 244757.84,
+      "cash": 2730456.52,
+      "headcount": 131
+    }
+  },
+  {
+    "period": "2025-06",
+    "workbook": "FY2025/06 Jun/04 Close and review/AMSG 2025-06 Close FINAL_CM.xlsx",
+    "deck": "FY2025/06 Jun/04 Close and review/AMSG 2025-06 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2389904.81,
+      "ebitda": 550857.58,
+      "net_income": 392879.63,
+      "cash": 2284445.14,
+      "headcount": 131
+    }
+  },
+  {
+    "period": "2025-07",
+    "workbook": "FY2025/07 Jul/04 Close and review/AMSG 2025-07 Close FINAL_CM.xlsx",
+    "deck": "FY2025/07 Jul/04 Close and review/AMSG 2025-07 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2602636.03,
+      "ebitda": 687773.73,
+      "net_income": 495528.45,
+      "cash": 2801527.62,
+      "headcount": 133
+    }
+  },
+  {
+    "period": "2025-08",
+    "workbook": "FY2025/08 Aug/04 Close and review/AMSG 2025-08 Close FINAL_CM.xlsx",
+    "deck": "FY2025/08 Aug/04 Close and review/AMSG 2025-08 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2479216.52,
+      "ebitda": 599499.9,
+      "net_income": 429284.57,
+      "cash": 3544149.98,
+      "headcount": 133
+    }
+  },
+  {
+    "period": "2025-09",
+    "workbook": "FY2025/09 Sep/04 Close and review/AMSG 2025-09 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2025/09 Sep/04 Close and review/AMSG 2025-09 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2050533.12,
+      "ebitda": 292281.66,
+      "net_income": 198485.42,
+      "cash": 2843535.92,
+      "headcount": 133
+    }
+  },
+  {
+    "period": "2025-10",
+    "workbook": "FY2025/10 Oct/04 Close and review/AMSG 2025-10 Close FINAL_CM.xlsx",
+    "deck": "FY2025/10 Oct/04 Close and review/AMSG 2025-10 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1868563.42,
+      "ebitda": 162437.99,
+      "net_income": 101063.77,
+      "cash": 3257885.79,
+      "headcount": 133
+    }
+  },
+  {
+    "period": "2025-11",
+    "workbook": "FY2025/11 Nov/04 Close and review/AMSG 2025-11 Close FINAL_CM.xlsx",
+    "deck": "FY2025/11 Nov/04 Close and review/AMSG 2025-11 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2081483.05,
+      "ebitda": 315248.52,
+      "net_income": 215632.56,
+      "cash": 3431896.74,
+      "headcount": 133
+    }
+  },
+  {
+    "period": "2025-12",
+    "workbook": "FY2025/12 Dec/04 Close and review/AMSG 2025-12 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2025/12 Dec/04 Close and review/AMSG 2025-12 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2262048.1,
+      "ebitda": 443782.8,
+      "net_income": 311993.96,
+      "cash": 2727169.17,
+      "headcount": 133
+    }
+  },
+  {
+    "period": "2026-01",
+    "workbook": "FY2026/01 Jan/04 Close and review/AMSG 2026-01 Close FINAL_CM.xlsx",
+    "deck": "FY2026/01 Jan/04 Close and review/AMSG 2026-01 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2023469.66,
+      "ebitda": 205838.62,
+      "net_income": 128510.89,
+      "cash": 2931761.18,
+      "headcount": 135
+    }
+  },
+  {
+    "period": "2026-02",
+    "workbook": "FY2026/02 Feb/04 Close and review/AMSG 2026-02 Close FINAL_CM.xlsx",
+    "deck": "FY2026/02 Feb/04 Close and review/AMSG 2026-02 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1844696.43,
+      "ebitda": 77557.56,
+      "net_income": 33675.77,
+      "cash": 3074085.08,
+      "headcount": 135
+    }
+  },
+  {
+    "period": "2026-03",
+    "workbook": "FY2026/03 Mar/04 Close and review/AMSG 2026-03 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2026/03 Mar/04 Close and review/AMSG 2026-03 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1825523.21,
+      "ebitda": 64047.56,
+      "net_income": 21634.33,
+      "cash": 2553943.23,
+      "headcount": 135
+    }
+  },
+  {
+    "period": "2026-04",
+    "workbook": "FY2026/04 Apr/04 Close and review/AMSG 2026-04 Close FINAL_CM.xlsx",
+    "deck": "FY2026/04 Apr/04 Close and review/AMSG 2026-04 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 1961581.02,
+      "ebitda": 131026.61,
+      "net_income": 75989.49,
+      "cash": 2661437.53,
+      "headcount": 139
+    }
+  },
+  {
+    "period": "2026-05",
+    "workbook": "FY2026/05 May/04 Close and review/AMSG 2026-05 Close FINAL_CM.xlsx",
+    "deck": "FY2026/05 May/04 Close and review/AMSG 2026-05 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2299913.65,
+      "ebitda": 373415.39,
+      "net_income": 258624.72,
+      "cash": 2338877.3,
+      "headcount": 139
+    }
+  },
+  {
+    "period": "2026-06",
+    "workbook": "FY2026/06 Jun/04 Close and review/AMSG 2026-06 Close FINAL_R1_CM.xlsx",
+    "deck": "FY2026/06 Jun/04 Close and review/AMSG 2026-06 Management review FINAL_R1_CM.pptx",
+    "metrics": {
+      "revenue": 2525197.23,
+      "ebitda": 491452.77,
+      "net_income": 346736.49,
+      "cash": 2222105.36,
+      "headcount": 139
+    }
+  },
+  {
+    "period": "2026-07",
+    "workbook": "FY2026/07 Jul/04 Close and review/AMSG 2026-07 Close FINAL_CM.xlsx",
+    "deck": "FY2026/07 Jul/04 Close and review/AMSG 2026-07 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2861985.96,
+      "ebitda": 760271.11,
+      "net_income": 548304.31,
+      "cash": 2420375.61,
+      "headcount": 141
+    }
+  },
+  {
+    "period": "2026-08",
+    "workbook": "FY2026/08 Aug/04 Close and review/AMSG 2026-08 Close FINAL_CM.xlsx",
+    "deck": "FY2026/08 Aug/04 Close and review/AMSG 2026-08 Management review FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2702873.24,
+      "ebitda": 646047.53,
+      "net_income": 462590.5,
+      "cash": 3166245.54,
+      "headcount": 141
+    }
+  },
+  {
+    "period": "2026-09",
+    "workbook": "FY2026/09 Sep/04 Close and review/AMSG 2026-09 Close v2_FINAL_CM.xlsx",
+    "deck": "FY2026/09 Sep/04 Close and review/AMSG 2026-09 Management review v2_FINAL_CM.pptx",
+    "metrics": {
+      "revenue": 2229028.26,
+      "ebitda": 306275.43,
+      "net_income": 207342.3,
+      "cash": 2740707.43,
+      "headcount": 141
+    }
+  }
+]

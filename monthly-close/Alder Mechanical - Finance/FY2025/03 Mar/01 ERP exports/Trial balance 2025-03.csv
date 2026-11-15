@@ -1,0 +1,83 @@
+Entity,Department,Account,Description,Opening,Debits,Credits,Ending
+100,Balance Sheet,1000,Operating cash,2355897.86,1165274.8,1689315.92,1831856.74
+100,Balance Sheet,1100,Trade receivables,1425005.35,1289412.65,1165274.8,1549143.2
+100,Balance Sheet,1200,Service parts inventory,260733.8,0.0,2851.27,257882.53
+100,Balance Sheet,1300,Prepaid insurance,115762.5,0.0,11576.25,104186.25
+100,Balance Sheet,1400,Fleet and equipment cost,968592.4,23323.88,0.0,991916.28
+100,Balance Sheet,1490,Accumulated depreciation,-368063.91,0.0,11808.53,-379872.44
+100,Balance Sheet,2000,Trade payables,-185006.26,378156.44,378001.98,-184851.8
+100,Balance Sheet,2100,Accrued payroll,-189221.55,700820.57,700820.57,-189221.55
+100,Balance Sheet,2150,Warranty reserve,-40776.5,11417.42,10315.3,-39674.38
+100,Balance Sheet,2200,Income taxes payable,-37821.96,54611.65,16789.69,0.0
+100,Balance Sheet,2500,Intercompany payable,-21581.67,107895.17,107891.88,-21578.38
+100,Balance Sheet,2600,Term debt,-327000.0,8500.0,0.0,-318500.0
+100,Balance Sheet,3000,Member capital,-1980000.0,0,0,-1980000.0
+100,Balance Sheet,3100,Retained earnings,-6181078.32,0,0,-6181078.32
+100,Balance Sheet,3200,Member distributions,4318024.13,405602.68,0.0,4723626.81
+100,Corporate,6000,Office payroll and benefits,168525.12,84262.56,0.0,252787.68
+100,Corporate,6100,Occupancy and facilities,47254.49,23698.06,0.0,70952.55
+100,Corporate,6300,Insurance amortization,23152.5,11576.25,0.0,34728.75
+100,Corporate,6400,Depreciation,22998.74,11808.53,0.0,34807.27
+100,Corporate,6500,Shared service allocation,293320.55,107891.88,0.0,401212.43
+100,Corporate,6600,Interest expense,3822.19,1839.38,0.0,5661.57
+100,Corporate,6700,Income tax expense,37821.96,16789.69,0.0,54611.65
+100,Maintenance,4000,Service contracts,-1490696.22,0.0,709176.96,-2199873.18
+100,Maintenance,5000,Parts and subcontractors,353295.0,168074.94,0.0,521369.94
+100,Maintenance,5200,Field payroll - legacy,678213.82,339106.91,0.0,1017320.73
+100,Service,4100,Demand service,-1219660.55,0.0,580235.69,-1799896.24
+100,Service,5000,Parts and subcontractors,353701.55,168268.35,0.0,521969.9
+100,Service,5200,Field payroll - legacy,554902.2,277451.1,0.0,832353.3
+100,Service,6205,Fleet fuel and maintenance,38199.93,17960.63,0.0,56160.56
+100,Service,6250,Customer warranty costs,21682.85,10315.3,0.0,31998.15
+200,Balance Sheet,1000,Operating cash,406003.4,141967.33,211302.28,336668.45
+200,Balance Sheet,1300,Prepaid insurance,20837.26,0.0,2083.72,18753.54
+200,Balance Sheet,1400,Fleet and equipment cost,41229.61,3018.38,0.0,44247.99
+200,Balance Sheet,1490,Accumulated depreciation,-9578.55,0.0,526.76,-10105.31
+200,Balance Sheet,1500,Intercompany receivable,28396.93,141963.0,141967.33,28392.6
+200,Balance Sheet,2000,Trade payables,-3768.04,7548.62,7498.56,-3717.98
+200,Balance Sheet,2100,Accrued payroll,-34126.34,126393.84,126393.84,-34126.34
+200,Balance Sheet,2200,Income taxes payable,-28159.42,29524.45,1365.03,0.0
+200,Balance Sheet,3000,Member capital,-250000.0,0,0,-250000.0
+200,Balance Sheet,3100,Retained earnings,-201825.42,0,0,-201825.42
+200,Balance Sheet,3200,Member distributions,115468.82,44816.99,0.0,160285.81
+200,Corporate,4900,Shared service recovery,-385948.09,0.0,141963.0,-527911.09
+200,Corporate,6000,Office payroll and benefits,252787.68,126393.84,0.0,379181.52
+200,Corporate,6100,Occupancy and facilities,8505.81,4265.65,0.0,12771.46
+200,Corporate,6205,Fleet fuel and maintenance,6875.98,3232.91,0.0,10108.89
+200,Corporate,6300,Insurance amortization,4167.44,2083.72,0.0,6251.16
+200,Corporate,6400,Depreciation,973.51,526.76,0.0,1500.27
+200,Corporate,6700,Income tax expense,28159.42,1365.03,0.0,29524.45
+300,Balance Sheet,1000,Operating cash,502715.83,398594.46,526917.72,374392.57
+300,Balance Sheet,1100,Trade receivables,489971.09,415975.46,398594.46,507352.09
+300,Balance Sheet,1200,Service parts inventory,86349.42,0.0,3154.33,83195.09
+300,Balance Sheet,1300,Prepaid insurance,37044.0,0.0,3704.4,33339.6
+300,Balance Sheet,1400,Fleet and equipment cost,490570.08,23323.88,0.0,513893.96
+300,Balance Sheet,1490,Accumulated depreciation,-11617.26,0.0,6117.79,-17735.05
+300,Balance Sheet,1600,Acquisition goodwill,620000.0,0,0,620000.0
+300,Balance Sheet,2000,Trade payables,-51949.91,117478.82,121837.98,-56309.07
+300,Balance Sheet,2100,Accrued payroll,-67264.8,249128.91,249128.91,-67264.8
+300,Balance Sheet,2150,Warranty reserve,-6052.73,1694.76,3327.8,-7685.77
+300,Balance Sheet,2200,Income taxes payable,-834.88,834.88,0.0,0.0
+300,Balance Sheet,2500,Intercompany payable,-6815.26,34072.16,34071.12,-6814.22
+300,Balance Sheet,2600,Term debt,-1087000.0,6500.0,0.0,-1080500.0
+300,Balance Sheet,3000,Member capital,-1000000.0,0,0,-1000000.0
+300,Balance Sheet,3200,Member distributions,0.0,90924.26,0.0,90924.26
+300,Corporate,6000,Office payroll and benefits,67410.04,33705.02,0.0,101115.06
+300,Corporate,6100,Occupancy and facilities,15121.43,7583.38,0.0,22704.81
+300,Corporate,6300,Insurance amortization,7408.8,3704.4,0.0,11113.2
+300,Corporate,6400,Depreciation,11617.26,6117.79,0.0,17735.05
+300,Corporate,6500,Shared service allocation,92627.54,34071.12,0.0,126698.66
+300,Corporate,6600,Interest expense,12338.44,6114.38,0.0,18452.82
+300,Corporate,6700,Income tax expense,834.88,0.0,0.0,834.88
+300,Maintenance,4000,Service contracts,-485605.08,0.0,228786.5,-714391.58
+300,Maintenance,5000,Parts and subcontractors,115088.4,54222.4,0.0,169310.8
+300,Maintenance,5200,Field payroll - legacy,236966.28,118483.14,0.0,355449.42
+300,Service,4100,Demand service,-397313.24,0.0,187188.96,-584502.2
+300,Service,5000,Parts and subcontractors,115220.84,54284.8,0.0,169505.64
+300,Service,5200,Field payroll - legacy,193881.5,96940.75,0.0,290822.25
+300,Service,6205,Fleet fuel and maintenance,12223.98,5747.4,0.0,17971.38
+300,Service,6250,Customer warranty costs,7063.35,3327.8,0.0,10391.15
+ELIM,Balance Sheet,1500,Intercompany receivable,-28396.93,141967.33,141963.0,-28392.6
+ELIM,Balance Sheet,2500,Intercompany payable,28396.93,141963.0,141967.33,28392.6
+ELIM,Corporate,4900,Shared service recovery,385948.09,141963.0,0.0,527911.09
+ELIM,Corporate,6500,Shared service allocation,-385948.09,0.0,141963.0,-527911.09

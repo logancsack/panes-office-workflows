@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "application_versions": {
+    "Excel": "16.0",
+    "PowerPoint": "16.0"
+  },
+  "independently_reconciled_cells": 543,
+  "workbook_checks": 14,
+  "formula_errors": 0,
+  "formula_count": 1814,
+  "slides": 6,
+  "editable_embedded_charts": 3,
+  "external_links": 0,
+  "october": {
+    "revenue": 1988001.06,
+    "ebitda": 90142.13,
+    "net_income": 41488.92,
+    "cash": 3426168.98
+  },
+  "sha256": {
+    "October 2026 review.pptx": "57a15828a511291b23a738738f98b9815c56a28b7527cbeda01c90dab9cd2b7d",
+    "October 2026 close.xlsx": "10670ae1e6c3ebbe01fa9c18a4b1ab0f1124a2ef1a4b53bcd2e273dc1446dc56"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "metrics": {
+    "2022-01": {
+      "revenue": 1180747.37,
+      "ebitda": 202603.44,
+      "net_income": 143363.97,
+      "cash": 1176245.98,
+      "headcount": 80
+    },
+    "2022-02": {
+      "revenue": 1084095.41,
+      "ebitda": 133367.18,
+      "net_income": 91429.68,
+      "cash": 1301828.52,
+      "headcount": 80
+    },
+    "2022-03": {
+      "revenue": 1063800.66,
+      "ebitda": 118828.19,
+      "net_income": 80371.98,
+      "cash": 1327399.26,
+      "headcount": 80
+    },
+    "2022-04": {
+      "revenue": 1122014.85,
+      "ebitda": 146963.01,
+      "net_income": 101465.83,
+      "cash": 1375098.58,
+      "headcount": 82
+    },
+    "2022-05": {
+      "revenue": 1313528.26,
+      "ebitda": 284052.68,
+      "net_income": 204275.74,
+      "cash": 1471233.24,
+      "headcount": 82
+    },
+    "2022-06": {
+      "revenue": 1469723.12,
+      "ebitda": 395498.55,
+      "net_income": 287705.54,
+      "cash": 1369722.82,
+      "headcount": 82
+    },
+    "2022-07": {
+      "revenue": 1622305.31,
+      "ebitda": 490374.57,
+      "net_income": 358855.05,
+      "cash": 1625366.29,
+      "headcount": 83
+    },
+    "2022-08": {
+      "revenue": 1514697.46,
+      "ebitda": 412941.0,
+      "net_income": 300772.28,
+      "cash": 2317878.55,
+      "headcount": 83
+    },
+    "2022-09": {
+      "revenue": 1252764.78,
+      "ebitda": 225363.6,
+      "net_income": 159933.5,
+      "cash": 2122198.98,
+      "headcount": 83
+    },
+    "2022-10": {
+      "revenue": 1163794.94,
+      "ebitda": 162341.87,
+      "net_income": 112659.43,
+      "cash": 2459811.98,
+      "headcount": 83
+    },
+    "2022-11": {
+      "revenue": 1253493.85,
+      "ebitda": 226110.57,
+      "net_income": 160478.1,
+      "cash": 2402210.77,
+      "headcount": 83
+    },
+    "2022-12": {
+      "revenue": 1417675.55,
+      "ebitda": 343944.67,
+      "net_income": 248845.74,
+      "cash": 2137085.4,
+      "headcount": 83
+    },
+    "2023-01": {
+      "revenue": 1239426.46,
+      "ebitda": 170148.66,
+      "net_income": 118488.52,
+      "cash": 2187568.39,
+      "headcount": 86
+    },
+    "2023-02": {
+      "revenue": 1163701.22,
+      "ebitda": 116320.28,
+      "net_income": 78106.92,
+      "cash": 2371860.61,
+      "headcount": 86
+    },
+    "2023-03": {
+      "revenue": 1108055.05,
+      "ebitda": 75956.57,
+      "net_income": 47666.48,
+      "cash": 2100957.2,
+      "headcount": 86
+    },
+    "2023-04": {
+      "revenue": 1214495.19,
+      "ebitda": 138805.66,
+      "net_income": 94792.81,
+      "cash": 2206446.9,
+      "headcount": 88
+    },
+    "2023-05": {
+      "revenue": 1408657.88,
+      "ebitda": 277612.21,
+      "net_income": 198887.15,
+      "cash": 2276357.44,
+      "headcount": 88
+    },
+    "2023-06": {
+      "revenue": 1552497.85,
+      "ebitda": 379818.09,
+      "net_income": 275372.67,
+      "cash": 1952192.93,
+      "headcount": 88
+    },
+    "2023-07": {
+      "revenue": 1719826.7,
+      "ebitda": 492662.79,
+      "net_income": 359995.44,
+      "cash": 2423945.3,
+      "headcount": 89
+    },
+    "2023-08": {
+      "revenue": 1660390.46,
+      "ebitda": 450543.18,
+      "net_income": 328394.87,
+      "cash": 2903905.74,
+      "headcount": 89
+    },
+    "2023-09": {
+      "revenue": 1368839.62,
+      "ebitda": 241605.57,
+      "net_income": 171521.55,
+      "cash": 2340767.42,
+      "headcount": 89
+    },
+    "2023-10": {
+      "revenue": 1211420.52,
+      "ebitda": 128689.3,
+      "net_income": 86823.32,
+      "cash": 2685530.84,
+      "headcount": 89
+    },
+    "2023-11": {
+      "revenue": 1352951.36,
+      "ebitda": 230218.82,
+      "net_income": 162959.33,
+      "cash": 2911601.01,
+      "headcount": 89
+    },
+    "2023-12": {
+      "revenue": 1510793.0,
+      "ebitda": 343251.83,
+      "net_income": 247722.86,
+      "cash": 2276817.16,
+      "headcount": 89
+    },
+    "2024-01": {
+      "revenue": 1327625.18,
+      "ebitda": 162884.02,
+      "net_income": 112433.33,
+      "cash": 2322347.01,
+      "headcount": 92
+    },
+    "2024-02": {
+      "revenue": 1217582.26,
+      "ebitda": 84079.64,
+      "net_income": 53316.28,
+      "cash": 2572470.48,
+      "headcount": 92
+    },
+    "2024-03": {
+      "revenue": 1203822.45,
+      "ebitda": 74365.3,
+      "net_income": 45847.59,
+      "cash": 2204096.33,
+      "headcount": 92
+    },
+    "2024-04": {
+      "revenue": 1279029.24,
+      "ebitda": 105668.47,
+      "net_income": 69311.02,
+      "cash": 2171037.37,
+      "headcount": 94
+    },
+    "2024-05": {
+      "revenue": 1452369.76,
+      "ebitda": 229014.2,
+      "net_income": 161806.23,
+      "cash": 2104834.92,
+      "headcount": 94
+    },
+    "2024-06": {
+      "revenue": 1664648.43,
+      "ebitda": 381036.84,
+      "net_income": 275638.99,
+      "cash": 1935469.95,
+      "headcount": 94
+    },
+    "2024-07": {
+      "revenue": 1849499.59,
+      "ebitda": 477758.03,
+      "net_income": 348165.61,
+      "cash": 2372237.18,
+      "headcount": 95
+    },
+    "2024-08": {
+      "revenue": 1714977.25,
+      "ebitda": 409339.52,
+      "net_income": 296837.37,
+      "cash": 2687492.03,
+      "headcount": 95
+    },
+    "2024-09": {
+      "revenue": 1447028.56,
+      "ebitda": 217975.86,
+      "net_income": 153129.08,
+      "cash": 2386674.49,
+      "headcount": 95
+    },
+    "2024-10": {
+      "revenue": 1299872.84,
+      "ebitda": 112727.21,
+      "net_income": 74178.03,
+      "cash": 2531089.53,
+      "headcount": 95
+    },
+    "2024-11": {
+      "revenue": 1417958.86,
+      "ebitda": 196968.75,
+      "net_income": 137344.53,
+      "cash": 2693172.41,
+      "headcount": 95
+    },
+    "2024-12": {
+      "revenue": 1597749.22,
+      "ebitda": 325871.6,
+      "net_income": 234006.92,
+      "cash": 2121508.06,
+      "headcount": 95
+    },
+    "2025-01": {
+      "revenue": 1857858.99,
+      "ebitda": 199445.34,
+      "net_income": 128349.09,
+      "cash": 2958356.94,
+      "headcount": 127
+    },
+    "2025-02": {
+      "revenue": 1735416.1,
+      "ebitda": 112180.76,
+      "net_income": 64710.61,
+      "cash": 3264617.09,
+      "headcount": 127
+    },
+    "2025-03": {
+      "revenue": 1705388.11,
+      "ebitda": 90698.8,
+      "net_income": 46137.24,
+      "cash": 2542917.76,
+      "headcount": 127
+    },
+    "2025-04": {
+      "revenue": 1819026.24,
+      "ebitda": 142447.49,
+      "net_income": 86992.8,
+      "cash": 2740271.34,
+      "headcount": 131
+    },
+    "2025-05": {
+      "revenue": 2113137.46,
+      "ebitda": 352851.41,
+      "net_income": 244757.84,
+      "cash": 2730456.52,
+      "headcount": 131
+    },
+    "2025-06": {
+      "revenue": 2389904.81,
+      "ebitda": 550857.58,
+      "net_income": 392879.63,
+      "cash": 2284445.14,
+      "headcount": 131
+    },
+    "2025-07": {
+      "revenue": 2602636.03,
+      "ebitda": 687773.73,
+      "net_income": 495528.45,
+      "cash": 2801527.62,
+      "headcount": 133
+    },
+    "2025-08": {
+      "revenue": 2479216.52,
+      "ebitda": 599499.9,
+      "net_income": 429284.57,
+      "cash": 3544149.98,
+      "headcount": 133
+    },
+    "2025-09": {
+      "revenue": 2050533.12,
+      "ebitda": 292281.66,
+      "net_income": 198485.42,
+      "cash": 2843535.92,
+      "headcount": 133
+    },
+    "2025-10": {
+      "revenue": 1868563.42,
+      "ebitda": 162437.99,
+      "net_income": 101063.77,
+      "cash": 3257885.79,
+      "headcount": 133
+    },
+    "2025-11": {
+      "revenue": 2081483.05,
+      "ebitda": 315248.52,
+      "net_income": 215632.56,
+      "cash": 3431896.74,
+      "headcount": 133
+    },
+    "2025-12": {
+      "revenue": 2262048.1,
+      "ebitda": 443782.8,
+      "net_income": 311993.96,
+      "cash": 2727169.17,
+      "headcount": 133
+    },
+    "2026-01": {
+      "revenue": 2023469.66,
+      "ebitda": 205838.62,
+      "net_income": 128510.89,
+      "cash": 2931761.18,
+      "headcount": 135
+    },
+    "2026-02": {
+      "revenue": 1844696.43,
+      "ebitda": 77557.56,
+      "net_income": 33675.77,
+      "cash": 3074085.08,
+      "headcount": 135
+    },
+    "2026-03": {
+      "revenue": 1825523.21,
+      "ebitda": 64047.56,
+      "net_income": 21634.33,
+      "cash": 2553943.23,
+      "headcount": 135
+    },
+    "2026-04": {
+      "revenue": 1961581.02,
+      "ebitda": 131026.61,
+      "net_income": 75989.49,
+      "cash": 2661437.53,
+      "headcount": 139
+    },
+    "2026-05": {
+      "revenue": 2299913.65,
+      "ebitda": 373415.39,
+      "net_income": 258624.72,
+      "cash": 2338877.3,
+      "headcount": 139
+    },
+    "2026-06": {
+      "revenue": 2525197.23,
+      "ebitda": 491452.77,
+      "net_income": 346736.49,
+      "cash": 2222105.36,
+      "headcount": 139
+    },
+    "2026-07": {
+      "revenue": 2861985.96,
+      "ebitda": 760271.11,
+      "net_income": 548304.31,
+      "cash": 2420375.61,
+      "headcount": 141
+    },
+    "2026-08": {
+      "revenue": 2702873.24,
+      "ebitda": 646047.53,
+      "net_income": 462590.5,
+      "cash": 3166245.54,
+      "headcount": 141
+    },
+    "2026-09": {
+      "revenue": 2229028.26,
+      "ebitda": 306275.43,
+      "net_income": 207342.3,
+      "cash": 2740707.43,
+      "headcount": 141
+    },
+    "2026-10": {
+      "revenue": 1988001.06,
+      "ebitda": 90142.13,
+      "net_income": 41488.92,
+      "cash": 3426168.98,
+      "headcount": 141
+    }
+  }
+}

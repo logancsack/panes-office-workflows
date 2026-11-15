@@ -1,0 +1,60 @@
+Entity,Document,Counterparty,Invoice date,Aging band,Open USD
+100,202312-002506,Meadowcrest Foods,2023-12-31,1-30 overdue,5992.37
+100,202312-002507,Lakeside Property Group,2023-12-31,1-30 overdue,22127.84
+100,202312-002508,Elmstone Packaging,2023-12-31,1-30 overdue,26773.34
+100,202312-002509,Crossroads Retail Partners,2023-12-31,1-30 overdue,22998.27
+100,202312-002510,Prairie Ridge Logistics,2023-12-31,1-30 overdue,31808.86
+100,202312-002511,Westhaven Medical Campus,2023-12-31,1-30 overdue,36716.29
+100,202312-002512,Cedar Industrial Parks,2023-12-31,1-30 overdue,17844.6
+100,202312-002513,Northline Warehousing,2023-12-31,1-30 overdue,24560.63
+100,202312-002514,Meadowcrest Foods,2023-12-31,1-30 overdue,21747.19
+100,202312-002515,Lakeside Property Group,2023-12-31,1-30 overdue,22146.88
+100,202312-002516,Elmstone Packaging,2023-12-31,1-30 overdue,66120.98
+100,202401-002602,Crossroads Retail Partners,2024-01-31,Current,35889.71
+100,202401-002603,Prairie Ridge Logistics,2024-01-31,Current,40718.49
+100,202401-002604,Westhaven Medical Campus,2024-01-31,Current,19458.16
+100,202401-002605,Cedar Industrial Parks,2024-01-31,Current,39303.4
+100,202401-002606,Northline Warehousing,2024-01-31,Current,23075.28
+100,202401-002607,Meadowcrest Foods,2024-01-31,Current,27342.04
+100,202401-002608,Lakeside Property Group,2024-01-31,Current,22170.0
+100,202401-002609,Elmstone Packaging,2024-01-31,Current,23366.26
+100,202401-002610,Crossroads Retail Partners,2024-01-31,Current,22821.92
+100,202401-002611,Prairie Ridge Logistics,2024-01-31,Current,25485.16
+100,202401-002612,Westhaven Medical Campus,2024-01-31,Current,18697.34
+100,202401-002613,Cedar Industrial Parks,2024-01-31,Current,27127.22
+100,202401-002614,Northline Warehousing,2024-01-31,Current,30294.31
+100,202401-002615,Meadowcrest Foods,2024-01-31,Current,34652.72
+100,202401-002616,Lakeside Property Group,2024-01-31,Current,41628.79
+100,202401-002617,Elmstone Packaging,2024-01-31,Current,41259.41
+100,202401-002618,Crossroads Retail Partners,2024-01-31,Current,18990.78
+100,202401-002619,Prairie Ridge Logistics,2024-01-31,Current,40290.94
+100,202401-002620,Westhaven Medical Campus,2024-01-31,Current,22429.33
+100,202401-002621,Cedar Industrial Parks,2024-01-31,Current,22720.71
+100,202401-002622,Northline Warehousing,2024-01-31,Current,20167.26
+100,202401-002623,Meadowcrest Foods,2024-01-31,Current,41317.96
+100,202401-002624,Lakeside Property Group,2024-01-31,Current,40656.88
+100,202401-002625,Elmstone Packaging,2024-01-31,Current,50329.78
+100,202401-002626,Crossroads Retail Partners,2024-01-31,Current,28892.31
+100,202401-002627,Prairie Ridge Logistics,2024-01-31,Current,22796.61
+100,202401-002628,Westhaven Medical Campus,2024-01-31,Current,27669.61
+100,202401-002629,Cedar Industrial Parks,2024-01-31,Current,23904.95
+100,202401-002630,Northline Warehousing,2024-01-31,Current,28812.84
+100,202401-002631,Meadowcrest Foods,2024-01-31,Current,29823.57
+100,202401-002632,Lakeside Property Group,2024-01-31,Current,24967.79
+100,202401-002633,Elmstone Packaging,2024-01-31,Current,15691.19
+100,202401-002634,Crossroads Retail Partners,2024-01-31,Current,22218.01
+100,202401-002635,Prairie Ridge Logistics,2024-01-31,Current,23212.71
+100,202401-002636,Westhaven Medical Campus,2024-01-31,Current,30249.76
+100,202401-002637,Cedar Industrial Parks,2024-01-31,Current,20732.39
+100,202401-002638,Northline Warehousing,2024-01-31,Current,17093.86
+100,202401-002639,Meadowcrest Foods,2024-01-31,Current,20181.92
+100,202401-002640,Lakeside Property Group,2024-01-31,Current,15512.55
+100,202401-002641,Elmstone Packaging,2024-01-31,Current,23908.56
+100,202401-002642,Crossroads Retail Partners,2024-01-31,Current,18167.26
+100,202401-002643,Prairie Ridge Logistics,2024-01-31,Current,34018.51
+100,202401-002644,Westhaven Medical Campus,2024-01-31,Current,22015.69
+100,202401-002645,Cedar Industrial Parks,2024-01-31,Current,22032.04
+100,202401-002646,Northline Warehousing,2024-01-31,Current,32233.35
+100,202401-002647,Meadowcrest Foods,2024-01-31,Current,28366.8
+100,202401-002648,Lakeside Property Group,2024-01-31,Current,27539.23
+100,202401-002649,Elmstone Packaging,2024-01-31,Current,37389.82

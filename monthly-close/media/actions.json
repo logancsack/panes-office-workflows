@@ -1,0 +1,130 @@
+[
+  {
+    "step": "00-history",
+    "started": "2026-11-15T00:22:08.321878+00:00",
+    "ended": "2026-11-15T00:22:08.723006+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "step": "01-roll-forward",
+    "started": "2026-11-15T00:22:12.967621+00:00",
+    "ended": "2026-11-15T00:22:15.174284+00:00",
+    "exit_code": 0,
+    "stdout": "September preserved; October workbook rolled forward.\r\n",
+    "stderr": ""
+  },
+  {
+    "step": "02-import",
+    "started": "2026-11-15T00:22:19.415024+00:00",
+    "ended": "2026-11-15T00:22:20.357475+00:00",
+    "exit_code": 0,
+    "stdout": "Imported October. Unmapped TB accounts: 1\r\n",
+    "stderr": ""
+  },
+  {
+    "step": "03-map-and-refresh",
+    "started": "2026-11-15T00:22:24.599101+00:00",
+    "ended": "2026-11-15T00:22:27.883379+00:00",
+    "exit_code": 0,
+    "stdout": "Mapped new warranty account; history, schedules, T12, YTD and KPIs refreshed.\r\n",
+    "stderr": ""
+  },
+  {
+    "step": "review-Trailing-12",
+    "started": "2026-11-15T00:22:31.169643+00:00",
+    "ended": "2026-11-15T00:22:31.876251+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "step": "review-YTD",
+    "started": "2026-11-15T00:22:34.054817+00:00",
+    "ended": "2026-11-15T00:22:34.714205+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "step": "review-KPI",
+    "started": "2026-11-15T00:22:36.890921+00:00",
+    "ended": "2026-11-15T00:22:37.562845+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "step": "04-flux-and-checks",
+    "started": "2026-11-15T00:22:39.805355+00:00",
+    "ended": "2026-11-15T00:22:40.931797+00:00",
+    "exit_code": 0,
+    "stdout": "All 14 workbook controls PASS; October close saved.\r\n",
+    "stderr": ""
+  },
+  {
+    "step": "05-update-deck",
+    "started": "2026-11-15T00:22:45.168302+00:00",
+    "ended": "2026-11-15T00:22:49.310906+00:00",
+    "exit_code": 0,
+    "stdout": "October presentation saved: 6 slides, 3 editable embedded charts.\r\n",
+    "stderr": ""
+  },
+  {
+    "step": "06-review-outputs",
+    "started": "2026-11-15T00:22:53.927601+00:00",
+    "ended": "2026-11-15T00:22:55.251293+00:00",
+    "exit_code": 0,
+    "stdout": "October workbook and deck verified in desktop Office.\r\n",
+    "stderr": ""
+  },
+  {
+    "step": "deck-slide-2",
+    "started": "2026-11-15T00:22:58.780171+00:00",
+    "ended": "2026-11-15T00:22:59.302161+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "step": "deck-slide-3",
+    "started": "2026-11-15T00:23:01.917150+00:00",
+    "ended": "2026-11-15T00:23:02.416274+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "step": "deck-slide-4",
+    "started": "2026-11-15T00:23:05.018587+00:00",
+    "ended": "2026-11-15T00:23:05.520405+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "step": "deck-slide-5",
+    "started": "2026-11-15T00:23:08.201422+00:00",
+    "ended": "2026-11-15T00:23:08.649887+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "step": "deck-slide-6",
+    "started": "2026-11-15T00:23:11.290083+00:00",
+    "ended": "2026-11-15T00:23:11.915918+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "step": "deck-slide-1",
+    "started": "2026-11-15T00:23:14.636883+00:00",
+    "ended": "2026-11-15T00:23:15.291999+00:00",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  }
+]

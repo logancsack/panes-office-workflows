@@ -1,0 +1,1930 @@
+﻿[
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\00 Reference\\Opening TB 2023-08.csv"
+    },
+    {
+        "rows":  35,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\00 Reference\\Reporting COA.csv"
+    },
+    {
+        "rows":  41,
+        "version":  "16.0",
+        "columns":  3,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\00 Reference\\Supporting cash history 2022-Aug2023.csv"
+    },
+    {
+        "rows":  481,
+        "version":  "16.0",
+        "columns":  5,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\00 Reference\\Supporting monthly history 2022-Aug2023.csv"
+    },
+    {
+        "rows":  169,
+        "version":  "16.0",
+        "columns":  3,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\00 Planning\\FY2023 Board budget approved.csv"
+    },
+    {
+        "rows":  169,
+        "version":  "16.0",
+        "columns":  3,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\00 Planning\\FY2023 July reforecast v2.csv"
+    },
+    {
+        "rows":  219,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\09 Sep\\01 ERP exports\\GL detail 2023-09.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\09 Sep\\01 ERP exports\\Trial balance 2023-09.csv"
+    },
+    {
+        "rows":  15,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\09 Sep\\02 Subledgers\\AP aging 2023-09.csv"
+    },
+    {
+        "rows":  58,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\09 Sep\\02 Subledgers\\AR aging 2023-09.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\09 Sep\\02 Subledgers\\Bank rec 2023-09.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\09 Sep\\02 Subledgers\\Payroll summary 2023-09.csv"
+    },
+    {
+        "rows":  211,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\10 Oct\\01 ERP exports\\GL detail 2023-10.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\10 Oct\\01 ERP exports\\Trial balance 2023-10.csv"
+    },
+    {
+        "rows":  15,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\10 Oct\\02 Subledgers\\AP aging 2023-10.csv"
+    },
+    {
+        "rows":  58,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\10 Oct\\02 Subledgers\\AR aging 2023-10.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\10 Oct\\02 Subledgers\\Bank rec 2023-10.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\10 Oct\\02 Subledgers\\Payroll summary 2023-10.csv"
+    },
+    {
+        "rows":  211,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\11 Nov\\01 ERP exports\\GL detail 2023-11.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\11 Nov\\01 ERP exports\\Trial balance 2023-11.csv"
+    },
+    {
+        "rows":  15,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\11 Nov\\02 Subledgers\\AP aging 2023-11.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\11 Nov\\02 Subledgers\\AR aging 2023-11.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\11 Nov\\02 Subledgers\\Bank rec 2023-11.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\11 Nov\\02 Subledgers\\Payroll summary 2023-11.csv"
+    },
+    {
+        "rows":  219,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\12 Dec\\01 ERP exports\\GL detail 2023-12.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\12 Dec\\01 ERP exports\\Trial balance 2023-12.csv"
+    },
+    {
+        "rows":  14,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\12 Dec\\02 Subledgers\\AP aging 2023-12.csv"
+    },
+    {
+        "rows":  52,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\12 Dec\\02 Subledgers\\AR aging 2023-12.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\12 Dec\\02 Subledgers\\Bank rec 2023-12.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2023\\12 Dec\\02 Subledgers\\Payroll summary 2023-12.csv"
+    },
+    {
+        "rows":  169,
+        "version":  "16.0",
+        "columns":  3,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\00 Planning\\FY2024 Board budget approved.csv"
+    },
+    {
+        "rows":  169,
+        "version":  "16.0",
+        "columns":  3,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\00 Planning\\FY2024 July reforecast v2.csv"
+    },
+    {
+        "rows":  263,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\01 Jan\\01 ERP exports\\GL detail 2024-01.csv"
+    },
+    {
+        "rows":  56,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\01 Jan\\01 ERP exports\\Trial balance 2024-01.csv"
+    },
+    {
+        "rows":  15,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\01 Jan\\02 Subledgers\\AP aging 2024-01.csv"
+    },
+    {
+        "rows":  60,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\01 Jan\\02 Subledgers\\AR aging 2024-01.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\01 Jan\\02 Subledgers\\Bank rec 2024-01.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\01 Jan\\02 Subledgers\\Payroll summary 2024-01.csv"
+    },
+    {
+        "rows":  211,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\02 Feb\\01 ERP exports\\GL detail 2024-02.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\02 Feb\\01 ERP exports\\Trial balance 2024-02.csv"
+    },
+    {
+        "rows":  16,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\02 Feb\\02 Subledgers\\AP aging 2024-02.csv"
+    },
+    {
+        "rows":  58,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\02 Feb\\02 Subledgers\\AR aging 2024-02.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\02 Feb\\02 Subledgers\\Bank rec 2024-02.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\02 Feb\\02 Subledgers\\Payroll summary 2024-02.csv"
+    },
+    {
+        "rows":  219,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\03 Mar\\01 ERP exports\\GL detail 2024-03.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\03 Mar\\01 ERP exports\\Trial balance 2024-03.csv"
+    },
+    {
+        "rows":  16,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\03 Mar\\02 Subledgers\\AP aging 2024-03.csv"
+    },
+    {
+        "rows":  55,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\03 Mar\\02 Subledgers\\AR aging 2024-03.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\03 Mar\\02 Subledgers\\Bank rec 2024-03.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\03 Mar\\02 Subledgers\\Payroll summary 2024-03.csv"
+    },
+    {
+        "rows":  211,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\04 Apr\\01 ERP exports\\GL detail 2024-04.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\04 Apr\\01 ERP exports\\Trial balance 2024-04.csv"
+    },
+    {
+        "rows":  16,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\04 Apr\\02 Subledgers\\AP aging 2024-04.csv"
+    },
+    {
+        "rows":  56,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\04 Apr\\02 Subledgers\\AR aging 2024-04.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\04 Apr\\02 Subledgers\\Bank rec 2024-04.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\04 Apr\\02 Subledgers\\Payroll summary 2024-04.csv"
+    },
+    {
+        "rows":  211,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\05 May\\01 ERP exports\\GL detail 2024-05.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\05 May\\01 ERP exports\\Trial balance 2024-05.csv"
+    },
+    {
+        "rows":  14,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\05 May\\02 Subledgers\\AP aging 2024-05.csv"
+    },
+    {
+        "rows":  60,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\05 May\\02 Subledgers\\AR aging 2024-05.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\05 May\\02 Subledgers\\Bank rec 2024-05.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\05 May\\02 Subledgers\\Payroll summary 2024-05.csv"
+    },
+    {
+        "rows":  219,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\06 Jun\\01 ERP exports\\GL detail 2024-06.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\06 Jun\\01 ERP exports\\Trial balance 2024-06.csv"
+    },
+    {
+        "rows":  15,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\06 Jun\\02 Subledgers\\AP aging 2024-06.csv"
+    },
+    {
+        "rows":  60,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\06 Jun\\02 Subledgers\\AR aging 2024-06.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\06 Jun\\02 Subledgers\\Bank rec 2024-06.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\06 Jun\\02 Subledgers\\Payroll summary 2024-06.csv"
+    },
+    {
+        "rows":  213,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\07 Jul\\01 ERP exports\\GL detail 2024-07.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\07 Jul\\01 ERP exports\\Trial balance 2024-07.csv"
+    },
+    {
+        "rows":  14,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\07 Jul\\02 Subledgers\\AP aging 2024-07.csv"
+    },
+    {
+        "rows":  54,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\07 Jul\\02 Subledgers\\AR aging 2024-07.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\07 Jul\\02 Subledgers\\Bank rec 2024-07.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\07 Jul\\02 Subledgers\\Payroll summary 2024-07.csv"
+    },
+    {
+        "rows":  211,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\08 Aug\\01 ERP exports\\GL detail 2024-08.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\08 Aug\\01 ERP exports\\Trial balance 2024-08.csv"
+    },
+    {
+        "rows":  15,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\08 Aug\\02 Subledgers\\AP aging 2024-08.csv"
+    },
+    {
+        "rows":  60,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\08 Aug\\02 Subledgers\\AR aging 2024-08.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\08 Aug\\02 Subledgers\\Bank rec 2024-08.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\08 Aug\\02 Subledgers\\Payroll summary 2024-08.csv"
+    },
+    {
+        "rows":  219,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\09 Sep\\01 ERP exports\\GL detail 2024-09.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\09 Sep\\01 ERP exports\\Trial balance 2024-09.csv"
+    },
+    {
+        "rows":  15,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\09 Sep\\02 Subledgers\\AP aging 2024-09.csv"
+    },
+    {
+        "rows":  52,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\09 Sep\\02 Subledgers\\AR aging 2024-09.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\09 Sep\\02 Subledgers\\Bank rec 2024-09.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\09 Sep\\02 Subledgers\\Payroll summary 2024-09.csv"
+    },
+    {
+        "rows":  211,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\10 Oct\\01 ERP exports\\GL detail 2024-10.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\10 Oct\\01 ERP exports\\Trial balance 2024-10.csv"
+    },
+    {
+        "rows":  16,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\10 Oct\\02 Subledgers\\AP aging 2024-10.csv"
+    },
+    {
+        "rows":  58,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\10 Oct\\02 Subledgers\\AR aging 2024-10.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\10 Oct\\02 Subledgers\\Bank rec 2024-10.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\10 Oct\\02 Subledgers\\Payroll summary 2024-10.csv"
+    },
+    {
+        "rows":  211,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\11 Nov\\01 ERP exports\\GL detail 2024-11.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\11 Nov\\01 ERP exports\\Trial balance 2024-11.csv"
+    },
+    {
+        "rows":  16,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\11 Nov\\02 Subledgers\\AP aging 2024-11.csv"
+    },
+    {
+        "rows":  56,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\11 Nov\\02 Subledgers\\AR aging 2024-11.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\11 Nov\\02 Subledgers\\Bank rec 2024-11.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\11 Nov\\02 Subledgers\\Payroll summary 2024-11.csv"
+    },
+    {
+        "rows":  219,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\12 Dec\\01 ERP exports\\GL detail 2024-12.csv"
+    },
+    {
+        "rows":  53,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\12 Dec\\01 ERP exports\\Trial balance 2024-12.csv"
+    },
+    {
+        "rows":  14,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\12 Dec\\02 Subledgers\\AP aging 2024-12.csv"
+    },
+    {
+        "rows":  61,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\12 Dec\\02 Subledgers\\AR aging 2024-12.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\12 Dec\\02 Subledgers\\Bank rec 2024-12.csv"
+    },
+    {
+        "rows":  3,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2024\\12 Dec\\02 Subledgers\\Payroll summary 2024-12.csv"
+    },
+    {
+        "rows":  169,
+        "version":  "16.0",
+        "columns":  3,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\00 Planning\\FY2025 Board budget approved.csv"
+    },
+    {
+        "rows":  169,
+        "version":  "16.0",
+        "columns":  3,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\00 Planning\\FY2025 July reforecast v2.csv"
+    },
+    {
+        "rows":  417,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\01 Jan\\01 ERP exports\\GL detail 2025-01.csv"
+    },
+    {
+        "rows":  83,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\01 Jan\\01 ERP exports\\Trial balance 2025-01.csv"
+    },
+    {
+        "rows":  23,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\01 Jan\\02 Subledgers\\AP aging 2025-01.csv"
+    },
+    {
+        "rows":  79,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\01 Jan\\02 Subledgers\\AR aging 2025-01.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\01 Jan\\02 Subledgers\\Bank rec 2025-01.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\01 Jan\\02 Subledgers\\Payroll summary 2025-01.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\02 Feb\\01 ERP exports\\GL detail 2025-02.csv"
+    },
+    {
+        "rows":  82,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\02 Feb\\01 ERP exports\\Trial balance 2025-02.csv"
+    },
+    {
+        "rows":  26,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\02 Feb\\02 Subledgers\\AP aging 2025-02.csv"
+    },
+    {
+        "rows":  79,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\02 Feb\\02 Subledgers\\AR aging 2025-02.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\02 Feb\\02 Subledgers\\Bank rec 2025-02.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\02 Feb\\02 Subledgers\\Payroll summary 2025-02.csv"
+    },
+    {
+        "rows":  367,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\03 Mar\\01 ERP exports\\GL detail 2025-03.csv"
+    },
+    {
+        "rows":  83,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\03 Mar\\01 ERP exports\\Trial balance 2025-03.csv"
+    },
+    {
+        "rows":  28,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\03 Mar\\02 Subledgers\\AP aging 2025-03.csv"
+    },
+    {
+        "rows":  89,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\03 Mar\\02 Subledgers\\AR aging 2025-03.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\03 Mar\\02 Subledgers\\Bank rec 2025-03.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\03 Mar\\02 Subledgers\\Payroll summary 2025-03.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\04 Apr\\01 ERP exports\\GL detail 2025-04.csv"
+    },
+    {
+        "rows":  99,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\04 Apr\\01 ERP exports\\Trial balance 2025-04.csv"
+    },
+    {
+        "rows":  28,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\04 Apr\\02 Subledgers\\AP aging 2025-04.csv"
+    },
+    {
+        "rows":  82,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\04 Apr\\02 Subledgers\\AR aging 2025-04.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\04 Apr\\02 Subledgers\\Bank rec 2025-04.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\04 Apr\\02 Subledgers\\Payroll summary 2025-04.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\05 May\\01 ERP exports\\GL detail 2025-05.csv"
+    },
+    {
+        "rows":  99,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\05 May\\01 ERP exports\\Trial balance 2025-05.csv"
+    },
+    {
+        "rows":  26,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\05 May\\02 Subledgers\\AP aging 2025-05.csv"
+    },
+    {
+        "rows":  80,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\05 May\\02 Subledgers\\AR aging 2025-05.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\05 May\\02 Subledgers\\Bank rec 2025-05.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\05 May\\02 Subledgers\\Payroll summary 2025-05.csv"
+    },
+    {
+        "rows":  367,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\06 Jun\\01 ERP exports\\GL detail 2025-06.csv"
+    },
+    {
+        "rows":  99,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\06 Jun\\01 ERP exports\\Trial balance 2025-06.csv"
+    },
+    {
+        "rows":  26,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\06 Jun\\02 Subledgers\\AP aging 2025-06.csv"
+    },
+    {
+        "rows":  87,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\06 Jun\\02 Subledgers\\AR aging 2025-06.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\06 Jun\\02 Subledgers\\Bank rec 2025-06.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\06 Jun\\02 Subledgers\\Payroll summary 2025-06.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\07 Jul\\01 ERP exports\\GL detail 2025-07.csv"
+    },
+    {
+        "rows":  99,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\07 Jul\\01 ERP exports\\Trial balance 2025-07.csv"
+    },
+    {
+        "rows":  27,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\07 Jul\\02 Subledgers\\AP aging 2025-07.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\07 Jul\\02 Subledgers\\AR aging 2025-07.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\07 Jul\\02 Subledgers\\Bank rec 2025-07.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\07 Jul\\02 Subledgers\\Payroll summary 2025-07.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\08 Aug\\01 ERP exports\\GL detail 2025-08.csv"
+    },
+    {
+        "rows":  99,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\08 Aug\\01 ERP exports\\Trial balance 2025-08.csv"
+    },
+    {
+        "rows":  28,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\08 Aug\\02 Subledgers\\AP aging 2025-08.csv"
+    },
+    {
+        "rows":  82,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\08 Aug\\02 Subledgers\\AR aging 2025-08.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\08 Aug\\02 Subledgers\\Bank rec 2025-08.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\08 Aug\\02 Subledgers\\Payroll summary 2025-08.csv"
+    },
+    {
+        "rows":  367,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\09 Sep\\01 ERP exports\\GL detail 2025-09.csv"
+    },
+    {
+        "rows":  99,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\09 Sep\\01 ERP exports\\Trial balance 2025-09.csv"
+    },
+    {
+        "rows":  29,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\09 Sep\\02 Subledgers\\AP aging 2025-09.csv"
+    },
+    {
+        "rows":  86,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\09 Sep\\02 Subledgers\\AR aging 2025-09.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\09 Sep\\02 Subledgers\\Bank rec 2025-09.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\09 Sep\\02 Subledgers\\Payroll summary 2025-09.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\10 Oct\\01 ERP exports\\GL detail 2025-10.csv"
+    },
+    {
+        "rows":  99,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\10 Oct\\01 ERP exports\\Trial balance 2025-10.csv"
+    },
+    {
+        "rows":  29,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\10 Oct\\02 Subledgers\\AP aging 2025-10.csv"
+    },
+    {
+        "rows":  86,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\10 Oct\\02 Subledgers\\AR aging 2025-10.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\10 Oct\\02 Subledgers\\Bank rec 2025-10.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\10 Oct\\02 Subledgers\\Payroll summary 2025-10.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\11 Nov\\01 ERP exports\\GL detail 2025-11.csv"
+    },
+    {
+        "rows":  99,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\11 Nov\\01 ERP exports\\Trial balance 2025-11.csv"
+    },
+    {
+        "rows":  27,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\11 Nov\\02 Subledgers\\AP aging 2025-11.csv"
+    },
+    {
+        "rows":  85,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\11 Nov\\02 Subledgers\\AR aging 2025-11.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\11 Nov\\02 Subledgers\\Bank rec 2025-11.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\11 Nov\\02 Subledgers\\Payroll summary 2025-11.csv"
+    },
+    {
+        "rows":  367,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\12 Dec\\01 ERP exports\\GL detail 2025-12.csv"
+    },
+    {
+        "rows":  99,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\12 Dec\\01 ERP exports\\Trial balance 2025-12.csv"
+    },
+    {
+        "rows":  27,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\12 Dec\\02 Subledgers\\AP aging 2025-12.csv"
+    },
+    {
+        "rows":  80,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\12 Dec\\02 Subledgers\\AR aging 2025-12.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\12 Dec\\02 Subledgers\\Bank rec 2025-12.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2025\\12 Dec\\02 Subledgers\\Payroll summary 2025-12.csv"
+    },
+    {
+        "rows":  169,
+        "version":  "16.0",
+        "columns":  3,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\00 Planning\\FY2026 Board budget approved.csv"
+    },
+    {
+        "rows":  169,
+        "version":  "16.0",
+        "columns":  3,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\00 Planning\\FY2026 July reforecast v2.csv"
+    },
+    {
+        "rows":  471,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\01 Jan\\01 ERP exports\\GL detail 2026-01.csv"
+    },
+    {
+        "rows":  105,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\01 Jan\\01 ERP exports\\Trial balance 2026-01.csv"
+    },
+    {
+        "rows":  29,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\01 Jan\\02 Subledgers\\AP aging 2026-01.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\01 Jan\\02 Subledgers\\AR aging 2026-01.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\01 Jan\\02 Subledgers\\Bank rec 2026-01.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\01 Jan\\02 Subledgers\\Payroll summary 2026-01.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\02 Feb\\01 ERP exports\\GL detail 2026-02.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\02 Feb\\01 ERP exports\\Trial balance 2026-02.csv"
+    },
+    {
+        "rows":  28,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\02 Feb\\02 Subledgers\\AP aging 2026-02.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\02 Feb\\02 Subledgers\\AR aging 2026-02.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\02 Feb\\02 Subledgers\\Bank rec 2026-02.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\02 Feb\\02 Subledgers\\Payroll summary 2026-02.csv"
+    },
+    {
+        "rows":  367,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\03 Mar\\01 ERP exports\\GL detail 2026-03.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\03 Mar\\01 ERP exports\\Trial balance 2026-03.csv"
+    },
+    {
+        "rows":  28,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\03 Mar\\02 Subledgers\\AP aging 2026-03.csv"
+    },
+    {
+        "rows":  83,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\03 Mar\\02 Subledgers\\AR aging 2026-03.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\03 Mar\\02 Subledgers\\Bank rec 2026-03.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\03 Mar\\02 Subledgers\\Payroll summary 2026-03.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\04 Apr\\01 ERP exports\\GL detail 2026-04.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\04 Apr\\01 ERP exports\\Trial balance 2026-04.csv"
+    },
+    {
+        "rows":  28,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\04 Apr\\02 Subledgers\\AP aging 2026-04.csv"
+    },
+    {
+        "rows":  80,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\04 Apr\\02 Subledgers\\AR aging 2026-04.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\04 Apr\\02 Subledgers\\Bank rec 2026-04.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\04 Apr\\02 Subledgers\\Payroll summary 2026-04.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\05 May\\01 ERP exports\\GL detail 2026-05.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\05 May\\01 ERP exports\\Trial balance 2026-05.csv"
+    },
+    {
+        "rows":  26,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\05 May\\02 Subledgers\\AP aging 2026-05.csv"
+    },
+    {
+        "rows":  87,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\05 May\\02 Subledgers\\AR aging 2026-05.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\05 May\\02 Subledgers\\Bank rec 2026-05.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\05 May\\02 Subledgers\\Payroll summary 2026-05.csv"
+    },
+    {
+        "rows":  365,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\06 Jun\\01 ERP exports\\GL detail 2026-06.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\06 Jun\\01 ERP exports\\Trial balance 2026-06.csv"
+    },
+    {
+        "rows":  26,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\06 Jun\\02 Subledgers\\AP aging 2026-06.csv"
+    },
+    {
+        "rows":  85,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\06 Jun\\02 Subledgers\\AR aging 2026-06.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\06 Jun\\02 Subledgers\\Bank rec 2026-06.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\06 Jun\\02 Subledgers\\Payroll summary 2026-06.csv"
+    },
+    {
+        "rows":  5,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\06 Jun\\03 Review trail\\June restatement bridge.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\07 Jul\\01 ERP exports\\GL detail 2026-07.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\07 Jul\\01 ERP exports\\Trial balance 2026-07.csv"
+    },
+    {
+        "rows":  26,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\07 Jul\\02 Subledgers\\AP aging 2026-07.csv"
+    },
+    {
+        "rows":  87,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\07 Jul\\02 Subledgers\\AR aging 2026-07.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\07 Jul\\02 Subledgers\\Bank rec 2026-07.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\07 Jul\\02 Subledgers\\Payroll summary 2026-07.csv"
+    },
+    {
+        "rows":  355,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\08 Aug\\01 ERP exports\\GL detail 2026-08.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\08 Aug\\01 ERP exports\\Trial balance 2026-08.csv"
+    },
+    {
+        "rows":  28,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\08 Aug\\02 Subledgers\\AP aging 2026-08.csv"
+    },
+    {
+        "rows":  87,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\08 Aug\\02 Subledgers\\AR aging 2026-08.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\08 Aug\\02 Subledgers\\Bank rec 2026-08.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\08 Aug\\02 Subledgers\\Payroll summary 2026-08.csv"
+    },
+    {
+        "rows":  367,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\09 Sep\\01 ERP exports\\GL detail 2026-09.csv"
+    },
+    {
+        "rows":  84,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\09 Sep\\01 ERP exports\\Trial balance 2026-09.csv"
+    },
+    {
+        "rows":  27,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\09 Sep\\02 Subledgers\\AP aging 2026-09.csv"
+    },
+    {
+        "rows":  87,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\09 Sep\\02 Subledgers\\AR aging 2026-09.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\09 Sep\\02 Subledgers\\Bank rec 2026-09.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\09 Sep\\02 Subledgers\\Payroll summary 2026-09.csv"
+    },
+    {
+        "rows":  359,
+        "version":  "16.0",
+        "columns":  10,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\10 Oct\\01 ERP exports\\GL detail 2026-10.csv"
+    },
+    {
+        "rows":  85,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\10 Oct\\01 ERP exports\\Trial balance 2026-10.csv"
+    },
+    {
+        "rows":  28,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\10 Oct\\02 Subledgers\\AP aging 2026-10.csv"
+    },
+    {
+        "rows":  78,
+        "version":  "16.0",
+        "columns":  6,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\10 Oct\\02 Subledgers\\AR aging 2026-10.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  8,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\10 Oct\\02 Subledgers\\Bank rec 2026-10.csv"
+    },
+    {
+        "rows":  4,
+        "version":  "16.0",
+        "columns":  4,
+        "application":  "Microsoft Excel",
+        "opened":  true,
+        "file":  "Alder Mechanical - Finance\\FY2026\\10 Oct\\02 Subledgers\\Payroll summary 2026-10.csv"
+    }
+]
