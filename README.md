@@ -22,6 +22,8 @@ The validators read the real Office files without rewriting them. They reconstru
 
 Follow the [MCP setup](integrations/mcp/README.md) or use the [Claude Desktop extension](integrations/desktop/README.md), list the available templates and choose the Office-installed computer. Use your kept signed-in Office computer and its existing files, or complete your own Office sign-in. Give the agent the [October close task](monthly-close/TASK.md). Run Office work in the signed-in desktop (`desktop=True`) and use the private viewer to watch or take over. Keep keys and customer files in your own secret store.
 
+Building with LangChain? The [runnable LangChain connection](integrations/langchain/README.md) checks MCP tool discovery locally without an account or model call. Its execution example uses the original compact expense task below.
+
 The [recorded native stages](monthly-close/recorded-steps) document the COM work performed in real Excel and PowerPoint. They are stateful steps with file and desktop preconditions, not a substitute UI or a headless rendering of Office.
 
 ## Original compact example

@@ -1,10 +1,10 @@
 # Run a LangChain agent in Excel and PowerPoint
 
-Give a LangChain agent the Windows desktop where the work happens: native Excel Power Query, a PivotTable, charts, and a PowerPoint deck someone can keep editing. This example connects LangChain to the Panes MCP server and supplies the [recorded finance task](../../TASK.md).
+Give a LangChain agent the Windows desktop where the work happens: native Excel Power Query, a PivotTable, charts, and a PowerPoint deck someone can keep editing. This example connects LangChain to the Panes MCP server and supplies the [original compact expense task](../../TASK.md).
 
 [Watch the actual Windows run](../../media/office-report.mp4) · [Inspect the Excel workbook](../../outputs/October%20close.xlsx) · [Inspect the editable deck](../../outputs/October%20review.pptx)
 
-The recording and Office files come from the November 11 Panes run. The data is fictional. This LangChain client was added November 15; its connection, preflight and tool restrictions are tested locally. A new model-driven Office run has not been performed with this client.
+The recording and Office files come from the November 11 Panes run. The data is fictional. This LangChain client was added November 15; its connection, preflight and tool restrictions are tested locally. A new model-driven Office run has not been performed with this client. The expanded [37-month close](../../monthly-close/README.md) is a separate task with its own files; the helper and default instructions here prepare the compact example.
 
 ## Check the connection without an account
 
@@ -22,7 +22,7 @@ The agent receives seven work tools: computer state, commands, file reads/writes
 ## Run the finance task on your computer
 
 1. [Create a Panes account](https://usepanes.com/login?signup), fund its prepaid balance, and save its API key in your secret environment as `PANES_API_KEY`. Use an existing running computer with Excel and PowerPoint desktop installed and signed in. List current templates in Panes before choosing one; the Office-installed template is `windows-16gb`. Use a computer reserved for this example, with no unrelated work open.
-2. Upload the CSVs and reference stages using the repository's [setup helper](../../README.md#run-the-workflow-with-your-agent). From this directory, the command below uses the locked SDK environment. It refuses an existing task directory and saves the private viewer locally without printing its URL.
+2. Upload the compact example's CSVs and reference stages using the repository's [setup helper](../../prepare.py). From this directory, the command below uses the locked SDK environment. It refuses an existing task directory and saves the private viewer locally without printing its URL. To inspect its options without a key or network call, run `python ../../prepare.py --help`; use `python ../../prepare.py --dry-run` to preview the uploads.
 
 ```sh
 uv run --project ../desktop --locked python ../../prepare.py --machine YOUR_MACHINE_ID --execute
