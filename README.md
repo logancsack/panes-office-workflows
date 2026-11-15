@@ -24,6 +24,8 @@ Follow the [MCP setup](integrations/mcp/README.md) or use the [Claude Desktop ex
 
 Building with LangChain? The [runnable LangChain connection](integrations/langchain/README.md) checks MCP tool discovery locally without an account or model call. Its execution example uses the original compact expense task below.
 
+Using the OpenAI Agents SDK? The [runnable OpenAI connection](integrations/openai-agents/README.md) checks the real MCP transport and restricts the agent to one selected Windows computer. Discovery needs no account or model call; its execution example uses the original compact expense task.
+
 The [recorded native stages](monthly-close/recorded-steps) document the COM work performed in real Excel and PowerPoint. They are stateful steps with file and desktop preconditions, not a substitute UI or a headless rendering of Office.
 
 ## Original compact example

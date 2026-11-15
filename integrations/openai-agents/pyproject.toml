@@ -1,0 +1,6 @@
+[project]
+name = "panes-openai-agents-office-example"
+version = "0.1.0"
+description = "Connect the OpenAI Agents SDK to native Windows and Office on Panes"
+requires-python = ">=3.11,<3.15"
+dependencies = ["openai-agents==0.24.0"]
