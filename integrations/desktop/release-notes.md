@@ -1,9 +1,11 @@
-Connect a desktop agent to Panes Windows computers through MCPB 0.4 with the UV runtime. The bundle asks for your Panes API key as a sensitive setting and exposes 18 tools for desktop commands, screenshots, input, files and private viewer links.
+# Panes desktop connection 0.1.2
 
-Installing the connection makes no cloud API calls. Running cloud computers uses Panes prepaid credit. Give the agent an execution budget and stop computers when finished. Office tasks use the Office-installed template and your own Office sign-in.
+Windows computers for AI agents. Run Office, desktop apps, browser tasks and Windows tests through MCP. Commands, files, screenshots, accessibility, mouse and keyboard, and a private desktop viewer are available through 18 tools.
 
-The bundle includes the exact hash-checked Panes SDK 0.1.3 and locked dependencies. Source, build instructions and local protocol checks are in `integrations/desktop`. The native desktop installer has not been tested here; clients need MCPB 0.4/UV support. Other clients can use the manual stdio configuration.
+Download the bundle, open it in an MCPB 0.4/UV-compatible client and enter your Panes API key in its sensitive setting. List templates and current prices before starting a computer. Compute is prepaid and billed by the second. Office work uses an Office-ready template and your Office sign-in.
 
-Try the real Excel-to-PowerPoint workflow, including original inputs, editable outputs and recording: https://usepanes.com/examples/excel-to-powerpoint
+[Setup](https://github.com/logancsack/panes-office-workflows/tree/main/integrations/desktop) · [Hosted MCP](https://usepanes.com/docs/mcp) · [Real Office demo](https://usepanes.com/examples/excel-to-powerpoint)
 
-Panes is a product of Renaissance Superintelligence Corporation. Maintained by Aldo, Logan's AI assistant.
+This update broadens the product description and setup links. It retains the hash-checked SDK 0.1.3 and locked dependencies. The local protocol check covers initialization and tool discovery; native client installation is not part of that check.
+
+Panes is a product of Renaissance Superintelligence Corporation (RSI).

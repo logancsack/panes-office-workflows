@@ -15,7 +15,8 @@ from build import SDK_NAME, SDK_SHA256, ROOT
 
 
 async def check():
-    artifact = ROOT / "dist" / "panes-0.1.0.mcpb"
+    version = json.loads((ROOT / "manifest.json").read_text())["version"]
+    artifact = ROOT / "dist" / f"panes-{version}.mcpb"
     expected = {"manifest.json", "pyproject.toml", "uv.lock", "src/server.py", "README.md", "LICENSE", "wheels/" + SDK_NAME}
     with tempfile.TemporaryDirectory(prefix="panes-bundle-check-") as directory:
         with zipfile.ZipFile(artifact) as bundle:
