@@ -2,15 +2,15 @@
   "manifest_version": "0.4",
   "name": "panes",
   "display_name": "Panes",
-  "version": "0.1.0",
-  "description": "Put your agents to work in real Excel, PowerPoint and Windows apps.",
-  "long_description": "Connect a compatible desktop agent to Panes Windows computers through 18 MCP tools: commands, screenshots, mouse and keyboard, file transfer and a private viewer. Installing this bundle starts only the local connection. Creating or running a cloud computer uses your Panes prepaid credit. Give your agent a budget and stop computers when finished. Office tasks use the Office-installed template and your own Office sign-in.",
+  "version": "0.1.2",
+  "description": "Windows computers for AI agents. Office, desktop apps, browser tasks and testing.",
+  "long_description": "Give your agent a persistent Windows computer through MCP. Run commands, transfer files, inspect the screen, use mouse and keyboard, and open a private viewer to watch or take over. Use native Office apps, Windows business software, browser workflows and desktop tests. Connect with your Panes API key, list templates and prices, then start a computer for your task. Compute is prepaid and billed by the second. Office work uses an Office-ready template and your Office sign-in.",
   "author": {
     "name": "Renaissance Superintelligence Corporation",
     "url": "https://usepanes.com",
     "email": "logan@aldomail.com"
   },
-  "homepage": "https://usepanes.com/examples/excel-to-powerpoint",
+  "homepage": "https://usepanes.com",
   "support": "https://github.com/logancsack/panes-office-workflows/issues",
   "repository": {
     "type": "git",
@@ -21,7 +21,13 @@
     "entry_point": "src/server.py",
     "mcp_config": {
       "command": "uv",
-      "args": ["run", "--locked", "--directory", "${__dirname}", "src/server.py"],
+      "args": [
+        "run",
+        "--locked",
+        "--directory",
+        "${__dirname}",
+        "src/server.py"
+      ],
       "env": {
         "PANES_API_KEY": "${user_config.api_key}"
       }
@@ -37,9 +43,26 @@
     }
   },
   "compatibility": {
-    "platforms": ["darwin", "win32", "linux"],
-    "runtimes": {"python": ">=3.11,<3.15"}
+    "platforms": [
+      "darwin",
+      "win32",
+      "linux"
+    ],
+    "runtimes": {
+      "python": ">=3.11,<3.15"
+    }
   },
-  "keywords": ["windows", "excel", "powerpoint", "computer-use", "enterprise", "panes"],
+  "keywords": [
+    "windows",
+    "mcp",
+    "computer-use",
+    "desktop-automation",
+    "excel",
+    "word",
+    "powerpoint",
+    "browser-automation",
+    "testing",
+    "enterprise"
+  ],
   "license": "MIT"
 }

@@ -13,7 +13,6 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
-      id-token: write
     defaults:
       run:
         working-directory: integrations/desktop
@@ -44,13 +43,3 @@ jobs:
           else
             gh release create "$tag" "dist/panes-$version.mcpb" "dist/panes-$version.mcpb.sha256" dist/server.json --target "$GITHUB_SHA" --title "Panes desktop connection $version" --notes-file release-notes.md --latest=false
           fi
-      - name: Install verified registry publisher
-        run: |
-          set -euo pipefail
-          curl -fsSL https://github.com/modelcontextprotocol/registry/releases/download/v1.8.9/mcp-publisher_linux_amd64.tar.gz -o /tmp/mcp-publisher.tar.gz
-          echo '4d527ca8f1ced0394c962dc925c2a4a4addef441cbefd62501c875e9481823a8  /tmp/mcp-publisher.tar.gz' | sha256sum -c -
-          tar -xzf /tmp/mcp-publisher.tar.gz -C /tmp mcp-publisher
-      - name: Authenticate and publish registry metadata
-        run: |
-          /tmp/mcp-publisher login github-oidc
-          /tmp/mcp-publisher publish dist/server.json

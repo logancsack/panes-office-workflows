@@ -15,9 +15,9 @@ def metadata():
         "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
         "name": "io.github.logancsack/panes",
         "title": "Panes",
-        "description": "Windows computers for AI agents. Real Excel, PowerPoint, desktop control and file transfer.",
+        "description": "Windows computers for AI agents. Office, desktop apps, browser tasks, testing and file transfer.",
         "version": version,
-        "websiteUrl": "https://usepanes.com",
+        "websiteUrl": "https://usepanes.com/docs/mcp",
         "repository": {"url": "https://github.com/logancsack/panes-office-workflows", "source": "github"},
         "packages": [{
             "registryType": "mcpb",
