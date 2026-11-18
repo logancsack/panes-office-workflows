@@ -45,6 +45,6 @@ The [hosted MCP catalog](https://usepanes.com/docs/mcp) also covers account sign
 
 [Watch the Office workflow](https://usepanes.com/examples/excel-to-powerpoint): an agent carries a monthly close through real Excel and PowerPoint on Panes, returning an editable workbook and management deck. The company and source data are fictional; the computer, apps and recorded work are real. [Inspect the task, files and validation](monthly-close/README.md).
 
-This repository contains the runnable connections and example assets. The [compact task](COMPACT_TASK.md) matches `prepare.py` and the framework clients; `python prepare.py --help` documents uploads and private viewer recovery. Example verification commands and recorded native stages are documented in the [workflow guide](monthly-close/README.md).
+This repository contains the runnable connections and example assets. The [compact task](COMPACT_TASK.md) matches `prepare.py` and the framework clients; `python prepare.py --help` documents uploads and private viewer recovery. After your compact run, [download and verify your own files](guides/verify-office-outputs.md). Example verification commands and recorded native stages are documented in the [workflow guide](monthly-close/README.md).
 
 Panes is a product of **Renaissance Superintelligence Corporation (RSI)**. [Documentation](https://usepanes.com/docs) · [Support](https://usepanes.com/support) · [Connection issues](https://github.com/logancsack/panes-office-workflows/issues).

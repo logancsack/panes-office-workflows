@@ -38,7 +38,7 @@ uv run --locked office_agent.py --machine YOUR_MACHINE_ID --model openai:YOUR_VI
 
 Open the private viewer from `local-results/viewer.json` to inspect the work. The agent should leave `October close.xlsx` and `October review.pptx` in that task directory. Reconcile the CSVs against the workbook and deck: $686,500 actual, $645,000 budget, $41,500 unfavorable, 480 unique documents, and editable embedded PowerPoint charts. The [independent verifier](../../validate.py) documents the expected checks for the recorded output layout; an agent's completion message alone is not verification.
 
-Download the saved files with the Panes SDK's `machine.files.read(path)`, then stop and keep the computer in Panes. This client leaves the selected computer running after completion or failure; it never changes its lifecycle. Running time uses prepaid Panes credit, and the model provider bills model calls separately. Set a provider spending limit before running.
+[Download and verify your own files](../../guides/verify-office-outputs.md), then stop and keep the computer in Panes. This client leaves the selected computer running after completion or failure; it never changes its lifecycle. Running time uses prepaid Panes credit, and the model provider bills model calls separately. Set a provider spending limit before running.
 
 ## Bound the run and inspect failures
 
