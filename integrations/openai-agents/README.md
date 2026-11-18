@@ -36,7 +36,7 @@ uv run --locked office_agent.py --machine YOUR_MACHINE_ID --model YOUR_VISION_MO
 
 The client reads the selected computer's actual state before making a model call. It refuses a stopped computer or unresolved recovery warning. The agent receives the compact [COMPACT_TASK.md](../../COMPACT_TASK.md), works in `C:/work/Panes-office-demo`, and runs Office commands in the signed-in Windows desktop.
 
-Use the saved private viewer to inspect the work. Verify $686,500 actual, $645,000 budget, $41,500 unfavorable, 480 unique documents and editable embedded PowerPoint charts. The [independent validator](../../validate.py) documents the recorded output layout and checks; a model's completion message is not verification. Download the saved files through the Panes SDK's `machine.files.read(path)`.
+Use the saved private viewer to inspect the work. Verify $686,500 actual, $645,000 budget, $41,500 unfavorable, 480 unique documents and editable embedded PowerPoint charts. The [independent validator](../../validate.py) documents the recorded output layout and checks; a model's completion message is not verification. [Download and verify your own files](../../guides/verify-office-outputs.md) with the helper and `--outputs-dir` command.
 
 **Stop the computer in Panes when finished.** This client leaves it running after success, interruption or failure. It cannot create, start, stop, delete, clone or snapshot computers. Panes runtime uses prepaid balance; OpenAI bills model calls separately. Stopped storage continues until you delete the computer in Panes.
 
