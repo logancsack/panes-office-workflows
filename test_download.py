@@ -106,6 +106,15 @@ class ValidationTests(unittest.TestCase):
                 self.assertEqual((directory / name).read_bytes(), data)
                 self.assertEqual(report['hashes'][name], hashlib.sha256(data).hexdigest())
 
+    def test_optimized_python_cannot_report_pass(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            directory = Path(temporary)
+            (directory / 'validation.json').write_text('{"result":"PASS"}')
+            result = subprocess.run([sys.executable, '-O', str(ROOT / 'validate.py'), '--outputs-dir', str(directory)], text=True, capture_output=True)
+            self.assertNotEqual(result.returncode, 0)
+            self.assertIn('validation requires assertions', result.stderr)
+            self.assertEqual(json.loads((directory / 'validation.json').read_text())['result'], 'FAIL')
+
     def test_missing_and_corrupt_selected_files_clear_old_pass_without_fallback(self):
         for content in (None, b'not-an-office-file'):
             with tempfile.TemporaryDirectory() as temporary:

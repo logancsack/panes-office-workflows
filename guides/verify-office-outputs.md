@@ -47,7 +47,7 @@ A successful check writes `validation.json` alongside your downloaded files. It 
 - 60 formula outputs and their saved results, one PivotTable and two Excel charts.
 - Two editable PowerPoint charts, their embedded workbooks and no external deck links.
 
-The report includes hashes of the files checked. A failed recheck replaces an earlier `PASS` with `FAIL` and returns a nonzero exit status. The validator never saves or reserializes the Office files.
+The report includes hashes of the files checked. A failed recheck replaces an earlier `PASS` with `FAIL` and returns a nonzero exit status. The validator never saves or reserializes the Office files. Run Python without `-O` or `PYTHONOPTIMIZE`; the validator refuses modes that disable its checks.
 
 This is a strict check for the recorded compact layout. A differently arranged report needs corresponding checks. The repository's `reference/office-evidence.json` describes the original recording; it is not evidence of a new run. File checks cannot establish that a new Power Query refresh succeeded or that Office is activated. Inspect the actual Windows desktop, query results and fresh run evidence too.
 

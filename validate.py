@@ -95,6 +95,8 @@ def main():
         parser.error('Select an existing output directory with a regular validation.json path.')
     # A failed recheck must never leave an earlier PASS looking current.
     report.write_text(json.dumps({'result': 'FAIL', 'reason': 'Validation has not completed.'}, indent=2) + '\n')
+    if not __debug__:
+        raise SystemExit('FAIL: run Python without -O or PYTHONOPTIMIZE; validation requires assertions.')
     try:
         summary = validate(outputs)
     except Exception:
